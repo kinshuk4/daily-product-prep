@@ -99,3 +99,15 @@ You're the PM of Facebook Groups and you notice usage has dropped 20%. What are 
 
 Make it harder? The drop has been gradual for the past two weeks.
 ```
+
+Problem 11
+
+Here's today's problem:
+
+```
+This question was recently asked by Google.
+
+How many Hershey's chocolate bars were sold in the US last year?
+
+Make it harder? Consider at least two edge cases you didn't think of initially in your formula.
+```
