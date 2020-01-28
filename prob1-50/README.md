@@ -102,12 +102,80 @@ Make it harder? The drop has been gradual for the past two weeks.
 
 Problem 11
 
-Here's today's problem:
-
 ```
 This question was recently asked by Google.
 
 How many Hershey's chocolate bars were sold in the US last year?
 
 Make it harder? Consider at least two edge cases you didn't think of initially in your formula.
+```
+
+Problem 12
+
+```
+This question was recently asked by Microsoft.
+
+Facebook bought Instagram for about $1B, even though Instagram was making no money. Why do you think Facebook did this?
+
+Make it harder? Provide at least three unique reasons why the acquisition was made.
+```
+
+Problem 13
+
+```
+This problem was recently asked by Yelp.
+
+We're always looking for ways to improve our app experience for our users. Based on your research, how would you improve Yelp?
+
+Make it harder? Use data to validate your solution.
+```
+
+Problem 14
+
+```
+This problem was recently asked by Stripe.
+
+One app I use everyday is Spotify. Provide five different examples of APIs they may have.
+
+Make it harder? Provide your answer in under one minute.
+```
+
+Problem 15
+
+```
+This question was recently asked by Yelp.
+
+One of the main activities for anyone here is lunch. We occasionally have catered lunches and we have a bar/cafe that provides drinks. However, one big problem is waiting in lines for these lunches can be long. Design a product that would help Yelp engineers pick up their catered lunch without having to line up.
+
+Make it harder? Whiteboard your solution.
+```
+
+Problem 16
+
+```
+This problem was recently asked by Airbnb.
+
+What do you like about our product?
+
+Make it harder? Provide two improvements with your answer.
+```
+
+Problem 17
+
+```
+This problem was recently asked by Lyft.
+
+Let's say we hired you to start the coming January and during your first month you notice there's a 45% drop in ride orders. What are your next steps?
+
+Make it harder? The drop is regionally restricted to East Coast American cities.
+```
+
+Problem 18
+
+```
+This question was recently asked by Pinterest.
+
+Briefly describe why you think Google acquired YouTube.
+
+Make it harder? Provide at least three unique reasons why the acquisition was made.
 ```
