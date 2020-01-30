@@ -179,3 +179,23 @@ Briefly describe why you think Google acquired YouTube.
 
 Make it harder? Provide at least three unique reasons why the acquisition was made.
 ```
+
+Problem 19
+
+```
+This problem was recently asked by Facebook.
+
+We try to add more socially responsible features to help the community. One that is quite popular is our Crisis Alert feature. How would you improve it?
+
+Make it harder? Provide at least three improvements
+```
+
+Problem 20
+
+```
+This problem was recently asked by LinkedIn.
+
+What's an endpoint? Give an example of one POST request and one GET request we'd likely have here at LinkedIn.
+
+Make it harder? Provide your answer in under one minute.
+```
