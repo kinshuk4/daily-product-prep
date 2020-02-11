@@ -199,3 +199,87 @@ What's an endpoint? Give an example of one POST request and one GET request we'd
 
 Make it harder? Provide your answer in under one minute.
 ```
+
+Problem 21
+
+```
+This question was recently asked by Instagram.
+
+How would you evaluate the success of Instagram Stories?
+
+Make it harder? List at least five different metrics you'd look at.
+```
+
+Problem 22
+
+```
+This problem was asked recently by Microsoft.
+
+Microsoft bought LinkedIn for 26 billion dollars in 2016, even though they had a net loss of $166 million the last year. What was the reasoning for the purchase?
+
+Make it harder? Provide at least three different reasons.
+```
+
+Problem 23
+
+```
+This problem was recently asked by Stripe.
+
+What's your favorite enterprise product, besides Stripe, you use at your current job? Why do you like it?
+
+For this problem we'll be using Confluence.
+
+Make it harder? Explain your solution in under 7 minutes.
+```
+
+Problem 24
+
+```
+This problem was recently asked by Oculus.
+
+The Go was launched last year. Our main purpose of the Oculus Go was to make VR more accessible to potential users. Let's say we hired you as the PM of Go, how would you improve it?
+
+The Oculus Go is a fully standalone VR headset released by Oculus (owned by Facebook) in 2018. It boasts one of the only fully standalone VR experiences on the market as of November 2019.
+
+Make it harder? Your solution should be focused on growth improvements
+```
+
+Problem 25
+
+```
+This question was recently asked by Google.
+
+Estimate the total number of videos on Youtube.
+
+Make it harder? Account for growth of video uploads as Youtube becomes more popular.
+```
+
+Problem 26
+
+```
+This question was recently asked by Uber.
+
+Why is display advertising a bad decision?
+
+Make it harder? Propose a better option than display ads.
+```
+
+Problem 27
+
+```
+This problem was recently asked by Facebook.
+
+Usage on Facebook Events is down 10%. What do you do?
+
+Make it harder? The drop is due to cannibalization from other Facebook products and features.
+```
+
+Problem 28
+
+```
+This problem was asked by Slack.
+
+What would you track here to measure our success?
+
+Make it harder? Use user behavior to prioritize metrics.
+```
