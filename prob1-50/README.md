@@ -283,3 +283,13 @@ What would you track here to measure our success?
 
 Make it harder? Use user behavior to prioritize metrics.
 ```
+
+Problem 29
+
+```
+This problem was recently asked by Spotify.
+
+Let's say we hired you to solve one problem we're facing for you as a user. What would you implement?
+
+Make it harder? Assume you primarily use Spotify while driving.
+```
