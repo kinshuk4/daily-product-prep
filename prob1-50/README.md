@@ -293,3 +293,35 @@ Let's say we hired you to solve one problem we're facing for you as a user. What
 
 Make it harder? Assume you primarily use Spotify while driving.
 ```
+
+Problem 30
+
+```
+This question was recently asked by Apple.
+
+Design a bookshelf.
+
+Make it harder? Whiteboard your solution.
+```
+
+Problem 31
+
+```
+This problem was recently asked by Asana.
+
+What's a tool you think other product managers should use?
+
+For this problem we'll be using Balsamiq, a wireframing app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
+```
+
+Problem 32
+
+```
+This problem was recently asked by Uber Eats.
+
+A couple of years ago Yelp sold off their Eat24 product and saw their stock jump a considerable amount. Why do you think this happened?
+
+Make it harder? Provide at least three different reasons.
+```
