@@ -325,3 +325,13 @@ A couple of years ago Yelp sold off their Eat24 product and saw their stock jump
 
 Make it harder? Provide at least three different reasons.
 ```
+
+Problem 33
+
+```
+This problem was asked recently by Facebook.
+
+How much money does Facebook make in ads every year?
+
+Make it harder? Come up with two unique ways to estimate ad revenue
+```
