@@ -425,3 +425,17 @@ Make it harder? The drop is sudden.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/36?email=kinshukram@gmail.com&token=9dc93abad0216b3afc94057056533f0cfd2e04a46b40acccbc6829932b813f3512e0511b208cc94561a8fa359719375d1631ae7091c98daaa64b47943dae718d835fa9f955f99eb0)
+
+Problem 37
+
+```
+This problem was asked recently by Yelp.
+
+Yelp is trying to enter into the Asian market and you're the PM on the expansion team. How would you figure out growth in that market?
+
+Make it harder? Prioritize at least 6 different growth channels.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/37?email=kinshukram@gmail.com&token=6a27997516203332b044cd0cda3380582fabc4e34de4f9fd283b59a6e3e50661d17f3c4bce0188e4c2efe65c92a00c716e68a7947fa1ad3bc01e447f1af7c0a7f055e25dfa78be80)
