@@ -439,3 +439,17 @@ Make it harder? Prioritize at least 6 different growth channels.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/37?email=kinshukram@gmail.com&token=6a27997516203332b044cd0cda3380582fabc4e34de4f9fd283b59a6e3e50661d17f3c4bce0188e4c2efe65c92a00c716e68a7947fa1ad3bc01e447f1af7c0a7f055e25dfa78be80)
+
+Problem 38
+
+```
+This problem was asked by Google.
+
+Describe what happens when you type a URL into your browser and press Enter.
+
+Make it harder? Provide a comprehensive answer covering DNS Lookup, request handling, and rendering.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/38?email=kinshukram@gmail.com&token=a777f9b8f49a441d1b2cd887d3ee1848dfab00629c668633960facebc98a78acd9bb423062558fdb92c097ee0963f25064c44eb6d610587644a87636acbad789db5707a711b4f8ab)
