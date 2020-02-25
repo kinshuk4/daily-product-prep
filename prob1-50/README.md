@@ -453,3 +453,20 @@ Make it harder? Provide a comprehensive answer covering DNS Lookup, request hand
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/38?email=kinshukram@gmail.com&token=a777f9b8f49a441d1b2cd887d3ee1848dfab00629c668633960facebc98a78acd9bb423062558fdb92c097ee0963f25064c44eb6d610587644a87636acbad789db5707a711b4f8ab)
+
+Problem 39
+
+```
+This problem was recently asked by Invision.
+
+Since we're a completely remote team, it's an understatement to say we use a lot of collaboration tools. What's a collaboration product your teams use and why do you like it?
+
+For this problem we'll be using Slack.
+
+Make it harder? Include at least two alternatives to your product and talk about why yours is superior.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/39?email=kinshukram@gmail.com&token=0d70961cd2c804b877f3a09627a4f801d5242d55e6c3af0482f9e85c14873cea7d80a9c74c1650fad57f20a003c472591ef38e1ed7c17cba6b7863c45edee6d8d1bb9e27bf5b2271)
+
