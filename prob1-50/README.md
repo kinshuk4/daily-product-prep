@@ -470,3 +470,18 @@ Make it harder? Include at least two alternatives to your product and talk about
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/39?email=kinshukram@gmail.com&token=0d70961cd2c804b877f3a09627a4f801d5242d55e6c3af0482f9e85c14873cea7d80a9c74c1650fad57f20a003c472591ef38e1ed7c17cba6b7863c45edee6d8d1bb9e27bf5b2271)
 
+Problem 40
+
+Here's today's problem:
+
+```
+This question was recently asked by Shopify.
+
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/40?email=kinshukram@gmail.com&token=1908a8c48aadf487ad126c305ffef942f07a9d2df858140001a1b60a088e980422863a89dc4e8ce7e97d4aad6127644358f5c711e315d2a77d892a9a713a83a3e4b3597fe77f4df7)
