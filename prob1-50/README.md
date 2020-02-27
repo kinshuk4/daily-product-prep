@@ -485,3 +485,18 @@ Make it harder? The elevator is used for heavy machinery in industrial settings.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/40?email=kinshukram@gmail.com&token=1908a8c48aadf487ad126c305ffef942f07a9d2df858140001a1b60a088e980422863a89dc4e8ce7e97d4aad6127644358f5c711e315d2a77d892a9a713a83a3e4b3597fe77f4df7)
+
+Problem 41
+
+```
+This problem was asked by Dropbox.
+
+How big is the market for Dropbox for SMBs?
+
+Make it harder? Consider up-sold items in your solution.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/41?email=kinshukram@gmail.com&token=9607cebe6ca16d85c0935ec459e0791cb07ab0df09994a31d7188c8ccd6946b18e66f057329c2c3eb0b239916c25d011c1e09b04de5a65623794f76ee78a3392d70f73430f9bde02)
+
