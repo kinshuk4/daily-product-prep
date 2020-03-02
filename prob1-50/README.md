@@ -500,3 +500,18 @@ Make it harder? Consider up-sold items in your solution.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/41?email=kinshukram@gmail.com&token=9607cebe6ca16d85c0935ec459e0791cb07ab0df09994a31d7188c8ccd6946b18e66f057329c2c3eb0b239916c25d011c1e09b04de5a65623794f76ee78a3392d70f73430f9bde02)
 
+Problem 42
+
+Here's today's problem:
+
+```
+This problem was recently asked by Uber.
+
+UberEats has become one of our premier offerings. How do you think we track it's success?
+
+Make it harder? Do this question twice: first measure the success on the consumer side, and then measure the success on the business side.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/42?email=kinshukram@gmail.com&token=8302e612e4a52450c5741f90d8cb829f0e1664fa65089914fb0805ee42d7035e857af6095da4ff00eb41750021be9dca5cb9cf43a3d27c08a4590c16ddcc0c55dcb5ac2aab32c1c5)
