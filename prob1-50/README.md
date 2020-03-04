@@ -515,3 +515,31 @@ Make it harder? Do this question twice: first measure the success on the consume
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/42?email=kinshukram@gmail.com&token=8302e612e4a52450c5741f90d8cb829f0e1664fa65089914fb0805ee42d7035e857af6095da4ff00eb41750021be9dca5cb9cf43a3d27c08a4590c16ddcc0c55dcb5ac2aab32c1c5)
+
+Problem 43
+
+```
+This problem was recently asked by Disney.
+
+How would you improve how we serve content on ESPN?
+
+Make it harder? Assume you're improving the mobile app.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/43?email=kinshukram@gmail.com&token=de80830ff2abcd5dfcf530d008be3e2c993842344f9b0d0dcb48ab884ca522a95bae6b9bad1c51cbb3bd71a2062cfd09498df2d5474a845af26258605af22477546de75bf2f9eac6)
+
+Problem 44
+
+```
+This problem was asked by Salesforce.
+
+Let's say we had a 35% drop in retention on our Salesforce CRM. How would you figure out what to do next?
+
+Make it harder? The drop is predominantly companies in Germany, France, and Spain.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/44?email=kinshukram@gmail.com&token=d4d5cfe1f5d24ebbac2f230f6580f231f191fcfe604aecdd4b28b3a7dd363f4e9d91659997c988a7c4645afca9361d782463153fe2b48496ea7d8fddbbffb6a8e2139fc658dcc8a3)
