@@ -543,3 +543,47 @@ Make it harder? The drop is predominantly companies in Germany, France, and Spai
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/44?email=kinshukram@gmail.com&token=d4d5cfe1f5d24ebbac2f230f6580f231f191fcfe604aecdd4b28b3a7dd363f4e9d91659997c988a7c4645afca9361d782463153fe2b48496ea7d8fddbbffb6a8e2139fc658dcc8a3)
+
+Problem 45
+
+```
+This problem was asked recently by Microsoft.
+
+We bought GitHub for $7.5 billion in 2018. Name some reasons for the acquisition.
+
+Make it harder? Provide at least 3 separate reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/45?email=kinshukram@gmail.com&token=4ceb93f58d1255f2e0bf0b3e6ac226bd0d95c36d9681ca1e0aabc734f5d58f5f6c979c2f00819320df6f0260103c4b21baa9dc9d2b643c916b4c3b1d9c0a092795a2d750582210c6)
+
+Problem 46
+
+```
+This problem was asked recently by Microsoft.
+
+We bought GitHub for $7.5 billion in 2018. Name some reasons for the acquisition.
+
+Make it harder? Provide at least 3 separate reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/45?email=kinshukram@gmail.com&token=4ceb93f58d1255f2e0bf0b3e6ac226bd0d95c36d9681ca1e0aabc734f5d58f5f6c979c2f00819320df6f0260103c4b21baa9dc9d2b643c916b4c3b1d9c0a092795a2d750582210c6)
+
+Problem 47
+
+```
+This problem was recently asked by Apple.
+
+What's your favorite non-tech product that you use frequently?
+
+For this problem we'll be using Inflatable Travel Pillows.
+
+Make it harder? Provide at least one improvement to this product.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/47?email=kinshukram@gmail.com&token=6dc372e353fff469a5626a22a1163d88540b3d306cd233a685ca2022ba75140605b4aa94a70f207af7a552e6b469a63a9d0be4c81275a3f77eacf11740790e9d3f87092fe0163be6)
