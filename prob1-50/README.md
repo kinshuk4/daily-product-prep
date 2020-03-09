@@ -587,3 +587,18 @@ Make it harder? Provide at least one improvement to this product.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/47?email=kinshukram@gmail.com&token=6dc372e353fff469a5626a22a1163d88540b3d306cd233a685ca2022ba75140605b4aa94a70f207af7a552e6b469a63a9d0be4c81275a3f77eacf11740790e9d3f87092fe0163be6)
+
+Problem 48
+
+```
+This problem was asked recently by Spotify.
+
+Estimate the bandwidth required to support our app.
+
+Make it harder? Estimate in petabytes per month.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/48?email=kinshukram@gmail.com&token=8e3a1ea598529a596ea4426e5a25ce0c6bda6f9b9f082ae6167ad4c2ea8000df086e615a987da6f08a48ef1194c62cd2035ea966d59d8baa8aad06cf884a90f6e3aa906ba4a87846)
+
