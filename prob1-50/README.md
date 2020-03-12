@@ -602,3 +602,30 @@ Make it harder? Estimate in petabytes per month.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/48?email=kinshukram@gmail.com&token=8e3a1ea598529a596ea4426e5a25ce0c6bda6f9b9f082ae6167ad4c2ea8000df086e615a987da6f08a48ef1194c62cd2035ea966d59d8baa8aad06cf884a90f6e3aa906ba4a87846)
 
+Problem 49
+
+```
+This question was recently asked by Facebook.
+
+I love travelling and meeting new people. Sometimes, though, it's hard to communicate in countries that don't primarily speak English. Design a new way for tourists to communicate.
+
+Make it harder? Prioritize your feature set.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/49?email=kinshukram@gmail.com&token=02771da077306d1588e55fe0498839f541607207c89e03b15af7264b1852bf784d7c374dcd38db7fbab130a008e9033a798f54dd80cde93fa886f2177c183a5a284292610019d6a8)
+
+Problem 50
+
+```
+This problem was asked by Google.
+
+How would you improve Google Maps?
+
+Make it harder? Offer at least two big improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/50?email=kinshukram@gmail.com&token=f9617b72275efccf49f6811aec0feece94bf1e2927444776a5d37ab9a92fa383221490e51b4c9a621828cbd8f59e9548e4281faa8229fe06add47dbdc134c68cb5df563a11b70474)
