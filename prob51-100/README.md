@@ -45,3 +45,17 @@ Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/53?email=kinshukram@gmail.com&token=7b555b2eaa8387803026669cedcb374d19035455fc289a3e6b8ee335841ef7f89c198ee79af413ee8834903e418b21a29659c698e4a1758e92950adace4e9364aec6fb89df7ded9f)
+
+Problem 54
+
+```
+This problem was asked recently by Netflix.
+
+How would you measure the success of the recommendation engine at Netflix?
+
+Make it harder? Map at least 5 unique user behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/54?email=kinshukram@gmail.com&token=8a27aa6659a7be83a78b0bf93497e8dc1cb34710cdeae31614e6eb38a6af99df2a6018961bad6d410038b8c89328185da0bb3ae7069738f0c7495ae8acb90b338e510c786d1b81f7)
