@@ -59,3 +59,41 @@ Make it harder? Map at least 5 unique user behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/54?email=kinshukram@gmail.com&token=8a27aa6659a7be83a78b0bf93497e8dc1cb34710cdeae31614e6eb38a6af99df2a6018961bad6d410038b8c89328185da0bb3ae7069738f0c7495ae8acb90b338e510c786d1b81f7)
+
+Problem 55
+
+Here's today's problem:
+
+```
+This problem was asked recently by RealSelf.
+
+Let's say RealSelf selected South Korea as the next market to expand into. Walk me through your strategy.
+
+RealSelf is a healthcare marketplace where consumers research aesthetic treatments (plastic surgery, etc.) and connect with physicians.
+
+Make it harder? Your strategy should consider both supply and demand.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/55?email=kinshukram@gmail.com&token=ea2620693efda201f14ab3d43c7d9665474074126a502ee5f0fc80d1c580c5aaa058a76a18c63e35e4b460f09497891f2e3c6d2c398af46f54d910ae8fe18d59bc5be83fe4f6b2d2)
+
+Problem 56
+
+```
+This problem was asked recently by Stripe.
+
+Why did Stripe launch Stripe Atlas, Stripe Press, and acquire Indie Hackers?
+
+Stripe Atlas is a service that lets you create a company easily by handling paperwork, bank visits, and legal services online.
+
+Stripe Press publishes books relating to economic and technological advancement.
+
+Indie Hackers is a website and community of independent bootstrapped entrepreneurs starting businesses.
+
+Make it harder? Be concise - time yourself and answer in under 3 minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/56?email=kinshukram@gmail.com&token=4e09a8b7c531df1e7524d27a2b32fcdc446c3b8fc4f13f46807e60ed4d7e5b45161045ffb6428975c83cedaa3f79dab8ea7b329f63e96de0360a60598067a4fab81242b9374164c1)
