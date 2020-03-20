@@ -97,3 +97,17 @@ Make it harder? Be concise - time yourself and answer in under 3 minutes.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/56?email=kinshukram@gmail.com&token=4e09a8b7c531df1e7524d27a2b32fcdc446c3b8fc4f13f46807e60ed4d7e5b45161045ffb6428975c83cedaa3f79dab8ea7b329f63e96de0360a60598067a4fab81242b9374164c1)
+
+Problem 57
+
+```
+This problem was recently asked by Yelp.
+
+What is the benefit of having a control group when testing?
+
+Make it harder? Give an example to help illustrate your point.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/57?email=kinshukram@gmail.com&token=9efdb062152c086b3721d1b47db1171e3434970ea7c56f1f336e485cf36c88a22bc2fe2a91582e8e239dee91cf0d49ae9de5d23ff79b52cb044d978741870b8374be693a4a76273b)
