@@ -111,3 +111,33 @@ Make it harder? Give an example to help illustrate your point.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/57?email=kinshukram@gmail.com&token=9efdb062152c086b3721d1b47db1171e3434970ea7c56f1f336e485cf36c88a22bc2fe2a91582e8e239dee91cf0d49ae9de5d23ff79b52cb044d978741870b8374be693a4a76273b)
+
+Problem 58
+
+```
+This problem was recently asked by Amazon.
+
+What's your favorite product and why?
+
+For this problem we'll be using Netflix.
+
+Make it harder? Follow along and use Netflix as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/58?email=kinshukram@gmail.com&token=9017b4d9c9a2a05bad1e0aab784d8fed0fcbf0c904538935c651f69bf5da4a341ba0141ec5f19419f6bf417a48b87689a0d5cb0f0d986ea82bec91123074ed0821d61e718b210955)
+
+Problem 59
+
+```
+This problem was recently asked by Quora.
+
+Explain statistical significance and why it's important.
+
+Make it harder? Say your answer out loud - do so in under 1 minute.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/59?email=kinshukram@gmail.com&token=99ba38dff14bf525ce2a3fab3d41cbcf8ec4d5f68c3dfab47ee1df39686354258e6e7f79d987c237e60bd0f9ee7c14d1e5d1c82a47f9adbabe853794d557304ebf6c196b4338ec13)
