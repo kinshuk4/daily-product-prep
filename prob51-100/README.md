@@ -141,3 +141,60 @@ Make it harder? Say your answer out loud - do so in under 1 minute.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/59?email=kinshukram@gmail.com&token=99ba38dff14bf525ce2a3fab3d41cbcf8ec4d5f68c3dfab47ee1df39686354258e6e7f79d987c237e60bd0f9ee7c14d1e5d1c82a47f9adbabe853794d557304ebf6c196b4338ec13)
+
+Problem 60
+
+```
+This question was recently asked by Google.
+
+Imagine that you are a PM at Airbnb, and you are assigned to build a new way for businesses to travel. How would you measure if this hypothetical feature was successful?
+
+Make it harder? Analyze core behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/60?email=kinshukram@gmail.com&token=623cfaed8d2ccfbb1a19d883b5fed71cb780cde85bdcd423a01a32a40ba8968b65cdcf9af15d1747bf83c69c4abbfd08bf8e8b668cb9153c055ebfe8aaee23f1b06b109897123638)
+
+Problem 61
+
+```
+This problem was recently asked by Spotify.
+
+Let's say our installs increased 25% — what are reasons this might have happened?
+
+Make it harder? Provide four different reasons why this could have happened.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/61?email=kinshukram@gmail.com&token=3b3a85d348fa73c773c2614625ca85dc9b66c6aba8d5f22994cf0de48c0aa24531afe3d90856867ced58fa44c45cd94cdf54af578ecc610233705026c6f385619290d2330e9bceb6)
+
+Problem 62
+
+```
+This problem was recently asked by Airbnb.
+
+Pick any product, not including Airbnb. How would you make it better?
+
+For this solution, we'll be using Twitch.
+
+Make it harder? Follow along and use Twitch in your response.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/62?email=kinshukram@gmail.com&token=2f0da8a1c4a9223684d0aaf9d2445399e344ed5d8f4f2b19553246f861ff6b9fc37a6bc1ca7e089c4c282f0c77bd2f7702f476c3c26575e4741c7360a57ca3552cf0448721511c19)
+
+Problem 63
+
+```
+This question was recently asked by Apple.
+
+Design a better dog collar.
+
+Make it harder? Propose at least three different improvements you can make to existing collars.
+```
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/63?email=kinshukram@gmail.com&token=453ddec5ebcbdf15d338940817b35166b39ce77abfe646562ff9f353b42655031a15f441f344c53409eafdf35cd68d88031d098ee9004d622785d29db2c0079e2cbee051c645e844)
+
