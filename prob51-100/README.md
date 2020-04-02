@@ -225,3 +225,19 @@ Make it harder? Analyze core behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/65?email=kinshukram@gmail.com&token=169fc6cdc2075088cebc6df0ff261285c7c266b61f8caa044318fcc918d099cb728bd032fe30ddc867bfa13369403dab8bb22f7751d8593c5469d46055b6511af504e1d8cdd7c17c)
+
+Problem 66
+
+```
+This problem was recently asked by Google.
+
+Tell me about a product you like.
+
+For this problem we'll be using Chess.com.
+
+Make it harder? Follow along and use Chess.com as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/66?email=kinshukram@gmail.com&token=f93cb8c3f9e5d4b6f67537a96637894a7122f961983ec07e51a18030d168f2fc8f2106becbd66661ef7918ddaca29e1a72a508d306d7d791ab89fdcb5e277f25abd3b65bb98ee772)
