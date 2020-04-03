@@ -241,3 +241,19 @@ Make it harder? Follow along and use Chess.com as your answer.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/66?email=kinshukram@gmail.com&token=f93cb8c3f9e5d4b6f67537a96637894a7122f961983ec07e51a18030d168f2fc8f2106becbd66661ef7918ddaca29e1a72a508d306d7d791ab89fdcb5e277f25abd3b65bb98ee772)
+
+Problem 67
+
+```
+This question was recently asked by Facebook.
+
+Why do you want to work at Facebook?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
+
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/67?email=kinshukram@gmail.com&token=22644284e3440c81c2d7a6263ddd817a102d2e7e780dfd0a960dc5482cef7f04b523aa87d6ca8e34b818e7e47d87112825ebdbdf94c9172d512cc246b1ec85b48672325a9bc52af7)
