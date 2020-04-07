@@ -257,3 +257,31 @@ Make it harder? Provide at least three distinct reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/67?email=kinshukram@gmail.com&token=22644284e3440c81c2d7a6263ddd817a102d2e7e780dfd0a960dc5482cef7f04b523aa87d6ca8e34b818e7e47d87112825ebdbdf94c9172d512cc246b1ec85b48672325a9bc52af7)
+
+Problem 68
+
+```
+This problem was asked recently by Fiverr.
+
+At Fiverr, we're always looking for new markets to enter. One region we're looking at in particular is Asia. How would you grow Fiverr in Asia?
+
+Make it harder? Focus on China.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/68?email=kinshukram@gmail.com&token=f6fad3289afd5a5c8b472dc0538676e48d5910a84d89ce48f071b3ed709db872dfda5294ead3c87ddc320a73503b8ef642d91bba4d99e7b7b271fa51e35d451adb9d9fc1665a3a30)
+
+Problem 69
+
+```
+This problem was recently asked by Venmo.
+
+What would you do if, all of a sudden, our web traffic dropped by 100%?
+
+Make it harder? Ask a friend to mock you with this question and use the solution guide as a prompt.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/69?email=kinshukram@gmail.com&token=14c2a4120dc95f3b6048a5c887365d1309a19a48ed639c75bf3ef787c8bd5e079fab22248dccd151fde1c785a266da273344ae05b7ef7c0302e36817f9e8f0274108e8ae5dc52335)
