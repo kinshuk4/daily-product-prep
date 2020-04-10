@@ -285,3 +285,35 @@ Make it harder? Ask a friend to mock you with this question and use the solution
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/69?email=kinshukram@gmail.com&token=14c2a4120dc95f3b6048a5c887365d1309a19a48ed639c75bf3ef787c8bd5e079fab22248dccd151fde1c785a266da273344ae05b7ef7c0302e36817f9e8f0274108e8ae5dc52335)
+
+Problem 70
+
+```
+This problem was asked recently by WhatsApp.
+
+Let's say WeChat wanted to have a larger presence here. What should they do to further expand into America?
+
+Make it harder? Evaluate at least five different channels.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/70?email=kinshukram@gmail.com&token=c1470a5da4d03fe15e22e40a8c19531d0d4f73c1a25bf58c93f4d45dba3c9b14236a35701055e753cdcd09e103b7cb045fc700a6c8d75ed19cb8c5deb65bfe8ccc8360a6cb3dc2f5)
+
+Problem 71
+
+```
+This problem was asked recently by Airbnb.
+
+What are some reasons why WeWork failed?
+
+Make it harder? Name at least three different reasons.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/71?email=kinshukram@gmail.com&token=96b3365360b24cd38402888f923c19dc51604b577a6b8949576c6871c5719e25dc2d3ea1724b15024d9a8587a6081c5d34753971f39adef2a9a15ee46bf8777cf8627fd1441efca1)
