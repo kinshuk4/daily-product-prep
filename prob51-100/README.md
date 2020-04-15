@@ -317,3 +317,65 @@ Thanks for being a subscriber, and have a great day!
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/71?email=kinshukram@gmail.com&token=96b3365360b24cd38402888f923c19dc51604b577a6b8949576c6871c5719e25dc2d3ea1724b15024d9a8587a6081c5d34753971f39adef2a9a15ee46bf8777cf8627fd1441efca1)
+
+Problem 72
+
+```
+This problem was recently asked by Facebook.
+
+How would you improve Instagram's share feature?
+
+Make it harder? Be precise - cover all topics in the Improve a Product formula in under five minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/72?email=kinshukram@gmail.com&token=ea09b8b6b6ef0ba5336b98c5a15b63035d54232f3bc1e07c67db6ced69cad6ea96363a1f357931fa59e8225c412d335d44be242026f1732394cd9c482b1212d084e2ee882fe75899)
+
+Problem 73 
+
+```
+This question was recently asked by Twitch.
+
+Why do you want to work at Twitch?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/73?email=kinshukram@gmail.com&token=647b9b0b597504c8227ece5ec4d6555ab714ad89faab945137bbd88e1337c28f11b5d73f813a91cd96e76b7506fdd68dc1a0e6537f11c5a380c93746a3bafc1babe900dacd5cce86)
+
+Problem 74
+
+```
+This question was recently asked by Airbnb.
+
+Design a better way for people to vote in the US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/74?email=kinshukram@gmail.com&token=08880c399d24066b523df168d4b452033fb90387099d11c87a1e49437cc69813111a3f1b9d693425e3010a52510d1a96fd181fa3df0de85c34f015f489e03dca613c793a2cf29beb)
+
+Problem 75
+
+```
+This problem was asked recently by PayPal.
+
+Late last year we decided to acquire Honey for almost $4 billion. What are some reasons we may have done this?
+
+Make it harder? Name at least five different reasons.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/75?email=kinshukram@gmail.com&token=526c6708282805fa444132367f08dba2c1dd1a6ec89c9c9da8b78c3e11c9af6f690b5b4b2471ca33e88f197e60a6a761e5b2e96c5da4571ad0a20baf1ed2a127c78e3d2e6c0485ad)
