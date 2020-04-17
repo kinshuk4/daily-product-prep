@@ -252,8 +252,6 @@ Why do you want to work at Facebook?
 Make it harder? Provide at least three distinct reasons.
 ```
 
-
-
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/67?email=kinshukram@gmail.com&token=22644284e3440c81c2d7a6263ddd817a102d2e7e780dfd0a960dc5482cef7f04b523aa87d6ca8e34b818e7e47d87112825ebdbdf94c9172d512cc246b1ec85b48672325a9bc52af7)
@@ -312,8 +310,6 @@ What are some reasons why WeWork failed?
 Make it harder? Name at least three different reasons.
 ```
 
-Thanks for being a subscriber, and have a great day!
-
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/71?email=kinshukram@gmail.com&token=96b3365360b24cd38402888f923c19dc51604b577a6b8949576c6871c5719e25dc2d3ea1724b15024d9a8587a6081c5d34753971f39adef2a9a15ee46bf8777cf8627fd1441efca1)
@@ -342,8 +338,6 @@ Why do you want to work at Twitch?
 Make it harder? Provide at least three distinct reasons.
 ```
 
-Thanks for being a subscriber, and have a great day!
-
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/73?email=kinshukram@gmail.com&token=647b9b0b597504c8227ece5ec4d6555ab714ad89faab945137bbd88e1337c28f11b5d73f813a91cd96e76b7506fdd68dc1a0e6537f11c5a380c93746a3bafc1babe900dacd5cce86)
@@ -357,8 +351,6 @@ Design a better way for people to vote in the US Presidential election.
 
 Make it harder? Propose and evaluate at least three different solutions.
 ```
-
-Thanks for being a subscriber, and have a great day!
 
 ------
 
@@ -374,8 +366,20 @@ Late last year we decided to acquire Honey for almost $4 billion. What are some 
 Make it harder? Name at least five different reasons.
 ```
 
-Thanks for being a subscriber, and have a great day!
-
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/75?email=kinshukram@gmail.com&token=526c6708282805fa444132367f08dba2c1dd1a6ec89c9c9da8b78c3e11c9af6f690b5b4b2471ca33e88f197e60a6a761e5b2e96c5da4571ad0a20baf1ed2a127c78e3d2e6c0485ad)
+
+Problem 76
+
+```
+This problem was asked recently by Google.
+
+How much oil does the United States import (in barrels per year)?
+
+Make it harder? Ask a friend to provide a mock interview with this question. Tell them to use the solution as a guide if you get stuck.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/76?email=kinshukram@gmail.com&token=0e97f9b034235c6164148c5e97b2d291889fd1042a22f31572defbe5e338c2b12da06f2fd3895fa0c125ad5a62f9dbf5ec723f77837f81d3167db649491c66d8b3681c4f24021c22)
