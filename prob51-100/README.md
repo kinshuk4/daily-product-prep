@@ -383,3 +383,78 @@ Make it harder? Ask a friend to provide a mock interview with this question. Tel
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/76?email=kinshukram@gmail.com&token=0e97f9b034235c6164148c5e97b2d291889fd1042a22f31572defbe5e338c2b12da06f2fd3895fa0c125ad5a62f9dbf5ec723f77837f81d3167db649491c66d8b3681c4f24021c22)
+
+Problem 77
+
+```
+This problem was asked recently by Microsoft.
+
+What are some reasons why Google acquired Fitbit?
+
+Make it harder? Name at least five different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/78?email=kinshukram@gmail.com&token=3723bebd8dfd616cfc17a4218bd0256a146531e1d05a75080f6508b7590faae3d1d283b2632258d3fce1893b1188a515870fa10897a41d773919a74fe043360204225d0267ba99ae)
+
+Problem 78
+
+```
+This problem was recently asked by Microsoft.
+
+What's your biggest weakness?
+
+Make it harder? Use being too agreeable as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/77?email=kinshukram@gmail.com&token=c98fd745a08a86f4d08785c6929afbba7cac3db29bfd51fecb2dc13b0d2a82ac11dbd8d6f7ca7928fb9353215bc30499633a010a00b9a63caefc2fae4f1398b978df7e2ea545676b)
+
+Problem 79
+
+```
+This problem was asked recently by Google.
+
+How would you measure metrics for the BART?
+
+BART stands for Bay Area Rapid Transit and is the public train transportation system in the San Francisco Bay Area.
+
+Make it harder? Come up with at least 5 different metrics.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/79?email=kinshukram@gmail.com&token=1156fd04b0d97271b0590a7c06e2ce49e81c77da8948ae4f93b64a9a0e657842230abfa26675ea2607b06d7d64f00354b0328eab4427bb93e938971ca1f8176af0cd456f73736e8c)
+
+Problem 80
+
+```
+This problem was recently asked by Disney.
+
+The NBA has become the most watched sport in North America. One thing many of it's watchers complain about though is access to games. How would you improve NBA League Pass for basketball fans across the world?
+
+NBA League Pass is the NBA's proprietary live and on-demand game streaming service.
+
+Make it harder? Offer at least two unique improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/80?email=kinshukram@gmail.com&token=ca751118f0eadccaee958dd00c6bbbfa29a392b17c51fa636c0a74b06725068927955edf7c43c6af756504b5f9f513ee052ac6f562c07e2fdecef5e89187bd6a3c91b2b9b3c4a3cd)
+
+Problem 81
+
+```
+This problem was recently asked by Salesforce.
+
+Tell me about a SaaS product you really like using.
+
+For this problem we'll be using Shopify.
+
+Make it harder? Use Shopify and pretend you, yourself, built a custom portrait painting business through the platform.
+```
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/81?email=kinshukram@gmail.com&token=5bc52ba175a0e3d82422dd9d52b973cc2a9456a6ff520b5384a4e2e011174a1aa38f8f3ace02cd6203ab50b5c4c04d4dfcbc54d870b3d4be1eb85850d8f60c1a3d34434700bf8703)
+
