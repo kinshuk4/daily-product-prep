@@ -394,6 +394,8 @@ What are some reasons why Google acquired Fitbit?
 Make it harder? Name at least five different reasons.
 ```
 
+
+
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/78?email=kinshukram@gmail.com&token=3723bebd8dfd616cfc17a4218bd0256a146531e1d05a75080f6508b7590faae3d1d283b2632258d3fce1893b1188a515870fa10897a41d773919a74fe043360204225d0267ba99ae)
@@ -458,3 +460,16 @@ Make it harder? Use Shopify and pretend you, yourself, built a custom portrait p
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/81?email=kinshukram@gmail.com&token=5bc52ba175a0e3d82422dd9d52b973cc2a9456a6ff520b5384a4e2e011174a1aa38f8f3ace02cd6203ab50b5c4c04d4dfcbc54d870b3d4be1eb85850d8f60c1a3d34434700bf8703)
 
+Problem 82
+
+```
+This problem was asked recently by Lime.
+
+What is the size of the micromobility market in the United States?
+
+Make it harder? Use existing micromobility company valuations to check your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/82?email=kinshukram@gmail.com&token=7de3e2cb4191cf335ed2c30cd215e7f9d872064a1f28cd3c6b4718cc431a5114c0ccfd3f2568b3b43f33699c744cb78033b4059a0cd3e9a9ce6333ad307245fb9aa694f369376490)
