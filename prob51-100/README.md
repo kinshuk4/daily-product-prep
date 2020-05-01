@@ -473,3 +473,59 @@ Make it harder? Use existing micromobility company valuations to check your answ
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/82?email=kinshukram@gmail.com&token=7de3e2cb4191cf335ed2c30cd215e7f9d872064a1f28cd3c6b4718cc431a5114c0ccfd3f2568b3b43f33699c744cb78033b4059a0cd3e9a9ce6333ad307245fb9aa694f369376490)
+
+Problem 83
+
+```
+This problem was recently asked by 23andMe.
+
+Assume our conversion dropped 33%, what would you do?
+
+Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/83?email=kinshukram@gmail.com&token=eb68769fb04aaf062405a203b092e8fffec057a21edf1bad078f291f48b278769a4b966bedc6217132a83f34f68c7a5e3fec7da84803eb24839250879a918cfd5475252a887f2e29)
+
+Problem 84
+
+```
+This question was recently asked by Facebook.
+
+Why do you want to work at Oculus?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/84?email=kinshukram@gmail.com&token=f8e4406c279004c59bdb1a42dbcddfcd20404ff088c6822acaaec18b0a0deb20c8feb87a9b9fbcd6c3c08b2ef94f112bcd2df6fccdc9dfe2fa5559c6eb6a94cd1bc02940b7e8d3fb)
+
+Problem 85
+
+```
+This problem was asked recently by Facebook.
+
+Let's say it's 2009, and Facebook just launched the Like button. You want to extend it with reactions. Explain, in plain English, how to accomplish that technically.
+
+Make it harder? Make it so your system allows as many types of reactions as you want.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/85?email=kinshukram@gmail.com&token=81b3a047c724bc0d2d83773db2c52acdd1f658035f4f8970b3c1155e4be5630a7e9c2c11f046bf459f154008361cfe838e4e0f3ea3caa9812ce4a1f6ec86655cbdd33f737af2d80e)
+
+Problem 86
+
+```
+This question was recently asked by Asana.
+
+How would you design ClassPass for kids?
+
+Make it harder? Whiteboard your solution.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/86?email=kinshukram@gmail.com&token=8ebec8220980cd6c06e80328004c62e03890b6589a5f71d98ac514f38eb56a09a01958e0267810dd59e7b7aeeaaa7ffc459172f3f5a32b644dc3629cb4d7fb9926db1ed202959500)
