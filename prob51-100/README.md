@@ -529,3 +529,19 @@ Make it harder? Whiteboard your solution.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/86?email=kinshukram@gmail.com&token=8ebec8220980cd6c06e80328004c62e03890b6589a5f71d98ac514f38eb56a09a01958e0267810dd59e7b7aeeaaa7ffc459172f3f5a32b644dc3629cb4d7fb9926db1ed202959500)
+
+Problem 87
+
+```
+This problem was recently asked by Microsoft.
+
+Pick any physical product you really like and tell me about it.
+
+For this problem we'll be using Patagonia.
+
+Make it harder? Follow along and use Patagonia as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/87?email=kinshukram@gmail.com&token=fe8593504cdaa64036103c17e5d04c3a5c0c6966a85400cbec76ad70ba22f62c56239012b7ed978258cffbe5e3b711ffd2e5aa0050ee2d412c4a83e0286f3f3d7c7fcf4c4046a1e3)
