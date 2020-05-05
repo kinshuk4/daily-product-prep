@@ -545,3 +545,29 @@ Make it harder? Follow along and use Patagonia as your answer.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/87?email=kinshukram@gmail.com&token=fe8593504cdaa64036103c17e5d04c3a5c0c6966a85400cbec76ad70ba22f62c56239012b7ed978258cffbe5e3b711ffd2e5aa0050ee2d412c4a83e0286f3f3d7c7fcf4c4046a1e3)
+
+Problem 88
+
+```
+This problem was asked recently by reddit.
+
+Let's say your first job here was to expand into the Japanese market. How would you do that?
+
+Make it harder? What are the risks for entering Japan?
+```
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/88?email=kinshukram@gmail.com&token=6d774d69beb1b0d275521f833521e281b2e3bf223d81bf9b68c111e88be0ae0b75c5e20bd77f78286e387251cb9b25068d8d5fc6c7b9afe94c912a4d104e39e144985030a76a5836)
+
+Problem 89
+
+```
+This problem was recently asked by Netflix.
+
+How would you improve our product?
+
+Make it harder? Offer at least two unique improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/89?email=kinshukram@gmail.com&token=43fd8dcde574b1630c47f1fec460928697dddbd67df0bf803ac6bd29a9265b1b51b637f3253b877fff21469cd7a68457382cbc839a1fe7087065ee14b9c8c6449b2abb332e685843)
