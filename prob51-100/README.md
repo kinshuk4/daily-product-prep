@@ -571,3 +571,17 @@ Make it harder? Offer at least two unique improvements.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/89?email=kinshukram@gmail.com&token=43fd8dcde574b1630c47f1fec460928697dddbd67df0bf803ac6bd29a9265b1b51b637f3253b877fff21469cd7a68457382cbc839a1fe7087065ee14b9c8c6449b2abb332e685843)
+
+Problem 90
+
+```
+This problem was asked recently by Spotify.
+
+We launched in South Africa in 2018, but let's say we didn't - how would you lead a launch into that region?
+
+Make it harder? Consider the different languages in South Africa.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/90?email=kinshukram@gmail.com&token=06f764c18319b780c4569bbcae3ec0a4185bea90427dc0c3483dcb0c7712cdfbe08434cb4aeb91bbe0794123f9c8fc69cdaf00cbdb52f7e6e4a1e3a5fcb0f661a25a024697c54b0a)
