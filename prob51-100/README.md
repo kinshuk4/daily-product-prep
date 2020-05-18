@@ -585,3 +585,117 @@ Make it harder? Consider the different languages in South Africa.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/90?email=kinshukram@gmail.com&token=06f764c18319b780c4569bbcae3ec0a4185bea90427dc0c3483dcb0c7712cdfbe08434cb4aeb91bbe0794123f9c8fc69cdaf00cbdb52f7e6e4a1e3a5fcb0f661a25a024697c54b0a)
+
+Problem 91
+
+```
+This problem was recently asked by Shopify.
+
+In many products, churn and retention are really important to evaluating long-term success. Do you think it's okay for Shopify to have high churn?
+
+Make it harder? Make an argument for both sides.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/91?email=kinshukram@gmail.com&token=2aa1236029ace15a183c869b8521060d35fca3ec25f59db1b3262d063eb46324e65f549d1edff8d8b180e26df0ab7cf1f280d04e2b4ddf5d9a4a77da8105c9057f24bc067de2ac49)
+
+Problem 92
+
+```
+This problem was recently asked by Stripe.
+
+What's your biggest weakness?
+
+Make it harder? Use being too micro-managey as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/92?email=kinshukram@gmail.com&token=5fd56dcdb90b42e8af02f3098c1b6f482bdbb45a7e14d37ae906e2a3d2e579e6c724d649cc1d3f0f7031fa9c128749663e9898d703c05fc61099fcfb3e752f62d0bff222d8ff54d9)
+
+Problem 93
+
+```
+This problem was recently asked by HubSpot.
+
+What's another Enterprise product you look up to? Don't use Hubspot.
+
+For this problem we'll be using Intercom.
+
+Make it harder? Use Intercom and pretend you've used it in the past.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/93?email=kinshukram@gmail.com&token=54c7dd28a09bf0027a3d2c6357c721348ead57719649bd5dd2d50d4827c9081243b5c9c3402dc61be894486d2d23f523690a5c77c85732007b4e79a051b4a9f3077c76de701bf073)
+
+Problem 94
+
+```
+This question was recently asked by Facebook.
+
+Build a new birthday feature for Facebook.
+
+Make it harder? Whiteboard your solution.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/94?email=kinshukram@gmail.com&token=1913c20bf0edcc3354d15451b25775ad754823d8ac42b0ec692bfc98daf870d59cfc54c3107dbba2e40455dc790b3dc44b083353f7eae66512887271c2b4754b298c333faa92a870)
+
+Problem 95
+
+```
+This problem was asked recently by Twitter.
+
+How many tweets are tweeted every day on Twitter?
+
+Make it harder? Assume this is the global amount of tweets.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/95?email=kinshukram@gmail.com&token=24a081df2ffea37033d2ddc5ec6c6266a8de6911fdf07d4301120a9feef68cf3b093a9cffb2214863ab8664b3e68face5309b953b7d0a449314b84a03721d7e20eedece55c7e3852)
+
+Problem 96
+
+```
+This question was recently asked by Asana.
+
+Design Uber for laundry.
+
+Make it harder? Whiteboard your solution for the supply side of the app.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/96?email=kinshukram@gmail.com&token=486af7b8c8e0abc0f874bf3fb86c13779f3c3e5821d6e0d33aa617e09762a0b6b1449e41847ec6c482649c4ea64cbd5569910aa3cc43a609c0466ab94a55918eb585fe2d448d82f6)
+
+Problem 97
+
+```
+This problem was recently asked by Codecademy.
+
+Signups on our landing page are up 15% - why do you think this happened?
+
+Make it harder? 90% of new signups are on mobile.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/97?email=kinshukram@gmail.com&token=4b799600d82bbd72cbb49fe57300525b0d5553b1195256662b1b38ef68a60d0f832c8ffb440c9ccaad78bcc2a437b85ae15169a69f501db6d5872d10bd8fbd2c6d83c178569c4ddf)
+
+Problem 98
+
+```
+This question was recently asked by Google.
+
+Imagine you're a new product manager at Asana, and you're assigned to improve the ticketing software. How would you measure the success of these improvements?
+
+Make it harder? Analyze core behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/98?email=kinshukram@gmail.com&token=ded13ec4f5904acf26453893d96ca0015fccd31d1d2e8479cc41c35cf7db27ea9ff0d1977ec2decd2db52973e5f03b384fc78a7daec7551168eaaefd6324babbd62bae889c62b284)
