@@ -699,3 +699,31 @@ Make it harder? Analyze core behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/98?email=kinshukram@gmail.com&token=ded13ec4f5904acf26453893d96ca0015fccd31d1d2e8479cc41c35cf7db27ea9ff0d1977ec2decd2db52973e5f03b384fc78a7daec7551168eaaefd6324babbd62bae889c62b284)
+
+Problem 99
+
+```
+This problem was recently asked by Robinhood.
+
+What are some endpoints we might have on our app? What do they do and what type of information would be needed?
+
+Make it harder? List at least 5 different endpoints.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/99?email=kinshukram@gmail.com&token=9f3697e8a38bee94b32cd18576ad5bd37cd8df2d29fe5ad86782fe67657dabd472a6054fc1d4f8f7ddb742bbc49d40d4385c61e91de9d17c4dbc6e1bfeaeaad71807f38a9b2ad82e)
+
+Problem 100
+
+```
+This problem was asked recently by Instagram.
+
+We recently made a pretty big decision to remove the like count on posts. Why do you think we did this?
+
+Make it harder? Name at least three reasons and rank them.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/100?email=kinshukram@gmail.com&token=3daf06b138e404c258b25d59b992c880b902906d1e6130569a7e24e44d5e73f317b7db3f3547aec8ee3e81ca14576472d864c7b634bd113c5c01da15097ddf273c29306c001ba57026)
