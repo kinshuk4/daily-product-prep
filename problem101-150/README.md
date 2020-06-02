@@ -67,3 +67,39 @@ Make it harder? Android installs haven't changed.
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/105?email=kinshukram@gmail.com&token=2474bb44eafb260e555e946a815b383f1ccccf27f02ce1ba56e13f49fe573a078124cc54cdc5b136a4a1173e5bb8563356cb0898054c927ba03a2a9c3707727bb7bbdbda56398041c8)
+
+Problem 106
+
+```
+This problem was recently asked by Amazon.
+
+What's your biggest weakness?
+
+Make it harder? Use stubbornness as your answer.
+```
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/106?email=kinshukram@gmail.com&token=94fb5132136b6c259a7de5bb73c26f48c1e8a441b4c3b6333ff0d624837b05fc41363a57a09b0614b9b7c92d2347ba9f0429cb8507aa3e6113412c39abde52b3aaf11722461707ad00)
+
+Problem 107
+
+```
+This problem was asked recently by Facebook.
+
+Estimate the bandwidth (bits / s) of a 747 crossing the Atlantic filled with CDs.
+
+Make it harder? Ask a friend use this question to mock you!
+```
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/107?email=kinshukram@gmail.com&token=76c5fea7b11fd24c00847eb45a826e0287baa71356ab26ba53b39490d696e6affd647a64f4fffca97d11f16a6a14ff9e78f88439fd98d3cbdc0cc77a37f9cfedc729058dafa5dc4d3f)
+
+Problem 108
+
+```
+This problem was recently asked by Lyft.
+
+What's your biggest weakness?
+
+Make it harder? Use rambling too often as your answer.
+```
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/108?email=kinshukram@gmail.com&token=a62c39ba4b146a91e9cb30a6170f7ff646a5fbd7c31605eb1881c45603cb8aeb940a2ef6737a0e3aac820c87aaf557e47f0e012b8bca82fe9ded127fef72efdc3343cdbe29ecf249d0)
