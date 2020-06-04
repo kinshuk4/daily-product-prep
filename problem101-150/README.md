@@ -131,3 +131,17 @@ Make it harder? Provide at least five different channels that Notion could use.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/110?email=kinshukram@gmail.com&token=6423081fc6c1e34a246d95e3579dfe6a7df3ae74bdd948b10e6cf2ab3586933b50966a17e0dbb4e8d5fa8efad31f06b4f1a2d1968f5976a35df3ba941b1faf19fc06bd05901a70d46c)
+
+Problem 111
+
+```
+This problem was recently asked by Pinterest.
+
+If you were a product manager, how would you improve Pinterest?
+
+Make it harder? Offer at least two unique improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/111?email=kinshukram@gmail.com&token=0a1c411005f4f125e3f4348cac4cb1176f276490cc102dcc8ee1a774d6dfeb3a6193bd0013efd42e3e19a0e236f1aab9006413aa77e3dfb6376531c3ac6dc78d464d0c48fb1bf4a934)
