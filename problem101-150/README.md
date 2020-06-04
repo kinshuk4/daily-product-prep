@@ -103,3 +103,31 @@ Make it harder? Use rambling too often as your answer.
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/108?email=kinshukram@gmail.com&token=a62c39ba4b146a91e9cb30a6170f7ff646a5fbd7c31605eb1881c45603cb8aeb940a2ef6737a0e3aac820c87aaf557e47f0e012b8bca82fe9ded127fef72efdc3343cdbe29ecf249d0)
+
+Problem 109
+
+```
+This question was recently asked by Google.
+
+Why do you want to work at Google?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/109?email=kinshukram@gmail.com&token=9bf2f14ee1ac871012f7ec486c41101044513da60158d3412bdbcda673522ff7dbc67a0b8e411d845c526a0102a65a4fc27cf8d2d5ea04b603edd0056ed414746163177ca85add9aa2)
+
+Problem 110
+
+```
+This problem was asked recently by Facebook.
+
+One of my favorite apps right now is Notion. Let's say you were their product manager and you wanted them to expand into Europe. What would you do?
+
+Make it harder? Provide at least five different channels that Notion could use.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/110?email=kinshukram@gmail.com&token=6423081fc6c1e34a246d95e3579dfe6a7df3ae74bdd948b10e6cf2ab3586933b50966a17e0dbb4e8d5fa8efad31f06b4f1a2d1968f5976a35df3ba941b1faf19fc06bd05901a70d46c)
