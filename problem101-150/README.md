@@ -145,3 +145,18 @@ Make it harder? Offer at least two unique improvements.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/111?email=kinshukram@gmail.com&token=0a1c411005f4f125e3f4348cac4cb1176f276490cc102dcc8ee1a774d6dfeb3a6193bd0013efd42e3e19a0e236f1aab9006413aa77e3dfb6376531c3ac6dc78d464d0c48fb1bf4a934)
+
+Problem 112
+
+```
+This problem was recently asked by Amazon.
+
+[Amazon.com](http://amazon.com) is one of the most visited e-commerce sites in the world. We handle millions of transactions each day. What are some endpoints Amazon.com might have?
+
+Make it harder? List at least 5 different endpoints.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/112?email=kinshukram@gmail.com&token=e6ae95f6482078236df39b3720c57a17a95f614c24dcf7105fc27b199a24029fdaeee83747e1af366ec73f08e2a21da611a9cabb9c232e10bb8dfc5cedc646fc441060e6ba88c22fc1)
+
