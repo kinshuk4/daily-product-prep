@@ -160,3 +160,18 @@ Make it harder? List at least 5 different endpoints.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/112?email=kinshukram@gmail.com&token=e6ae95f6482078236df39b3720c57a17a95f614c24dcf7105fc27b199a24029fdaeee83747e1af366ec73f08e2a21da611a9cabb9c232e10bb8dfc5cedc646fc441060e6ba88c22fc1)
 
+Problem 113
+
+```
+This problem was recently asked by LinkedIn.
+
+What's your favorite product and why?
+
+For this problem we'll be using Chrome.
+
+Make it harder? Follow along and use Chrome as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/113?email=kinshukram@gmail.com&token=5a90ef200e68bb31538548f9f28688a47fbcc97d5c8acbf52c5b6382b2a617d895f8ffe8f15a141d448fae94fd8c8d12e63802ba558b6b4b3b32e4008b4f38c41b87be77fa189eced0)
