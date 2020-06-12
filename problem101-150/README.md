@@ -219,3 +219,17 @@ Make it harder? Evaluate at least three different user behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/116?email=kinshukram@gmail.com&token=61719420a9ba71580da9c4067376d5de6422561580bb7a757b0adb9620e0d721a16ec0667f4865cd9b9b2021de31ab86b1d2479fd877a2cc70583c5f9e616d22efc7b1b5fec1f0f264)
+
+Problem 117
+
+```
+This problem was recently asked by Dropbox.
+
+What's the difference between a POST and GET request?
+
+Make it harder? List at least 5 different endpoints.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/117?email=kinshukram@gmail.com&token=2fef73a7e7d95498c3451b3138e5e670a8e499f98c243f32e8b7535abc2e88b3fc73d85a02ae79681e5358ab708e7fbe513f6bbfb70c8d3edf689a42682828724c7f38ea21ab29bb0d)
