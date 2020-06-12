@@ -191,3 +191,31 @@ Make it harder? Follow along and use LinkedIn as your answer.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/114?email=kinshukram@gmail.com&token=ec05cd8623305fe9bd286bb85616281816af727f3e6dd8bbf3544b804a55312f9a333e1488407b23505a88d284a214b60fec7b9d5deb38a98e8dc7401d0d51e041a24668610747d1ed)
+
+Problem 115
+
+```
+This problem was recently asked by Dropbox.
+
+What would you do if you found out our uploads were down 50%?
+
+Make it harder? Uploads have only changed on web.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/115?email=kinshukram@gmail.com&token=c8c322077f436c1f5cf7a61eb9e04a1cf9a9ef6c462a11b0156fdc3d3712264b07dcc94ce6be3c5a8a3889eda407e03d7257f286b818e17a5d33294ac0530a1d086555a38fc0dbf00a)
+
+Problem 116
+
+```
+This problem was recently asked by Google.
+
+If you were the product manager on Calendars, how would you measure it's success?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/116?email=kinshukram@gmail.com&token=61719420a9ba71580da9c4067376d5de6422561580bb7a757b0adb9620e0d721a16ec0667f4865cd9b9b2021de31ab86b1d2479fd877a2cc70583c5f9e616d22efc7b1b5fec1f0f264)
