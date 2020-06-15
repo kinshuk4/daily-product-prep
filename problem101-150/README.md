@@ -233,3 +233,17 @@ Make it harder? List at least 5 different endpoints.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/117?email=kinshukram@gmail.com&token=2fef73a7e7d95498c3451b3138e5e670a8e499f98c243f32e8b7535abc2e88b3fc73d85a02ae79681e5358ab708e7fbe513f6bbfb70c8d3edf689a42682828724c7f38ea21ab29bb0d)
+
+Problem 118
+
+```
+This problem was recently asked by Apple.
+
+How would you measure the success of our iPad Pro?
+
+Make it harder? Ask a friend to mock interview you with this!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/118?email=kinshukram@gmail.com&token=bb1257ffa0d7ddc0b31ca507387b4ee2d218f3714efce045049f2fed7c9abb2511c6db9709d76a8cd96a98c0c8fa837eac113ca97c2ad1db902c208c3d8d141695171967c4bc99e968)
