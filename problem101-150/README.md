@@ -289,3 +289,17 @@ Make it harder? Offer at least two unique improvements.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/121?email=kinshukram@gmail.com&token=3738f2977bbf9c112634d3057204a0e3864120c2060de831b29ee9389a8efa264119ed7779384284b87816b45a9fb472285f7bf8f0358cef5c63452b37ace15a8ae23cc6a2661ae001)
+
+Problem 122
+
+```
+This problem was asked recently by Twilio.
+
+Why do you think we acquired SendGrid?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/122?email=kinshukram@gmail.com&token=6145d473feb109370dad3df1a3e9c669ffed73aaa79f6fde12d39684e08df71eec7ec09c0d90c6513aed7cfcae7966fc7fb659dfc3cc686b4f86b71a094bc111000ead924e7eb3d850)
