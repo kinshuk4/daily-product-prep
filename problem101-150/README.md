@@ -247,3 +247,45 @@ Make it harder? Ask a friend to mock interview you with this!
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/118?email=kinshukram@gmail.com&token=bb1257ffa0d7ddc0b31ca507387b4ee2d218f3714efce045049f2fed7c9abb2511c6db9709d76a8cd96a98c0c8fa837eac113ca97c2ad1db902c208c3d8d141695171967c4bc99e968)
+
+Problem 119
+
+```
+This problem was asked recently by Google.
+
+How many grains of rice are in a 10kg bag?
+
+Make it harder? Answer in under five minutes!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/119?email=kinshukram@gmail.com&token=2b45d0647c723ba52689fbb7326a8e59f0d66577ceb4df0d8bf233959921fe6dd56221fb108ff84a11ad970333d68ad25317511a981c0fce329aed07b0f6da096c3dfe392d9cfa2bc2)
+
+Problem 120
+
+```
+This problem was recently asked by Wealthsimple.
+
+Assume we had a 25% drop in conversion on our landing page. What would you do?
+
+Make it harder? Use this question for a mock interview!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/120?email=kinshukram@gmail.com&token=14d626f24c5d7f132250647e585707f60cf036e7da7bf46eccbd29b2399a35caf20ffead796dd498451dadd5427b16a848a6cb974dea3173003a40d61564e64f573c163f28a59618d0)
+
+Problem 121
+
+```
+This problem was recently asked by Discord.
+
+How would you improve Discord?
+
+Make it harder? Offer at least two unique improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/121?email=kinshukram@gmail.com&token=3738f2977bbf9c112634d3057204a0e3864120c2060de831b29ee9389a8efa264119ed7779384284b87816b45a9fb472285f7bf8f0358cef5c63452b37ace15a8ae23cc6a2661ae001)
