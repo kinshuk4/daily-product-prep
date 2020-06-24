@@ -303,3 +303,31 @@ Make it harder? Evaluate at least three different reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/122?email=kinshukram@gmail.com&token=6145d473feb109370dad3df1a3e9c669ffed73aaa79f6fde12d39684e08df71eec7ec09c0d90c6513aed7cfcae7966fc7fb659dfc3cc686b4f86b71a094bc111000ead924e7eb3d850)
+
+Problem 123
+
+```
+This problem was recently asked by Disney.
+
+How would you diagnose a 15% drop in active users on Disney+?
+
+Make it harder? Ask one of your friends to mock you with this question!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/123?email=kinshukram@gmail.com&token=9587c7e692626fb33f895448b91007d01da8ce730ad011109f19950829521754f9e80d18898a5d0beb230af99e3f4b7583180aa6e1f84557c23cde7eaed76d8ffc5f86cceddfe83578)
+
+Problem 124
+
+```
+This problem was recently asked by LinkedIn.
+
+How do you think our Jobs feature is tracked?
+
+Make it harder? Evaluate at least five different user behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/124?email=kinshukram@gmail.com&token=031df735119a539ce543fe47cc0e078d450cab36ca0dc14cbe410df092a0ffb9cca377ea91d1da7cb2a997b5f36bc9231c009872111e6893bace4c64995a89ceadcd445ee824c65314)
