@@ -331,3 +331,47 @@ Make it harder? Evaluate at least five different user behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/124?email=kinshukram@gmail.com&token=031df735119a539ce543fe47cc0e078d450cab36ca0dc14cbe410df092a0ffb9cca377ea91d1da7cb2a997b5f36bc9231c009872111e6893bace4c64995a89ceadcd445ee824c65314)
+
+Problem 125
+
+```
+This problem was recently asked by Lyft.
+
+What's your favorite product and why?
+
+For this problem we'll be using Messenger.
+
+Make it harder? Follow along and use Messenger as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/125?email=kinshukram@gmail.com&token=f63c731c4de91be89a2fa7ed7b3bb9a0dedcd5eff0e5cf465a5a17cd6e7e16ae85dbf65157658b1408c4e82a804d8f3f72e2e5257d1466019e7de5882855bcc233de6c186869e027c2)
+
+Problem 126
+
+```
+This problem was asked recently by Amazon.
+
+How many pairs of shoes do you think we go through in our lifetime?
+
+Make it harder? Account for different age ranges.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/126?email=kinshukram@gmail.com&token=a8b24f63841a43a17532f31a3fca24fc0b6370fb2c8657c920783ab3bd099a605550da4459e155a271278054fd943269c7e13caca991289fb480a4f967e8e4646bba0fd1d5ea234685)
+
+Problem 127
+
+```
+This problem was recently asked by Google.
+
+Searches are down 35%. What happened?
+
+Make it harder? Uploads have only changed on web uploads.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/127?email=kinshukram@gmail.com&token=cc12d88e8b0f8d132ae266930c6993c9bc97536b3ccbc633eab829342683c88f445270ceb0211739e53094af5116b0927c460831b4c35fb7433182733015f0f65bb0b449338a6bca9f)
