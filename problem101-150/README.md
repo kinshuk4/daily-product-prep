@@ -375,3 +375,61 @@ Make it harder? Uploads have only changed on web uploads.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/127?email=kinshukram@gmail.com&token=cc12d88e8b0f8d132ae266930c6993c9bc97536b3ccbc633eab829342683c88f445270ceb0211739e53094af5116b0927c460831b4c35fb7433182733015f0f65bb0b449338a6bca9f)
+
+Problem 128
+
+```
+This problem was asked recently by Netflix.
+
+What are our risks if we wanted to expand into China?
+
+Make it harder? Evaluate at least three different risks.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/128?email=kinshukram@gmail.com&token=e1f4d8b55ae2dc5877d08b42498dd9812e8586923b12d9c27524825e6aabe0e58ff1a79e8bba487fdcf8f978e940d4e48bbda0960733455377cc98b1951e42c9c15fbff8bd7debb825)
+
+Problem 129
+
+```
+This problem was recently asked by Apple.
+
+How would you improve the Apple Watch?
+
+Make it harder? Offer at least two unique improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/129?email=kinshukram@gmail.com&token=a235f43bc36236030069a692a16a9c8f475d1a272d5bab9e2a145776392bca4b69a33bfe95c494146041f9aac4fbbad352024403a42dd418ce19d5defbe230ee6e354f4748a8135c7b)
+
+Problem 130
+
+Here's today's problem:
+
+```
+This problem was asked recently by Hoop.
+
+If you were the product manager in charge of expanding into South America, how would you do it?
+
+Make it harder? Ask a friend to give you a mock interview with this question!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/130?email=kinshukram@gmail.com&token=7b56e04901b963a0680d179bcefb66d428a8669e15684d9eed77c879ea2c4cd2c0b25905228b1bb7655176bec9ab1bbef059c9fa84cb65da69f1f04c2b9b5b6c2676bef26ee74a52f6)
+
+Problem 131
+
+```
+This problem was recently asked by Amazon.
+
+List an example of one endpoint on Twitch. What does it do?
+
+Make it harder? Answer in five sentences or less.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/131?email=kinshukram@gmail.com&token=c427305a83e30068d9929f3e240771ba776e335c9eebe0120b829d1d2918f5af66a36ffe917b2e423c06b22ee2279cf70dc2fbe7c30e0891142a6b1a8aaafa25725bf37555f885f545)
