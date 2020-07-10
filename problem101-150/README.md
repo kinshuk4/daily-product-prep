@@ -433,3 +433,93 @@ Make it harder? Answer in five sentences or less.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/131?email=kinshukram@gmail.com&token=c427305a83e30068d9929f3e240771ba776e335c9eebe0120b829d1d2918f5af66a36ffe917b2e423c06b22ee2279cf70dc2fbe7c30e0891142a6b1a8aaafa25725bf37555f885f545)
+
+Problem 132
+
+```
+This problem was recently asked by Intuit.
+
+One of our most successful products is TurboTax. How would you measure the metrics on it if you were the product manager in charge?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/132?email=kinshukram@gmail.com&token=26f8c0cfd4aa08c7ff8535c1d00b63df381924957458cd5692ace44345642df1e3e8df9b5de8082ed6340b328e66f2a179147083922208b95b57fbd86a7d15fc55b90495c58fb47f99)
+
+Problem 133
+
+Here's today's problem:
+
+```
+This problem was asked recently by Deliveroo.
+
+If you were the product manager in charge of expansions and we wanted to go to the US. How would you do it?
+
+Make it harder? Ask a friend to give you a mock interview with this question!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/133?email=kinshukram@gmail.com&token=0267025e0a1b8680c0bed4876889006099f87c0eb8febceddc0129844490c36fb82172863f371ddd4bde5a01846dafadec7ae2279f3ff4f29eef4811b62bc9ca6eb54a437e4d96b8d8)
+
+Problem 134
+
+Here's today's problem:
+
+```
+This problem was asked recently by Snapchat.
+
+We have been trying to strengthen our APAC presence lately. How would you help us continue to expand in Indonesia?
+
+Make it harder? Provide at least five different channels that Snapchat could use.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/134?email=kinshukram@gmail.com&token=992d9946d0c012ffd7bbf8a6d0e7419a3efb405e9b3609cf794512bc33faeaac75d4318cabab368ee22a24a5bac8a476f6d8d1e355a3d30822d2c5da603bd55b60faee0a94b872702b)
+
+Problem 135
+
+```
+This problem was recently asked by Shopify.
+
+What's your biggest weakness?
+
+Make it harder? Use being too detail oriented.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/135?email=kinshukram@gmail.com&token=e7228a526f9f833c9488694c1948500e54a5004e6b8394180023072b3291187e6f8705c87295a6498123236a4f34b7bacc4e179011a902abb316a107f2ba7982dd8d836a5b8997e551)
+
+Problem 136
+
+```
+This problem was recently asked by Facebook.
+
+Go into detail about our signup endpoint. What does it do and what information does it require?
+
+Make it harder? List out as much detail as you can!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/136?email=kinshukram@gmail.com&token=6f7c14c2f95c5714e5eb89a0b1c007267752f6f29a3e0c14b46c6617a216b2624ac345bd7941a9bab4980ba265a05729c743eebf0cb9b14a4a8ec6f57d7fdc49153be58c37c585832a)
+
+Problem 137
+
+```
+This problem was asked recently by Salesforce.
+
+Why do you think we acquired Tableau?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/137?email=kinshukram@gmail.com&token=20abbd6d8de52d580e0eb64c0df2448549dd0cb8844a866bb837df1be1e4b7ee316dfb7e72b47ef173abfb746c30051f574a31b912dbb073e4081979bbac2bedbd01fa148b6cf49059)
