@@ -523,3 +523,192 @@ Make it harder? Evaluate at least three different reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/137?email=kinshukram@gmail.com&token=20abbd6d8de52d580e0eb64c0df2448549dd0cb8844a866bb837df1be1e4b7ee316dfb7e72b47ef173abfb746c30051f574a31b912dbb073e4081979bbac2bedbd01fa148b6cf49059)
+
+Problem 138
+
+```
+This problem was asked recently by Facebook.
+
+How many people do you think are on Facebook at any given time?
+
+Make it harder? Answer in under 5 minutes!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/138?email=kinshukram@gmail.com&token=2e5c1b5e73b09785a4d4642a01d3f3b4be357a945d667bf8660a2c1d6aa33e465aabbdab76cca3cbf16e5fd6c0130facad52b35a8417b912abcd547724a356cb3ec0f28632cfb5b80e)
+
+Problem 139
+
+```
+This problem was recently asked by Stripe.
+
+What improvements would you make to our product?
+
+Make it harder? Ask a friend to mock you with this question!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/139?email=kinshukram@gmail.com&token=74822446367d27f63f5b72f309256969615f4c63aea9af48f3df337a122862303f51a613205c645757f235971fe4203b4452605b3d5d424adc6d3b764fd4188207f660a7d23ca3d2a0)
+
+Problem 140
+
+```
+This problem was recently asked by Uber.
+
+Tell me about your favorite product.
+
+For this problem we'll be using Notion.
+
+Make it harder? Follow along and use Notion as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/140?email=kinshukram@gmail.com&token=12b56dde553da7fb2376925f0d9843aea15a96190d2affec308db4a1d9eacf752dffb070a974d27e61d24490564066cf344870019495aa3e947adbf4e855fde20e16bb2838563c5fb9)
+
+Problem 141
+
+Here's today's problem:
+
+```
+This problem was asked recently by Apple.
+
+How do you think the 2019 US-China trade war affects our company?
+
+Make it harder? Propose at least three different ways Apple is affected.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/141?email=kinshukram@gmail.com&token=30519607cd4ac8ea2d38e7f9f5590e1530a178e53a05a61b421b71141f315a5f7d68d1c22ec491940e0dda243eb5468706702aead782b8a224865a6fdb5e864281ffd505f10839ab22)
+
+Problem 142
+
+```
+This question was recently asked by Twitter.
+
+Why do you want to work here?
+
+Make it harder? Assume you applied for a role in their Ads division.
+```
+
+Problem 143
+
+```
+This problem was recently asked by LinkedIn.
+
+Assume we had a significant drop in our iOS installs. What would you do?
+
+Make it harder? Uploads have only changed on web.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/143?email=kinshukram@gmail.com&token=8dffba733c2a0adad4f63052ba7d8f454f8cacbe55c0c2d49f751dd7f9733ab493b33258281f0cafdaa788047eb51306d386733e563b84edaae774d36a0a3496d9c5c1939bb74d5da7)
+
+Problem 144
+
+```
+This problem was recently asked by Yelp.
+
+How do you think we track our product's success?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/144?email=kinshukram@gmail.com&token=c94b62215b9c7b66e4e3bd1ca0b30c065616a76f49847df4d9699f89a2e5a2095b1df93fd4e0cbb9e53dbc21ddcf6ad2aa327ac14698aafaa7a379e89350d4cd0bee140761326e6f42)
+
+Problem 145
+
+```
+This problem was recently asked by Twitch.
+
+List a few improvements for any product.
+
+We'll be using Evernote for this example.
+
+Make it harder? Offer at least three unique improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/145?email=kinshukram@gmail.com&token=3bde909a9054ba1a741d87100722c7cdc9c117a16f4f9da64a2ea857f7d67be2c28b36f1a4e27c2f55f9dea7fa9f25af0bad5ab0ffd9c35fe42e3488f5aba4971edbc72fa4ed5e3da6)
+
+Problem 146
+
+```
+This problem was recently asked by Instagram.
+
+What's your favorite consumer product?
+
+For this problem we'll be using the Apple Watch.
+
+Make it harder? Follow along and use the Apple Watch as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/146?email=kinshukram@gmail.com&token=1a1dab584face7e23c4a1c29adaaf3c222413997dc9f4533c37b8777753e29301bbea715d8bdb13332ba70e35a80215d445bb38fd6db7b3f459963baacee8d933a1216d9db7868d3e6)
+
+Problem 147
+
+```
+This problem was recently asked by Intercom.
+
+What's the benefit of A/B testing for product organizations?
+
+Make it harder? List at least three different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/147?email=kinshukram@gmail.com&token=a5e19d13ba8ae4572055d065defd6ec16604caa485a7a0500a219589a8178a9af045bc57d78ac83d0b4cf3f54eb0337d1dcf3b786c2333acebd92969102e9084b59fda9d1ee4741512)
+
+Problem 148
+
+```
+This problem was asked recently by Twitch.
+
+How many weddings does the average American attend in their lifetime?
+
+Make it harder? Account for divorces and remarrying.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/148?email=kinshukram@gmail.com&token=48ee2276bcba5f240b833ddac629cbf9a2b6b00b36898ca71683722db310ddd3306dad7eca80c925e8e15140e67f3b040eedb88d9bd4e5ce53b4c1fc133649cd57f01b6fc24f878923)
+
+Problem 149
+
+```
+This problem was asked recently by Netflix.
+
+How would you go about expanding into China?
+
+Make it harder? Evaluate at least five different channels Netflix could use.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/149?email=kinshukram@gmail.com&token=6f5cfca4db97c866dd7e1b5845cf1483a62197432d06b7a9e4fcd7ef603c13d0728c4756777f24531a4a7d35c4ef4144c81262e1f36f162d518191cc0aa2aec39b56803644471fabaf)
+
+Problem 150
+
+```
+This problem was asked recently by Facebook.
+
+Why do you think we made the Portal?
+
+Make it harder? Propose at least three unique reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/150?email=kinshukram@gmail.com&token=ca2666917ea06f58c543715f9b78c9932193146755e05cd7fefdfeb613677234b239775edcc60b2e21d6bc244594693558e0d0f43555defb3e831df744fe11870b84a6ee58856188c6)
+
