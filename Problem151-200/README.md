@@ -501,3 +501,47 @@ Make it harder? Use your ability to communicate cross-functionally as your stren
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/185?email=kinshukram@gmail.com&token=080380cd6a9df556d4c49de6adfbdc3ed8efc5d833eb3955511162c283d3efec1a5e01d22771b969fdafe0a3840faadb8e93c676b6234123791489e23e25044cea53c411eb972dad58)
+
+## Daily Product Prep #186: Online orders on The New Yorker are down 30% - why?
+
+```
+This problem was recently asked by Samsung.
+
+One of my favorite publications is The New Yorker. Let's say you were a PM on their digital team and you noticed online orders were down 30%. Figure out why.
+
+Make it harder? Orders dropped rapidly.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/186?email=kinshukram@gmail.com&token=e34a7db3451ce1e03606ccfc2492c67abafa63138485ee95f67096b033048a7ec8d6a11559d73d1de5fc51570ae6501c3dbaedffd0b862e9ec9d7f394f286a45dc7fa311e50631212f)
+
+## Daily Product Prep #187: What's your favorite consumer product?
+
+```
+This problem was recently asked by Yelp.
+
+What's your favorite consumer product? Please don't use Yelp.
+
+For this problem we'll be using Discord.
+
+Make it harder? Follow along and use Discord as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/187?email=kinshukram@gmail.com&token=e62644580b1a5e5530be52456febb9db6bc2d35d24c706f881b6e6c18c9ce14aa8fe3c7ea9e668aea64d881d27dc809b67ed1ab0048d464f05a9cbf49742304a5bf1dd066a11d95645)
+
+## Daily Product Prep #188: List 3 endpoints on theScore app.
+
+```
+This problem was recently asked by theScore.
+
+You won't need to know how to code, but it'll be useful if you can empathize with developers. What are three endpoints we might have on our sports app?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/188?email=kinshukram@gmail.com&token=130d5486fa85ea5c606bfe1635456df892c9f6c358c5e2e0601c79f09b9b261b7ee84f8851550971da629152a66902343031fcca504df397ebdba2ba60d6f007ee0515f0f58d3ad4ab)
