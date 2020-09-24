@@ -545,3 +545,48 @@ Make it harder? List out at least one POST request and one GET request.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/188?email=kinshukram@gmail.com&token=130d5486fa85ea5c606bfe1635456df892c9f6c358c5e2e0601c79f09b9b261b7ee84f8851550971da629152a66902343031fcca504df397ebdba2ba60d6f007ee0515f0f58d3ad4ab)
+
+## Daily Product Prep #189: How did COVID-19 affect Amazon?
+
+```
+This problem was asked recently by Amazon.
+
+How do you think Amazon was affected by COVID-19?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/189?email=kinshukram@gmail.com&token=5a3d2b911c12dac17bd0cf5119faaab2a0ccc8905df8327ff2f4389ec71ed849155e4f8ba10f7d57ae071f7397578b05da4914f551aa431de6f85c3c546894196c670647c4cfd6b2da)
+
+## Daily Product Prep #190: How did COVID-19 affect Spotify?
+
+```
+This problem was asked recently by Spotify.
+
+What are the biggest ways COVID-19 affected us?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/190?email=kinshukram@gmail.com&token=e75c5b851a291bb93612b94a65f42b8a3d97ee99709516c7ca6b24e565c5de9e3be355a786b78c9c762dc1717196b9c025a84466640f9d49468c104bd882585991ba9318cb33384943)
+
+## Daily Product Prep #191: How would you improve Houseparty?
+
+Here's today's problem:
+
+```
+This problem was recently asked by Facebook.
+
+Houseparty is a pretty popular app nowadays since quarantine began. What would you do to improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/191?email=kinshukram@gmail.com&token=e03c9cd3e1d9e47c7a3ababfe1c177f952a837878a4cec3ee4b02fd598402bc59b6ec1299e042f7418fd383e98c6e2dabddd8c5ca273036a51d79ee0eac86c21dde84ca0c8175c56be)
+
