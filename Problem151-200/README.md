@@ -590,3 +590,119 @@ Make it harder? Offer at least one small improvement and one big improvement.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/191?email=kinshukram@gmail.com&token=e03c9cd3e1d9e47c7a3ababfe1c177f952a837878a4cec3ee4b02fd598402bc59b6ec1299e042f7418fd383e98c6e2dabddd8c5ca273036a51d79ee0eac86c21dde84ca0c8175c56be)
 
+## Daily Product Prep #192: How would you improve shipment tracking on Amazon?
+
+```
+This problem was recently asked by Amazon.
+
+Our tracking page is one of our most viewed pages post-purchase. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/192?email=kinshukram@gmail.com&token=32b7f037a207665ca84013a69b5b9fc0d8b23a538cc9f5ee570c45b1780678812e42da828853f155cc573e49be3203931f879c77305bbef3da652ada290559bc260b9bf81ac583eacb)
+
+## Daily Product Prep #193: Events created are down 100% on Facebook - why?
+
+```
+This problem was recently asked by Facebook.
+
+Let's say event creates were down 100% on our app. Why do you think that might have happened?
+
+Make it harder? Gather context from at least six different categories.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/193?email=kinshukram@gmail.com&token=e7ad85f3af75c560ba80945a53fbe13340d7403ba04fb743d520a090c6a283f9264434ba3bb33726efe7cb6e677830e6ec6c2da88e8701ef786a4b220dde31db44247ab1693078a86e)
+
+## Daily Product Prep #195: How can Facebook improve preparing for another pandemic?
+
+```
+This problem was asked recently by Facebook.
+
+I think quarantine from COVID-19 has taught us as a company a lot. What are ways we could improve how we operate internally if another pandemic struck?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/195?email=kinshukram@gmail.com&token=d8ec04bebc9d2d91b04e0eccf912e1829b76027530e66b58c6bfd09abde1308abab24ca6fbe65673a77c5a01bc1aeb4eb175d2dc77bc45a826be8438b648bf4c826dcd49a979c9f46a)
+
+## Daily Product Prep #196: How many 'likes' happen on Facebook each day?
+
+```
+This problem was asked recently by Facebook.
+
+Estimate the number of likes on Facebook posts per day.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/196?email=kinshukram@gmail.com&token=2962b87c5db8850e6a7863a31e40846b06d84fa19599e09a4720e3f269c02bdc71f2721d14540cef249b31ffc73800abca47aa2dcabe6667feb1d5bbfd483611116ad3ab1c0882e70a)
+
+## Daily Product Prep #197: How would you measure the success of Yelp's search bar?
+
+```
+This question was recently asked by Yelp.
+
+Our search tool is our most used feature - how would you measure it's success?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/197?email=kinshukram@gmail.com&token=97e403e910c3d61f1b77a733db77370ea979e5f90c11762501c54c9a6009c6f5a8b2d297f000b6a0c245054694ce9cf29e3d3d87725d74fbd54730b899b3e83cd2b18ee5f7a163c89b)
+
+## Daily Product Prep #198: Diagnose a 25% decrease in free sign ups on Notion.
+
+```
+This problem was recently asked by Notion.
+
+How would you find out what caused a 25% decrease in conversion?
+
+Make it harder? Mobile conversion dropped more than web conversion.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/198?email=kinshukram@gmail.com&token=3b916cfb5fe1fe5cb6927aa3c950682c16370993e4e5288363b4c7d8afb195385f2d93e2a07b02b9ef28bf0f5a503cfa5f86aa0cde67889dd846ce5585ec2b10af14014c045b4a29ba)
+
+## Daily Product Prep #199: Measure the success of the Cybertruck announcement.
+
+```
+This question was recently asked by Apple.
+
+How do you think Tesla measured the success of the Cybertruck announcement?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/199?email=kinshukram@gmail.com&token=740227799fba8fd6e91850efdc05b5fae8b813b43c35dc31ad1690e011480320b7b1bd3f0026a907f1ead6e02a579c880ecb8445eead35e0c9caefb11c9d9de51bbb6315e938f72698)
+
+## Daily Product Prep #200: Diagnose a 25% decrease in song listens on Spotify.
+
+```
+This problem was recently asked by Spotify.
+
+How would you find out what caused a 25% decrease in song listens?
+
+Make it harder? Assume conversion is down across the industry.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/200?email=kinshukram@gmail.com&token=a402d7aa52287ac3770a3b987ca8f88cd54e38eda984572744851c0b070990b03a684db21810a1e2e932cce2c2dc5b9884f75ed5803abb31027bf964be62e52b6b23dbcd3b8fc90c15)
+
