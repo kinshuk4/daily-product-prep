@@ -144,6 +144,20 @@ Make it harder? List out at least one POST request and one GET request.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/210?email=kinshukram@gmail.com&token=757a96b46ac83fad923f7682f083a4133011da13d42d5047d4cf6e2341b765adecff7f66213e786d44db7887a9814496315f7b9470977d66bfe2e598515f44e7dfa01745ced5bdc86d)
 
+## Daily Product Prep #211: What are three endpoints on Discord?
+
+```
+This problem was recently asked by Discord.
+
+What are three endpoints on our app?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/211?email=kinshukram@gmail.com&token=7f2766ad555385986b2e4cf973962111190c5c8273bdad0ca8018c426b899ea66c74eab72b54bd5356de5456ea487d9265b2098e95ef70a860cdf187fe8caa4771793ac6c21b5e4cd4)
+
 ## Daily Product Prep #212: How would you measure the success of FaceTime?
 
 ```
@@ -154,8 +168,134 @@ If you were the product manager for FaceTime, how would you measure it's success
 Make it harder? Evaluate at least three different behaviors.
 ```
 
-Thanks for being a subscriber, and have a great day!
-
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/212?email=kinshukram@gmail.com&token=e38bab470983c5f2277898b384a86fe1457e28cf2ff71ad296809a8af511f4ab08e5af4a402119dcc462e41453550d9844d017f24f2d94f3bc3193712f384bcc1ecb06193f7d7585ee)
+
+## Daily Product Prep #213: Improve Patreon.
+
+```
+This problem was recently asked by Spotify.
+
+Patreon is an extremely popular subscription based app nowadays. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/213?email=kinshukram@gmail.com&token=4114025aeeb59aac3d586174271021e9dacb1c8190271a0d8c8a01d46b85885ff1ba6bc49abfa67d5e5cb0670c097eff8befac611fbba7a5a18f23ac09f51fbebe3f945f47e2ff9ca3)
+
+## Daily Product Prep #214: How many chickens are there in the world?
+
+```
+This problem was asked recently by Google.
+
+How many chickens are there in the world?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/214?email=kinshukram@gmail.com&token=32af8dfb672fafe47f6b5259dcd27792e7f118907729c30e089c74532abb422d0ae4c751c9b345f8d7e98c8ef9a8237f8f72a362ff22483f21827df5f28960c39eeebb98e0d17eb187)
+
+## Daily Product Prep #215: What's your favorite marketplace app?
+
+```
+This problem was recently asked by Wayfair.
+
+What's your favorite marketplace app besides Wayfair?
+
+For this problem we'll be using Ritual.
+
+Make it harder? Follow along and use Ritual as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/215?email=kinshukram@gmail.com&token=c89aae3bdc887923f10c365e0b3f87d2cd27fcd4fe46c493475ae58a432974ea5e76951b5ffa47b3d5cea3ffa4b066277db6d6cfcd73b01b5efc752b1e25773542f942378e1adb78f1)
+
+## Daily Product Prep #216: Diagnose a 35% decrease in email open rates on SendGrid.
+
+```
+This problem was recently asked by SendGrid.
+
+How would you diagnose a 35% drop in email opens from SendGrid?
+
+Make it harder? Assume all other metrics remain consistent.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/216?email=kinshukram@gmail.com&token=8db806c6d0ccb2c78e43de34ee8fab3b031724a6239ed0b33c8a2d5b8373c36127c7adaf81baae9064a9e093b66471e04163bd0385cb9d26fb8c431aa2df367d5578d80cd7b73146db)
+
+## Daily Product Prep #217: Diagnose a 25% decrease in conversions on Opencare.
+
+```
+This problem was recently asked by Opencare.
+
+How would you find out what caused a 25% decrease in conversion?
+
+Make it harder? Assume conversion is down across the industry.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/217?email=kinshukram@gmail.com&token=60bb2aea4085fc693ced1cf1775b122d423fc0906a2e8dbb8f5d8108bb6079b2bfa06c8a912c45767d47874ff26a558fd2b244fbddae60660f13aadbb7e871fa4fde5981c33a035127)
+
+## Daily Product Prep #218: How would you improve SSENSE?
+
+```
+This problem was recently asked by Vogue.
+
+How would you improve the popular fashion marketplace, SSENSE?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/218?email=kinshukram@gmail.com&token=dc2daa7c129797577916849ac9bcd91ff40e5673ddc8747f8ac1fdf374d52440f544925cc761fc7da7141394e9dc3f20632727c397450e20decdab73be2a65e35de1dacfe34bea92a9)
+
+## Daily Product Prep #219: Tell me about yourself.
+
+```
+This problem was recently asked by Salesforce.
+
+Tell me about yourself.
+
+Make it harder? State your answer in under 2 minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/219?email=kinshukram@gmail.com&token=97598c34e33a32cb436cb796ce50078a985afd6f0a8186192eea50833b423339f9bf4c6244c877f01db88b678f173b94b56827c794d7a85cce969fc422386ae46317e2472788fe91cc)
+
+## Daily Product Prep #220: What's your favorite product?
+
+```
+What's your favorite product?
+
+For this problem we'll be using Patreon.
+
+Make it harder? Follow along and use Patreon as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/220?email=kinshukram@gmail.com&token=05ce0606d04df79e10c1135e2a5a85d5800db724417750a8ef5c50f58d92d251935058fa280dac35ee2ef825e3f7c176f2d22f002614a4f5e01edefca238f551bb91f2152c28ec1b87)
+
+## Daily Product Prep #221: How many Slack messages are sent per day?
+
+```
+This problem was asked recently by Microsoft.
+
+How many messages are sent on Slack each day?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/221?email=kinshukram@gmail.com&token=ce7b6a17ac8070821c4e81660af58eeeb297f7e755705f3d2231d85a1acd42cbc7fa8250aa196787f8934d0b1aa9a898b6c5bfef9d594609d30ce39b43476a2ebedf3fade88ef31ad9)
