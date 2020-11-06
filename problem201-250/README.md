@@ -299,3 +299,17 @@ Make it harder? Provide a sanity check before concluding.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/221?email=kinshukram@gmail.com&token=ce7b6a17ac8070821c4e81660af58eeeb297f7e755705f3d2231d85a1acd42cbc7fa8250aa196787f8934d0b1aa9a898b6c5bfef9d594609d30ce39b43476a2ebedf3fade88ef31ad9)
+
+## Daily Product Prep #222: Measure the success of StickerGiant's webpage.
+
+```
+This question was recently asked by StickerGiant.
+
+How do you think we measure the success of our web pages?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/222?email=kinshukram@gmail.com&token=09200c7f18f9faa4df47e2085b94b97e6b2edddbb690a9c3377b1d3f6e08976f98dcaf3ebf05beef02f5da983e21dc86de3bc7970f4f3e494f9967dfcc70139025398a99ad12798c66)
