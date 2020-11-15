@@ -313,3 +313,53 @@ Make it harder? Evaluate at least three different behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/222?email=kinshukram@gmail.com&token=09200c7f18f9faa4df47e2085b94b97e6b2edddbb690a9c3377b1d3f6e08976f98dcaf3ebf05beef02f5da983e21dc86de3bc7970f4f3e494f9967dfcc70139025398a99ad12798c66)
+
+## Daily Product Prep #223: Tell me about yourself.
+
+```
+This problem was recently asked by Facebook.
+
+Tell me about yourself.
+
+Make it harder? State your answer in under 2 minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/223?email=kinshukram@gmail.com&token=f94eb5a2ff86ee45de32f7d32cd4b8622184c03decc16fe045a151981e0b1f8d6adcaf64a8b68da1f98d6b39b638f014e6e333c896e66eb2b8833ab7b98b88db07877f9a88df156991)
+
+## Daily Product Prep #224: Tell me about yourself.
+
+```
+Tell me about yourself.
+
+Make it harder? State your answer in under 2 minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/tell-me-about-yourself-2/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #225: How many deliveries does Uber Eats make per day?
+
+```
+How many deliveries do you think the Uber Eats team handles each day?
+
+Make it harder? Answer in under six minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-many-deliveries-does-uber-eats-make-per-day/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #226: What should America do about TikTok?
+
+```
+TikTok was recently banned in India and some are lobbying for it's removal in America as well. What do you think should happen?
+
+Make it harder? Provide three reasons for your selection.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/what-should-america-do-about-tiktok/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
