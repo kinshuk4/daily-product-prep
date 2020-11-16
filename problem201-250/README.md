@@ -363,3 +363,15 @@ Make it harder? Provide three reasons for your selection.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/what-should-america-do-about-tiktok/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #227: Design a Shopify app.
+
+```
+Design a new Shopify App.
+
+Make it harder? Build an app around payments.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-a-shopify-app/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
