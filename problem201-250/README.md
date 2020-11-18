@@ -375,3 +375,29 @@ Make it harder? Build an app around payments.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-a-shopify-app/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #228: How do you think TikTok should monetize?
+
+```
+TikTok is becoming one of the biggest social apps in the world. How would you monetize it?
+
+Make it harder? Provide 2 different monetization strategies.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-do-you-think-tiktok-should-monetize/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #229: Design a smart picture frame.
+
+```
+Design a smart picture frame.
+
+Make it harder? Assume they're for the tech-savvy millennial.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-a-smart-picture-frame/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
