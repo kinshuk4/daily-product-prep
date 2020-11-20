@@ -401,3 +401,15 @@ Make it harder? Assume they're for the tech-savvy millennial.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-a-smart-picture-frame/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #230: How many bottles of wine are opened per day?
+
+```
+How many bottles of wine are opened per day?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-many-bottles-of-wine-are-opened-per-day/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
