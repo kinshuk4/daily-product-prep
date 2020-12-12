@@ -413,3 +413,199 @@ Make it harder? Provide a sanity check before concluding.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-many-bottles-of-wine-are-opened-per-day/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #231: How many calls are received per day?
+
+```
+How many phone calls are received per day?
+
+Make it harder? Provide a sanity check before concluding.S
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-many-calls-are-received-per-day/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #232: How would you improve Rover?
+
+```
+You mentioned you had a dog earlier, so you must be familiar with Rover - how would you improve it?
+
+Make it harder? Focus on supply side improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-would-you-improve-rover/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #233: How would you measure the success of Google Drive's upload feature?
+
+```
+How would you measure the success of Google Drive's upload feature?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-would-you-measure-the-success-of-google-drives-upload-feature/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #234: What are three endpoints YouTube?
+
+```
+What are three endpoints on YouTube?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/what-are-three-endpoints-youtube/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #235: Improve StubHub.
+
+```
+How would you improve StubHub?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/improve-stubhub/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #236: Which vertical should Facebook go into next?
+
+```
+Facebook has made a lot of acquisitions to became a powerhouse in the tech space. Are there any other verticals or acquisitions you think they should look into?
+
+Make it harder? Provide three reasons for your selection.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/which-vertical-should-facebook-go-into-next/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #237: What's your favorite product?
+
+```
+What's your favorite product?
+
+For this problem we'll be using Kickstarter.
+
+Make it harder? Follow along and use Kickstarter as your answer.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-favorite-product-2/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #238: Why work at Atlassian?
+
+```
+Why do you want to work at Atlassian?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/why-work-at-atlassian/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #239: Go into detail about a login endpoint.
+
+```
+Go into detail about what happens when a user logs in to an app.
+
+Make it harder? List at least five specific steps.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/go-into-detail-about-a-login-endpoint/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #240: Why work at PayPal?
+
+```
+Why do you want to work at PayPal?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/why-work-at-paypal/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #241: Design a web app for office workers to book time off.
+
+```
+Design a web app for office workers to book time off.
+
+Make it harder? Whiteboard your solution!
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-a-web-app-for-office-workers-to-book-time-off/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #242: What's your favorite enterprise app?
+
+```
+What's your favorite enterprise app? Please don't use HubSpot.
+
+For this problem we'll be using Google Analyticsl.
+
+Make it harder? Follow along and use Google Analytics as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-favorite-enterprise-app/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #243: Improve Yelp.
+
+```
+We're always looking for ways to improve our app experience for our users. Based on your research, how would you improve Yelp?
+
+Make it harder? Use data to validate your solution.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/improve-yelp/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #244: Design an app for food takeout.
+
+```
+One of the main activities for anyone here is lunch. We occasionally have catered lunches and we have a bar/cafe that provides drinks. However, one big problem is waiting in lines for these lunches can be long. Design a product that would help Yelp engineers pick up their catered lunch without having to line up.
+
+Make it harder? Whiteboard your solution.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-an-app-for-food-takeout/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #245: Estimate Facebook's yearly ad revenue.
+
+```
+Estimate Facebook's yearly ad revenue?
+
+Make it harder? Come up with two unique ways to estimate ad revenue
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/estimate-facebooks-yearly-ad-revenue-1/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
