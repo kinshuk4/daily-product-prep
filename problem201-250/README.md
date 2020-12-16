@@ -609,3 +609,27 @@ Make it harder? Come up with two unique ways to estimate ad revenue
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/estimate-facebooks-yearly-ad-revenue-1/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #246: Design an elevator.
+
+```
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-an-elevator/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #247: Measure the success of Uber Eats.
+
+```
+Uber Eats has become one of our premier offerings. How do you think we track it's success?
+
+Make it harder? Do this question twice: first measure the success on the consumer side, and then measure the success on the business side.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/measure-the-success-of-uber-eats/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
