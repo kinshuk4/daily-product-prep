@@ -633,3 +633,29 @@ Make it harder? Do this question twice: first measure the success on the consume
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/measure-the-success-of-uber-eats/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #248: What's your favorite non-technical product?
+
+```
+What's your favorite non-tech product that you use frequently?
+
+For this problem we'll be using Inflatable Travel Pillows.
+
+Make it harder? Provide at least one improvement to this product.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-favorite-non-technical-product/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #249: Diagnose a 30% usage drop on the Apple App Store.
+
+```
+Let's say App Store usage dropped 30%. What would you do?
+
+Make it harder? The drop happens the month after the new iPhone launched.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/diagnose-a-30percent-usage-drop-on-the-apple-app-store/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
