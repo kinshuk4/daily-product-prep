@@ -659,3 +659,17 @@ Make it harder? The drop happens the month after the new iPhone launched.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/diagnose-a-30percent-usage-drop-on-the-apple-app-store/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #250: What's your favorite product and why?
+
+```
+What's your favorite product and why?
+
+For this problem we'll be using Netflix.
+
+Make it harder? Follow along and use Netflix as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-favorite-product-and-why-3/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
