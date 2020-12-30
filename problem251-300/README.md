@@ -77,3 +77,15 @@ Thanks for being a subscriber, and have a great day!
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-would-you-improve-netflix/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #257: Measure specific improvements to Facebook Messenger.
+
+```
+How would you measure improvements made to Facebook Messenger?
+
+Make it harder? Analyze at least two different behaviors.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/measure-specific-improvements-to-facebook-messenger/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
