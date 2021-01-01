@@ -89,3 +89,27 @@ Make it harder? Analyze at least two different behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/measure-specific-improvements-to-facebook-messenger/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #258: Why would you want to work at Google?
+
+```
+Why do you want to work at Google?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/why-would-you-want-to-work-at-google/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #259: Explain the benefits of A/B testing.
+
+```
+What's the benefit of A/B testing for product organizations?
+
+Make it harder? List at least three different reasons.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/explain-the-benefits-of-ab-testing/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
