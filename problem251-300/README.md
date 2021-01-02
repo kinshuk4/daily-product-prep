@@ -113,3 +113,14 @@ Make it harder? List at least three different reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/explain-the-benefits-of-ab-testing/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #260: How many weddings does someone attend in their life?
+
+```
+How many weddings does the average American attend in their lifetime?
+
+Make it harder? Account for divorces and remarrying.
+```
+
+------
+
