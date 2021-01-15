@@ -124,3 +124,123 @@ Make it harder? Account for divorces and remarrying.
 
 ------
 
+## Daily Product Prep #261: Improve Day One.
+
+```
+Day One is my favorite journaling app. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/improve-day-one/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #262: How many rides does Uber serve each month?
+
+```
+Estimate how many rides you think happen on Uber each month.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
+Thanks for being a subscriber, and have a great day!
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/how-many-rides-does-uber-serve-each-month/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #263: What's your biggest strength?
+
+```
+What's your biggest strength?
+
+Make it harder? Use attention to detail as your strength.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-biggest-strength-3/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #264: What's your favorite enterprise product?
+
+```
+This problem was recently asked by Stripe.
+
+What's your favorite enterprise product that you use at your current job? Why do you like it?
+
+For this problem we'll be using Confluence.
+
+Make it harder? Explain your solution in under 7 minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-favorite-enterprise-product-1/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #265: What's a tool you think other product managers should use?
+
+```
+What's a product management tool you think others should use?
+
+For this problem we'll be using Balsamiq, a wireframing app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-a-tool-you-think-other-product-managers-should-use-1/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #266: Improve ESPN.
+
+```
+How would you improve how we serve content on ESPN?
+
+Make it harder? Assume you're improving the mobile app.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/improve-espn/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #267: List 5 endpoints on Spotify.
+
+```
+One app I use everyday is Spotify. Provide five different examples of APIs they may have.
+
+Make it harder? Provide your answer in under one minute.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/list-5-endpoints-on-spotify/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #268: Improve a product.
+
+```
+Pick any product. How would you make it better?
+
+For this solution, we'll be using Twitch.
+
+Make it harder? Follow along and use Twitch in your response.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/improve-a-product/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #269: Design a way for people to vote.
+
+Here's today's problem:
+
+```
+Design a better way for people to vote in the upcoming US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-a-way-for-people-to-vote/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
