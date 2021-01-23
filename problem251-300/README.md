@@ -232,8 +232,6 @@ Make it harder? Follow along and use Twitch in your response.
 
 ## Daily Product Prep #269: Design a way for people to vote.
 
-Here's today's problem:
-
 ```
 Design a better way for people to vote in the upcoming US Presidential election.
 
@@ -244,3 +242,74 @@ Make it harder? Propose and evaluate at least three different solutions.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/design-a-way-for-people-to-vote/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
 
+## Daily Product Prep #270: 23andMe's conversion dropped 33%. What do you do?
+
+```
+Assume our conversion dropped 33% on 23andMe's landing page, what would you do?
+
+Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/23andmes-conversion-dropped-33percent-what-do-you-do/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #271: Diagnose a 15% increase in Codecademy signups.
+
+```
+Signups on Codecademy's landing page are up 15% - why do you think this happened?
+
+Make it harder? 90% of new signups are on mobile.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/diagnose-a-15percent-increase-in-codecademy-signups/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #272: Explain why Airbnb is a good app.
+
+```
+Do you use Airbnb? Why?
+
+Make it harder? Provide two improvements with your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/explain-why-airbnb-is-a-good-app/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #273: Explain how the US-China trade debacle impacts Apple.
+
+```
+How do you think the 2019 US-China trade war affects Apple?
+
+Make it harder? Propose at least three different ways Apple is affected.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/explain-how-the-us-china-trade-debacle-impacts-apple/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #274: Why would you want to work at Twitter?
+
+```
+Why do you want to work at Twitter?
+
+Make it harder? Assume you applied for a role in their Ads division.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/why-would-you-want-to-work-at-twitter/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #275: Explain the process of a Google Search.
+
+```
+What happens, technically, when someone does a Google Search?
+
+Make it harder? List out at least five different steps in the process.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/explain-the-process-of-a-google-search/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
