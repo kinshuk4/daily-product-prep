@@ -313,3 +313,53 @@ Make it harder? List out at least five different steps in the process.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/explain-the-process-of-a-google-search/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #276: What are 3 APIs on theScore's mobile app?
+
+```
+You won't need to know how to code, but it'll be useful if you can empathize with developers. What are three endpoints theScore might have on our sports app?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/what-are-3-apis-on-thescores-mobile-app/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #277: Tell me about yourself.
+
+```
+Tell me about yourself.
+
+Make it harder? State your answer in under 2 minutes.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/tell-me-about-yourself-3/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #278: What's your favorite physical product?
+
+```
+What's your favorite physical product?
+
+For this problem we'll be using the Vankyo Projector.
+
+Make it harder? Follow along and use the Vankyo Projector as your answer.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-favorite-physical-product-2/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
+
+## Daily Product Prep #279: Improve Rover.
+
+```
+How would you improve Rover?
+
+Make it harder? Focus on supply side improvements.
+```
+
+------
+
+[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/improve-rover/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
