@@ -30,3 +30,12 @@ How would you diagnose a 35% drop in email opens from SendGrid?
 Make it harder? Assume all other metrics remain consistent.
 ```
 
+## 26 Nov 2021
+
+Here's today's problem:
+
+```
+How many bottles of wine are opened per day?
+
+Make it harder? Provide a sanity check before concluding.
+```
