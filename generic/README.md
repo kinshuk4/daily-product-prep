@@ -39,3 +39,14 @@ How many bottles of wine are opened per day?
 
 Make it harder? Provide a sanity check before concluding.
 ```
+
+## 29 Nov 2021
+
+Here's today's problem:
+
+```
+What are three endpoints on Discord?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
