@@ -50,3 +50,12 @@ What are three endpoints on Discord?
 Make it harder? List out at least one POST request and one GET request.
 ```
 
+## 30 Nov 2021
+
+Here's today's problem:
+
+```
+I love travelling and meeting new people. Sometimes, though, it's hard to communicate in countries that don't primarily speak English. Design a new way for tourists to communicate.
+
+Make it harder? Prioritize your feature set.
+```
