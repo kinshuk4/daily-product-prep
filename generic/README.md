@@ -59,3 +59,16 @@ I love travelling and meeting new people. Sometimes, though, it's hard to commun
 
 Make it harder? Prioritize your feature set.
 ```
+
+## 2 Dec 2021
+
+Here's today's problem:
+
+```
+What's a tool you think other product managers should use?
+
+For this problem we'll be using Balsamiq, a wireframing app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
+```
+
