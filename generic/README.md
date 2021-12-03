@@ -72,3 +72,14 @@ For this problem we'll be using Balsamiq, a wireframing app.
 Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 ```
 
+## 3 Dec 2021
+
+Here's today's problem:
+
+```
+This problem was asked recently by Microsoft.
+
+Microsoft bought GitHub for $7.5 billion in 2018. Name some reasons for the acquisition.
+
+Make it harder? Provide at least 3 separate reasons.
+```
