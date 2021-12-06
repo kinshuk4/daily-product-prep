@@ -83,3 +83,13 @@ Microsoft bought GitHub for $7.5 billion in 2018. Name some reasons for the acqu
 
 Make it harder? Provide at least 3 separate reasons.
 ```
+
+## 6 Dec 2021
+
+Here's today's problem:
+
+```
+Design a bookshelf.
+
+Make it harder? Whiteboard your solution.
+```
