@@ -93,3 +93,13 @@ Design a bookshelf.
 
 Make it harder? Whiteboard your solution.
 ```
+
+## 7 Dec 2021
+
+Here's today's problem:
+
+```
+Assume 23andMe's conversion dropped 33%, what would you do?
+
+Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
+```
