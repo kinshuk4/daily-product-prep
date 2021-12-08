@@ -103,3 +103,13 @@ Assume 23andMe's conversion dropped 33%, what would you do?
 
 Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
 ```
+
+## 8 Dec 2021
+
+Here's today's problem:
+
+```
+Design a better way for people to vote in the US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
+```
