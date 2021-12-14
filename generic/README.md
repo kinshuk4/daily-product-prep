@@ -113,3 +113,44 @@ Design a better way for people to vote in the US Presidential election.
 
 Make it harder? Propose and evaluate at least three different solutions.
 ```
+
+## 9 Dec 2021
+
+Here's today's problem:
+
+```
+Singapore has grown into one of the largest financial hubs in the world. Let's say your job was to push Adobe Creative Cloud for small businesses in Singapore. What would you do?
+
+Make it harder? Provide at least five different channels that Adobe could use.
+```
+
+## 10 Dec 2021
+
+Here's today's problem:
+
+```
+How do you think LinkedIn's Jobs feature is tracked?
+
+Make it harder? Evaluate at least five different user behaviors.
+```
+
+## 13 Dec 2021
+
+Here's today's problem:
+
+```
+I love travelling and meeting new people. Sometimes, though, it's hard to communicate in countries that don't primarily speak English. Design a new way for tourists to communicate.
+
+Make it harder? Prioritize your feature set.
+```
+
+## 14 Dec 2021 - Daily Product Prep: Estimate the number of Instagram posts per day
+
+Here's today's problem:
+
+```
+Estimate the number of Instagram posts per day.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
