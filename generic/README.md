@@ -154,3 +154,25 @@ Estimate the number of Instagram posts per day.
 Make it harder? Provide a sanity check before concluding.
 ```
 
+## 15 Dec 2021 - Daily Product Prep: Estimate the total number of videos on YouTube.
+
+Here's today's problem:
+
+```
+Estimate the total number of videos on YouTube.
+
+Make it harder? Account for growth of video uploads as YouTube becomes more popular.
+```
+
+## 16 Dec 2021 - Daily Product Prep: What's your favorite product and why?
+
+Here's today's problem:
+
+```
+What's your favorite product and why?
+
+For this problem we'll be using Netflix.
+
+Make it harder? Follow along and use Netflix as your answer.
+```
+
