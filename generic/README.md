@@ -176,3 +176,13 @@ For this problem we'll be using Netflix.
 Make it harder? Follow along and use Netflix as your answer.
 ```
 
+## 17 Dec 2021 - Daily Product Prep: Design an elevator.
+
+Here's today's problem:
+
+```
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
+```
+
