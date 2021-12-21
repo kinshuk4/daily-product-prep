@@ -195,3 +195,15 @@ We recently made a pretty big decision on Instagram to remove the like count on 
 
 Make it harder? Name at least three reasons and rank them.
 ```
+
+## 21 Dec 2021 - Daily Product Prep: Improve a product.
+
+Here's today's problem:
+
+```
+Pick any product. How would you make it better?
+
+For this solution, we'll be using Twitch.
+
+Make it harder? Follow along and use Twitch in your response.
+```
