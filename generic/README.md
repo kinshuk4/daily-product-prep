@@ -207,3 +207,14 @@ For this solution, we'll be using Twitch.
 
 Make it harder? Follow along and use Twitch in your response.
 ```
+
+## 22 Dec 2021 - Daily Product Prep: Why are display ads bad?
+
+Here's today's problem:
+
+```
+Why is display advertising a bad decision?
+
+Make it harder? Propose a better option than display ads.
+```
+
