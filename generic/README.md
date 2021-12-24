@@ -227,3 +227,13 @@ One of my favorite publications is The New Yorker. Let's say you were a PM on th
 
 Make it harder? Orders dropped rapidly.
 ```
+
+## 24 Dec 2021 - Daily Product Prep: Intercom made a feature to engage with users over SMS. How would you measure it's success?
+
+Here's today's problem:
+
+```
+Imagine that you are a PM at Intercom, and you were in charge of building a new feature allowing customers to interact with their leads over SMS. How would you measure it's success?
+
+Make it harder? Analyze core behaviors.
+```
