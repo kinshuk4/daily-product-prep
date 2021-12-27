@@ -237,3 +237,13 @@ Imagine that you are a PM at Intercom, and you were in charge of building a new 
 
 Make it harder? Analyze core behaviors.
 ```
+
+## 27 Dec 2021 - Daily Product Prep: Discord made a feature allowing users to buy games through their client. How would you measure it's success?
+
+Here's today's problem:
+
+```
+Imagine that you are a PM at Discord, and you were tasked with building out a marketplace allowing users to buy games directly through their client. How would you measure it's success?
+
+Make it harder? Consider marketplace dynamics in your questioning.
+```
