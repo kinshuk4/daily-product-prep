@@ -257,3 +257,15 @@ Imagine you're a new product manager at Asana, and you're assigned to improve th
 
 Make it harder? Analyze core behaviors.
 ```
+
+## 29 Dec 2021 - Daily Product Prep: What's your favorite marketplace app?
+
+Here's today's problem:
+
+```
+What's your favorite marketplace app besides Wayfair?
+
+For this problem we'll be using Ritual.
+
+Make it harder? Follow along and use Ritual as your answer.
+```
