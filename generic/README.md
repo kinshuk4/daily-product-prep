@@ -269,3 +269,13 @@ For this problem we'll be using Ritual.
 
 Make it harder? Follow along and use Ritual as your answer.
 ```
+
+## 30 Dec 2021 - Daily Product Prep: How many weddings does the average American attend in their lifetime?
+
+Here's today's problem:
+
+```
+How many weddings does the average American attend in their lifetime?
+
+Make it harder? Account for divorces and remarrying.
+```
