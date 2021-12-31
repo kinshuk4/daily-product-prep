@@ -279,3 +279,13 @@ How many weddings does the average American attend in their lifetime?
 
 Make it harder? Account for divorces and remarrying.
 ```
+
+## 31 Dec - Daily Product Prep: Codecademy's signups increased 15% - why?
+
+Here's today's problem:
+
+```
+Signups on Codecademy's landing page are up 15% - why do you think this happened?
+
+Make it harder? 90% of new signups are on mobile.
+```
