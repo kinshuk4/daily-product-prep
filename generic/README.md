@@ -311,3 +311,14 @@ How would you go about expanding Netflix into China?
 
 Make it harder? Evaluate at least five different channels Netflix could use.
 ```
+
+## Daily Product Prep: Describe what happens when you type a URL into your browser and press Enter.
+
+Here's today's problem:
+
+```
+Describe what happens when you type a URL into your browser and press Enter.
+
+Make it harder? Provide a comprehensive answer covering DNS Lookup, request handling, and rendering.
+```
+
