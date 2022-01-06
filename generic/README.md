@@ -322,3 +322,12 @@ Describe what happens when you type a URL into your browser and press Enter.
 Make it harder? Provide a comprehensive answer covering DNS Lookup, request handling, and rendering.
 ```
 
+## Daily Product Prep: Improve Discord.
+
+Here's today's problem:
+
+```
+How would you improve Discord?
+
+Make it harder? Offer at least two unique improvements.
+```
