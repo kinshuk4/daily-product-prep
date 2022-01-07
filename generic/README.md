@@ -331,3 +331,13 @@ How would you improve Discord?
 
 Make it harder? Offer at least two unique improvements.
 ```
+
+## Daily Product Prep: Design a way for people to vote.
+
+Here's today's problem:
+
+```
+Design a better way for people to vote in the upcoming US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
+```
