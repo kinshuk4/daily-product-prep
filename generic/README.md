@@ -341,3 +341,13 @@ Design a better way for people to vote in the upcoming US Presidential election.
 
 Make it harder? Propose and evaluate at least three different solutions.
 ```
+
+## Daily Product Prep: Design an app that makes you happy.
+
+Here's today's problem:
+
+```
+Design any app that makes you happier.
+
+Make it harder? Build a mobile app.
+```
