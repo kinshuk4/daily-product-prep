@@ -363,3 +363,13 @@ For this problem we'll be using Shopify.
 
 Make it harder? Use Shopify and pretend you, yourself, built a custom portrait painting business through the platform.
 ```
+
+## Daily Product Prep: Explain the benefits of A/B testing.
+
+Here's today's problem:
+
+```
+What's the benefit of A/B testing for product organizations?
+
+Make it harder? List at least three different reasons.
+```
