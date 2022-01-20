@@ -373,3 +373,13 @@ What's the benefit of A/B testing for product organizations?
 
 Make it harder? List at least three different reasons.
 ```
+
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being too agreeable as your answer.
+```
