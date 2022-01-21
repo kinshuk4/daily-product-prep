@@ -383,3 +383,15 @@ What's your biggest weakness?
 
 Make it harder? Use being too agreeable as your answer.
 ```
+
+## Daily Product Prep: How would you measure the success of EdX's search bar?
+
+Here's today's problem:
+
+```
+This question was recently asked by Airbnb.
+
+I love learning, and edX has become one of my favorite tools for self-learning at home. How would you measure the success of their search bar?
+
+Make it harder? Evaluate at least three different behaviors.
+```
