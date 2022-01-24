@@ -395,3 +395,13 @@ I love learning, and edX has become one of my favorite tools for self-learning a
 
 Make it harder? Evaluate at least three different behaviors.
 ```
+
+## Daily Product Prep: Diagnose a 20% drop in Facebook Groups usage.
+
+Here's today's problem:
+
+```
+You're the PM of Facebook Groups and you notice usage has dropped 20%. What are your next steps?
+
+Make it harder? The drop has been gradual for the past two weeks.
+```
