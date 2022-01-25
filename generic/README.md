@@ -405,3 +405,13 @@ You're the PM of Facebook Groups and you notice usage has dropped 20%. What are 
 
 Make it harder? The drop has been gradual for the past two weeks.
 ```
+
+## Daily Product Prep: How would you determine success of LinkedIn's Job feature?
+
+Here's today's problem:
+
+```
+How do you think LinkedIn's Jobs feature is tracked?
+
+Make it harder? Evaluate at least five different user behaviors.
+```
