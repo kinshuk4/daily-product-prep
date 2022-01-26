@@ -415,3 +415,13 @@ How do you think LinkedIn's Jobs feature is tracked?
 
 Make it harder? Evaluate at least five different user behaviors.
 ```
+
+## Daily Product Prep: How did COVID-19 affect Uber?
+
+Here's today's problem:
+
+```
+How do you think COVID-19 impacted Uber?
+
+Make it harder? Evaluate at least three different reasons.
+```
