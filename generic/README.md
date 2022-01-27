@@ -425,3 +425,13 @@ How do you think COVID-19 impacted Uber?
 
 Make it harder? Evaluate at least three different reasons.
 ```
+
+## Daily Product Prep: Diagnose a 25% drop on Spotify's Landing Page
+
+Here's today's problem:
+
+```
+Conversion on the Spotify landing page dropped by 25% last week. How would you diagnose what happened?
+
+Make it harder? The drop is sudden.
+```
