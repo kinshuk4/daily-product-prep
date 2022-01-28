@@ -435,3 +435,14 @@ Conversion on the Spotify landing page dropped by 25% last week. How would you d
 
 Make it harder? The drop is sudden.
 ```
+
+## Daily Product Prep: How did COVID-19 affect Spotify?
+
+Here's today's problem:
+
+```
+What are the biggest ways COVID-19 affected Spotify?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
