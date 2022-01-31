@@ -446,3 +446,12 @@ What are the biggest ways COVID-19 affected Spotify?
 Make it harder? Evaluate at least three different reasons.
 ```
 
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being careless as your weakness.
+```
