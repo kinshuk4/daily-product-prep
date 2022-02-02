@@ -455,3 +455,13 @@ What's your biggest weakness?
 
 Make it harder? Use being careless as your weakness.
 ```
+
+## Daily Product Prep: Asana made a feature improvement to their ticketing system. How would you measure it's success?
+
+Here's today's problem:
+
+```
+Imagine you're a new product manager at Asana, and you're assigned to improve the ticketing software. How would you measure the success of these improvements?
+
+Make it harder? Analyze core behaviors.
+```
