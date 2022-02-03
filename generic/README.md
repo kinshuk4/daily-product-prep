@@ -465,3 +465,13 @@ Imagine you're a new product manager at Asana, and you're assigned to improve th
 
 Make it harder? Analyze core behaviors.
 ```
+
+## Daily Product Prep: Estimate the number of Instagram posts per day.
+
+Here's today's problem:
+
+```
+Estimate the number of Instagram posts per day.
+
+Make it harder? Provide a sanity check before concluding.
+```
