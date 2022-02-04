@@ -475,3 +475,28 @@ Estimate the number of Instagram posts per day.
 
 Make it harder? Provide a sanity check before concluding.
 ```
+
+## Daily Product Prep: How should Yelp expand into Asia?
+
+Here's today's problem:
+
+```
+Yelp is trying to enter into the Asian market and you're the PM on the expansion team. How would you figure out growth in that market?
+
+Make it harder? Prioritize at least 6 different growth channels.
+```
+
+## Daily Product Prep: What's an app you use every day? Why do you like it?
+
+Here's today's problem:
+
+```
+What's an app you use every day? Why do you like it?
+
+For this problem we'll be using Google Calendar.
+
+Make it harder? Follow along and use Google Calendar as your answer.
+```
+
+
+
