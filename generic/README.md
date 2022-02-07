@@ -498,5 +498,12 @@ For this problem we'll be using Google Calendar.
 Make it harder? Follow along and use Google Calendar as your answer.
 ```
 
+## Daily Product Prep: How would you improve Google Maps?
 
+Here's today's problem:
 
+```
+How would you improve Google Maps?
+
+Make it harder? Offer at least two big improvements.
+```
