@@ -507,3 +507,14 @@ How would you improve Google Maps?
 
 Make it harder? Offer at least two big improvements.
 ```
+
+## Daily Product Prep: Diagnose a 25% decrease in song listens on Spotify.
+
+Here's today's problem:
+
+```
+How would you find out what caused a 25% decrease in song listens on Spotify?
+
+Make it harder? Assume conversion is down across the industry.
+```
+
