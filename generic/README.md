@@ -518,3 +518,12 @@ How would you find out what caused a 25% decrease in song listens on Spotify?
 Make it harder? Assume conversion is down across the industry.
 ```
 
+## Daily Product Prep: Why did Instagram remove the like count on posts?
+
+Here's today's problem:
+
+```
+We recently made a pretty big decision on Instagram to remove the like count on posts. Why do you think we did this?
+
+Make it harder? Name at least three reasons and rank them.
+```
