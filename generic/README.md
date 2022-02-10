@@ -527,3 +527,13 @@ We recently made a pretty big decision on Instagram to remove the like count on 
 
 Make it harder? Name at least three reasons and rank them.
 ```
+
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being too agreeable as your answer.
+```
