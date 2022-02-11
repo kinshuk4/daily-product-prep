@@ -537,3 +537,13 @@ What's your biggest weakness?
 
 Make it harder? Use being too agreeable as your answer.
 ```
+
+## Daily Product Prep: Design a smart picture frame.
+
+Here's today's problem:
+
+```
+Design a smart picture frame.
+
+Make it harder? Assume they're for the tech-savvy millennial.
+```
