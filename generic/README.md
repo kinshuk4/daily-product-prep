@@ -547,3 +547,13 @@ Design a smart picture frame.
 
 Make it harder? Assume they're for the tech-savvy millennial.
 ```
+
+## Daily Product Prep: Tell me about a product you really like.
+
+```
+Tell me about a product you really like.
+
+For this problem we'll be using LinkedIn.
+
+Make it harder? Follow along and use LinkedIn as your answer.
+```
