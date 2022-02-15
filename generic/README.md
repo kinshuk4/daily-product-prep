@@ -557,3 +557,13 @@ For this problem we'll be using LinkedIn.
 
 Make it harder? Follow along and use LinkedIn as your answer.
 ```
+
+## Daily Product Prep: Design a bookshelf.
+
+Here's today's problem:
+
+```
+Design a bookshelf.
+
+Make it harder? Whiteboard your solution.
+```
