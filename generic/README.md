@@ -567,3 +567,13 @@ Design a bookshelf.
 
 Make it harder? Whiteboard your solution.
 ```
+
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being careless as your weakness.
+```
