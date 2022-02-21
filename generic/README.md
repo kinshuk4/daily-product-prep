@@ -599,3 +599,15 @@ Want to follow along? We'll be using Codecademy for this example.
 
 Make it harder? Choose a non-technical and non-app based product.
 ```
+
+## Daily Product Prep: What's your favorite physical product?
+
+Here's today's problem:
+
+```
+What's your favorite physical product?
+
+For this problem we'll be using the Vankyo Projector.
+
+Make it harder? Follow along and use the Vankyo Projector as your answer.
+```
