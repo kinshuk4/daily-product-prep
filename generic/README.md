@@ -611,3 +611,14 @@ For this problem we'll be using the Vankyo Projector.
 
 Make it harder? Follow along and use the Vankyo Projector as your answer.
 ```
+
+## Daily Product Prep: Design a better way for people to vote.
+
+Here's today's problem:
+
+```
+Design a better way for people to vote in the US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
+```
+
