@@ -622,3 +622,13 @@ Design a better way for people to vote in the US Presidential election.
 Make it harder? Propose and evaluate at least three different solutions.
 ```
 
+## Daily Product Prep: Design an elevator.
+
+Here's today's problem:
+
+```
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
+```
+
