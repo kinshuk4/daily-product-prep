@@ -632,3 +632,13 @@ Design a better elevator.
 Make it harder? The elevator is used for heavy machinery in industrial settings.
 ```
 
+## Daily Product Prep: Explain the benefits of A/B testing.
+
+Here's today's problem:
+
+```
+What's the benefit of A/B testing for product organizations?
+
+Make it harder? List at least three different reasons.
+```
+
