@@ -642,3 +642,14 @@ What's the benefit of A/B testing for product organizations?
 Make it harder? List at least three different reasons.
 ```
 
+## Daily Product Prep: What's your favorite enterprise app?
+
+Here's today's problem:
+
+```
+What's your favorite enterprise app? Please don't use HubSpot.
+
+For this problem we'll be using Google Analyticsl.
+
+Make it harder? Follow along and use Google Analytics as your answer.
+```
