@@ -653,3 +653,13 @@ For this problem we'll be using Google Analyticsl.
 
 Make it harder? Follow along and use Google Analytics as your answer.
 ```
+
+## Daily Product Prep: Improve how ESPN serves content.
+
+Here's today's problem:
+
+```
+How would you improve how we serve content on ESPN?
+
+Make it harder? Assume you're improving the mobile app.
+```
