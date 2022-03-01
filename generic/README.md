@@ -663,3 +663,11 @@ How would you improve how we serve content on ESPN?
 
 Make it harder? Assume you're improving the mobile app.
 ```
+
+## Daily Product Prep: Help reddit expand into Japan.
+
+```
+Let's say your first job at reddit was to expand into the Japanese market. How would you do that?
+
+Make it harder? What are the risks for entering Japan?
+```
