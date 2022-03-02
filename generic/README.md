@@ -671,3 +671,13 @@ Let's say your first job at reddit was to expand into the Japanese market. How w
 
 Make it harder? What are the risks for entering Japan?
 ```
+
+## Daily Product Prep: What do you think are Airbnb's biggest risks?
+
+Here's today's problem:
+
+```
+What do you think are Airbnb's biggest risks?
+
+Make it harder? Name at least three and rank them.
+```
