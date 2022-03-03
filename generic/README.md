@@ -681,3 +681,14 @@ What do you think are Airbnb's biggest risks?
 
 Make it harder? Name at least three and rank them.
 ```
+
+## Daily Product Prep: Diagnose a 35% decrease in email open rates on SendGrid.
+
+Here's today's problem:
+
+```
+How would you diagnose a 35% drop in email opens from SendGrid?
+
+Make it harder? Assume all other metrics remain consistent.
+```
+
