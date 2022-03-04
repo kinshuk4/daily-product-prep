@@ -692,3 +692,12 @@ How would you diagnose a 35% drop in email opens from SendGrid?
 Make it harder? Assume all other metrics remain consistent.
 ```
 
+## Daily Product Prep: Which do you think was Facebook's best acquisition?
+
+Here's today's problem:
+
+```
+What do you think was Facebook's best acquisition?
+
+Make it harder? Provide three reasons for your selection.
+```
