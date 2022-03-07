@@ -701,3 +701,13 @@ What do you think was Facebook's best acquisition?
 
 Make it harder? Provide three reasons for your selection.
 ```
+
+## Daily Product Prep: Improve the Oculus Store.
+
+Here's today's problem:
+
+```
+A key component for the VR experience at Oculus is the Oculus Store. The Oculus Store is a marketplace that connects users with the creations of the thousands of developers in the Oculus ecosystem. How would you improve the Oculus Store if you were hired here?
+
+Make it harder? Double down on one user type for your solution.
+```
