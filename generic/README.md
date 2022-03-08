@@ -711,3 +711,11 @@ A key component for the VR experience at Oculus is the Oculus Store. The Oculus 
 
 Make it harder? Double down on one user type for your solution.
 ```
+
+## Daily Product Prep: Why did Salesforce acquire Tableau?
+
+```
+Why do you think Salesforce acquired Tableau?
+
+Make it harder? Evaluate at least three different reasons.
+```
