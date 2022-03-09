@@ -719,3 +719,11 @@ Why do you think Salesforce acquired Tableau?
 
 Make it harder? Evaluate at least three different reasons.
 ```
+
+## Daily Product Prep: How big is the market for Dropbox for SMBs?
+
+```
+How big is the market for Dropbox for SMBs?
+
+Make it harder? Consider up-sold items in your solution.
+```
