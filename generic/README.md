@@ -727,3 +727,13 @@ How big is the market for Dropbox for SMBs?
 
 Make it harder? Consider up-sold items in your solution.
 ```
+
+## Daily Product Prep: Diagnose a 25% decrease in song listens on Spotify.
+
+Here's today's problem:
+
+```
+How would you find out what caused a 25% decrease in song listens on Spotify?
+
+Make it harder? Assume conversion is down across the industry.
+```
