@@ -737,3 +737,13 @@ How would you find out what caused a 25% decrease in song listens on Spotify?
 
 Make it harder? Assume conversion is down across the industry.
 ```
+
+## Daily Product Prep: How did COVID-19 affect Amazon?
+
+Here's today's problem:
+
+```
+How do you think Amazon was affected by COVID-19?
+
+Make it harder? Evaluate at least three different reasons.
+```
