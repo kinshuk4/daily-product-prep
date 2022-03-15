@@ -757,3 +757,13 @@ Let's say Uber changed their referral system. How would you measure it's success
 
 Make it harder? Analyze core behaviors.
 ```
+
+## Daily Product Prep: Design any subscription based product.
+
+Here's today's problem:
+
+```
+Think of different types of subscription services - design one of your choice.
+
+Make it harder? Choose a product with a physical component.
+```
