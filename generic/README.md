@@ -767,3 +767,14 @@ Think of different types of subscription services - design one of your choice.
 
 Make it harder? Choose a product with a physical component.
 ```
+
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use stubbornness as your answer.
+```
+
