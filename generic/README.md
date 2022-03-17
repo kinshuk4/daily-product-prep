@@ -778,3 +778,12 @@ What's your biggest weakness?
 Make it harder? Use stubbornness as your answer.
 ```
 
+## Daily Product Prep: What are the most important metrics for Yelp?
+
+Here's today's problem:
+
+```
+How do you think Yelp tracks their product's success?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
