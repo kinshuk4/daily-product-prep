@@ -787,3 +787,13 @@ How do you think Yelp tracks their product's success?
 
 Make it harder? Evaluate at least three different user behaviors.
 ```
+
+## Daily Product Prep: Design an elevator.
+
+Here's today's problem:
+
+```
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
+```
