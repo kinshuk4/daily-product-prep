@@ -797,3 +797,13 @@ Design a better elevator.
 
 Make it harder? The elevator is used for heavy machinery in industrial settings.
 ```
+
+## Daily Product Prep: Design a bookshelf.
+
+Here's today's problem:
+
+```
+Design a bookshelf.
+
+Make it harder? Whiteboard your solution.
+```
