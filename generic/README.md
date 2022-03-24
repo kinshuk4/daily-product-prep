@@ -836,3 +836,14 @@ For this solution, we'll be using Twitch.
 Make it harder? Follow along and use Twitch in your response.
 ```
 
+## Daily Product Prep: Tell me about an app you use on your phone every day.
+
+Here's today's problem:
+
+```
+Tell me about an app you use on your phone every day. Please don't use any Facebook products, including Instagram or WhatsApp.
+
+For this problem we'll be using Splitwise, a shared bill and expense tracking app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
+```
