@@ -847,3 +847,13 @@ For this problem we'll be using Splitwise, a shared bill and expense tracking ap
 
 Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 ```
+
+## Daily Product Prep: Spotify installs increased 25%. What happened?
+
+Here's today's problem:
+
+```
+Let's say Spotify installs increased 25% — what are reasons this might have happened?
+
+Make it harder? Provide four different reasons why this could have happened.
+```
