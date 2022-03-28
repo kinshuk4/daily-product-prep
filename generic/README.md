@@ -857,3 +857,13 @@ Let's say Spotify installs increased 25% — what are reasons this might have ha
 
 Make it harder? Provide four different reasons why this could have happened.
 ```
+
+## Daily Product Prep: How would you implement reactions for Facebook?
+
+Here's today's problem:
+
+```
+Let's say it's 2009, and Facebook just launched the Like button. You want to extend it with reactions. Explain, in plain English, how to accomplish that technically.
+
+Make it harder? Make it so your system allows as many types of reactions as you want.
+```
