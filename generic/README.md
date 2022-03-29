@@ -867,3 +867,13 @@ Let's say it's 2009, and Facebook just launched the Like button. You want to ext
 
 Make it harder? Make it so your system allows as many types of reactions as you want.
 ```
+
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being too micro-managey as your answer.
+```
