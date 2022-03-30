@@ -877,3 +877,13 @@ What's your biggest weakness?
 
 Make it harder? Use being too micro-managey as your answer.
 ```
+
+## Daily Product Prep: How would you determine success of LinkedIn's Job feature?
+
+Here's today's problem:
+
+```
+How do you think LinkedIn's Jobs feature is tracked?
+
+Make it harder? Evaluate at least five different user behaviors.
+```
