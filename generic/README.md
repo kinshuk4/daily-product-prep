@@ -887,3 +887,13 @@ How do you think LinkedIn's Jobs feature is tracked?
 
 Make it harder? Evaluate at least five different user behaviors.
 ```
+
+## Daily Product Prep: Why did Yelp sell Eat24?
+
+Here's today's problem:
+
+```
+A couple of years ago Yelp sold off their Eat24 product and saw their stock jump a considerable amount. Why do you think this happened?
+
+Make it harder? Provide at least three different reasons.
+```
