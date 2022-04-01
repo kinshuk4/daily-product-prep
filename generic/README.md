@@ -897,3 +897,15 @@ A couple of years ago Yelp sold off their Eat24 product and saw their stock jump
 
 Make it harder? Provide at least three different reasons.
 ```
+
+## Daily Product Prep: What's your favorite e-commerce store?
+
+Here's today's problem:
+
+```
+What's your favorite e-commerce store?
+
+For this problem we'll be using Sephora.
+
+Make it harder? Follow along and use Sephora as your answer.
+```
