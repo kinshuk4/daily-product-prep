@@ -909,3 +909,13 @@ For this problem we'll be using Sephora.
 
 Make it harder? Follow along and use Sephora as your answer.
 ```
+
+## Daily Product Prep: Diagnose a 35% drop in usage on Invision.
+
+Here's today's problem:
+
+```
+Assume usage on the Invision web app is down 35% - why do you think that might have happened?
+
+Make it harder? Revenue is also down.
+```
