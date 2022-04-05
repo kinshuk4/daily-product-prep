@@ -919,3 +919,13 @@ Assume usage on the Invision web app is down 35% - why do you think that might h
 
 Make it harder? Revenue is also down.
 ```
+
+## Daily Product Prep: What does the Signup endpoint on Facebook do?
+
+Here's today's problem:
+
+```
+Go into detail about Facebook's signup endpoint. What does it do and what information does it require?
+
+Make it harder? List out as much detail as you can!
+```
