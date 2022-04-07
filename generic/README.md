@@ -939,3 +939,13 @@ Assume 23andMe's conversion dropped 33%, what would you do?
 
 Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
 ```
+
+## Daily Product Prep: How many rides happen on Uber each month?
+
+Here's today's problem:
+
+```
+Estimate how many rides you think happen on Uber each month.
+
+Make it harder? Provide a sanity check before concluding.
+```
