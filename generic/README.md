@@ -949,3 +949,13 @@ Estimate how many rides you think happen on Uber each month.
 
 Make it harder? Provide a sanity check before concluding.
 ```
+
+## Daily Product Prep: Design Uber for laundry.
+
+Here's today's problem:
+
+```
+Design Uber for laundry.
+
+Make it harder? Whiteboard your solution for the supply side of the app.
+```
