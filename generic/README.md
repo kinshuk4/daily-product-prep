@@ -969,3 +969,13 @@ How would you measure the success of the recommendation engine at Netflix?
 
 Make it harder? Map at least 5 unique user behaviors.
 ```
+
+## Daily Product Prep: How would you measure the success of FaceTime?
+
+Here's today's problem:
+
+```
+If you were the product manager for FaceTime, how would you measure it's success?
+
+Make it harder? Evaluate at least three different behaviors.
+```
