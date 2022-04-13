@@ -979,3 +979,13 @@ If you were the product manager for FaceTime, how would you measure it's success
 
 Make it harder? Evaluate at least three different behaviors.
 ```
+
+## Daily Product Prep: Diagnose a 30% drop in usage on the Apple App store.
+
+Here's today's problem:
+
+```
+Let's say App Store usage dropped 30%. What would you do?
+
+Make it harder? The drop happens the month after the new iPhone launched.
+```
