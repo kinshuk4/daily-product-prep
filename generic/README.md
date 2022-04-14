@@ -989,3 +989,14 @@ Let's say App Store usage dropped 30%. What would you do?
 
 Make it harder? The drop happens the month after the new iPhone launched.
 ```
+
+## Daily Product Prep: What is the size of the micromobility market in the United States?
+
+Here's today's problem:
+
+```
+What is the size of the micromobility market in the United States?
+
+Make it harder? Use existing micromobility company valuations to check your answer.
+```
+
