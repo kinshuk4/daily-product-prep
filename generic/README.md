@@ -1000,3 +1000,12 @@ What is the size of the micromobility market in the United States?
 Make it harder? Use existing micromobility company valuations to check your answer.
 ```
 
+## Daily Product Prep: What is the benefit of a control group when testing?
+
+Here's today's problem:
+
+```
+What is the benefit of having a control group when testing?
+
+Make it harder? Give an example to help illustrate your point.
+```
