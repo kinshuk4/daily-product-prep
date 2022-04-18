@@ -1009,3 +1009,13 @@ What is the benefit of having a control group when testing?
 
 Make it harder? Give an example to help illustrate your point.
 ```
+
+## Daily Product Prep: How would you improve Spotify?
+
+Here's today's problem:
+
+```
+Let's say we hired you here at Spotify to solve one problem we're facing for you as a user. What would you implement?
+
+Make it harder? Assume you primarily use Spotify while driving.
+```
