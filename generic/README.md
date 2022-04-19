@@ -1019,3 +1019,13 @@ Let's say we hired you here at Spotify to solve one problem we're facing for you
 
 Make it harder? Assume you primarily use Spotify while driving.
 ```
+
+## Daily Product Prep: What are some reasons why Google acquired Fitbit?
+
+Here's today's problem:
+
+```
+What are some reasons why Google acquired Fitbit?
+
+Make it harder? Name at least five different reasons.
+```
