@@ -1029,3 +1029,13 @@ What are some reasons why Google acquired Fitbit?
 
 Make it harder? Name at least five different reasons.
 ```
+
+## Daily Product Prep: Which do you think was Facebook's best acquisition?
+
+Here's today's problem:
+
+```
+What do you think was Facebook's best acquisition?
+
+Make it harder? Provide three reasons for your selection.
+```
