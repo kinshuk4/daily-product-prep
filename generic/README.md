@@ -1039,3 +1039,13 @@ What do you think was Facebook's best acquisition?
 
 Make it harder? Provide three reasons for your selection.
 ```
+
+## Daily Product Prep: Design a new way for tourists to communicate.
+
+Here's today's problem:
+
+```
+I love travelling and meeting new people. Sometimes, though, it's hard to communicate in countries that don't primarily speak English. Design a new way for tourists to communicate.
+
+Make it harder? Prioritize your feature set.
+```
