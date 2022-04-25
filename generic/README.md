@@ -1061,3 +1061,13 @@ For this problem we'll be using Balsamiq, a wireframing app.
 
 Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 ```
+
+## Daily Product Prep: Design a cereal dispenser.
+
+Here's today's problem:
+
+```
+Design a cereal dispenser.
+
+Make it harder? Build for those over the age of 65.
+```
