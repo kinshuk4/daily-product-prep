@@ -1081,3 +1081,13 @@ I think quarantine from COVID-19 has taught us as a company a lot. What are ways
 
 Make it harder? Evaluate at least three different reasons.
 ```
+
+## Daily Product Prep: How would you improve Zoom?
+
+Here's today's problem:
+
+```
+Since the quarantine, a lot of us have been stuck at home and reliant on Zoom for work and socialization. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
