@@ -1091,3 +1091,13 @@ Since the quarantine, a lot of us have been stuck at home and reliant on Zoom fo
 
 Make it harder? Offer at least one small improvement and one big improvement.
 ```
+
+## Daily Product Prep: Design any subscription based product.
+
+Here's today's problem:
+
+```
+Think of different types of subscription services - design one of your choice.
+
+Make it harder? Choose a product with a physical component.
+```
