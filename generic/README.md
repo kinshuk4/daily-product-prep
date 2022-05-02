@@ -1111,3 +1111,13 @@ Make it harder? Propose at least three different ways Apple is affected.
 ```
 
 Thanks for being a subscriber, and have a great day!
+
+## Daily Product Prep: List 5 endpoints on Spotify.
+
+Here's today's problem:
+
+```
+One app I use everyday is Spotify. Provide five different examples of APIs they may have.
+
+Make it harder? Provide your answer in under one minute.
+```
