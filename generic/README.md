@@ -1121,3 +1121,13 @@ One app I use everyday is Spotify. Provide five different examples of APIs they 
 
 Make it harder? Provide your answer in under one minute.
 ```
+
+## Daily Product Prep: Why did Google acquire YouTube?
+
+Here's today's problem:
+
+```
+Briefly describe why you think Google acquired YouTube.
+
+Make it harder? Provide at least three unique reasons why the acquisition was made.
+```
