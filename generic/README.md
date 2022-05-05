@@ -1141,3 +1141,17 @@ One of my favorite publications is The New Yorker. Let's say you were a PM on th
 
 Make it harder? Orders dropped rapidly.
 ```
+
+## Daily Product Prep: How would you measure metrics for the BART?
+
+Here's today's problem:
+
+```
+How would you measure metrics for the BART?
+
+BART stands for Bay Area Rapid Transit and is the public train transportation system in the San Francisco Bay Area.
+
+Make it harder? Come up with at least 5 different metrics.
+```
+
+w
