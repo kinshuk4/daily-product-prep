@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite product and why?
+
+Here's today's problem:
+
+```
+What's your favorite product and why?
+
+For this problem we'll be using Netflix.
+
+Make it harder? Follow along and use Netflix as your answer.
+```
+
 ## Daily Product Prep: Improve Day One.
 
 Here's today's problem:
