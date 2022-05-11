@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Google acquire YouTube?
+
+Here's today's problem:
+
+```
+Briefly describe why you think Google acquired YouTube.
+
+Make it harder? Provide at least three unique reasons why the acquisition was made.
+```
+
 ## Daily Product Prep: What's your favorite product and why?
 
 Here's today's problem:
