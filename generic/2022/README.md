@@ -1,3 +1,11 @@
+## Daily Product Prep: Diagnose a 25% decrease in conversions on Opencare.
+
+```
+How would you find out what caused a 25% decrease in conversion on Opencare?
+
+Make it harder? Assume conversion is down across the industry.
+```
+
 ## Daily Product Prep: Diagnose a 30% usage drop on the Apple App Store.
 
 Here's today's problem:
