@@ -1,3 +1,11 @@
+## Daily Product Prep: Estimate Facebook's yearly ad revenue.
+
+```
+Estimate Facebook's yearly ad revenue?
+
+Make it harder? Come up with two unique ways to estimate ad revenue
+```
+
 ## Daily Product Prep: Diagnose a 25% decrease in conversions on Opencare.
 
 ```
