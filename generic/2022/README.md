@@ -1,3 +1,11 @@
+## Daily Product Prep: What's the difference between an API and a SDK? (FREE SOLUTION)
+
+```
+How would you explain the difference between an API and a SDK to a non-technical person?
+
+Make it harder? Explain it in less than 3 sentences.
+```
+
 ## Daily Product Prep: Estimate Facebook's yearly ad revenue.
 
 ```
