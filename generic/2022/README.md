@@ -1,3 +1,11 @@
+## Daily Product Prep: List four endpoints on Tinder.
+
+```
+What are four endpoints Tinder might have on our app?
+
+Make it harder? For each endpoint, define what type of requests they are.
+```
+
 ## Daily Product Prep: What's the difference between an API and a SDK? (FREE SOLUTION)
 
 ```
@@ -87,3 +95,4 @@ RealSelf is a healthcare marketplace where consumers research aesthetic treatmen
 
 Make it harder? Your strategy should consider both supply and demand.
 ```
+
