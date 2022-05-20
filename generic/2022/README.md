@@ -1,3 +1,12 @@
+## Daily Product Prep: How do you think TikTok should monetize?
+
+
+```
+TikTok is becoming one of the biggest social apps in the world. How would you monetize it?
+
+Make it harder? Provide 2 different monetization strategies.
+```
+
 ## Daily Product Prep: List four endpoints on Tinder.
 
 ```
