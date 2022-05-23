@@ -1,3 +1,11 @@
+## Daily Product Prep: How many 'likes' happen on Facebook each day?
+
+```
+Estimate the number of likes on Facebook posts per day.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: How do you think TikTok should monetize?
 
 
