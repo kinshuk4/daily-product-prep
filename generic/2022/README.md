@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a better way for people to vote.
+
+Here's today's problem:
+
+```
+Design a better way for people to vote in the US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
+```
+
 ## Daily Product Prep: How many 'likes' happen on Facebook each day?
 
 ```
