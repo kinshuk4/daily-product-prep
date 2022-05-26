@@ -1,3 +1,13 @@
+## Daily Product Prep: Design an elevator.
+
+Here's today's problem:
+
+```
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
+```
+
 ## Daily Product Prep: Design an app that makes you happy.
 
 Here's today's problem:
