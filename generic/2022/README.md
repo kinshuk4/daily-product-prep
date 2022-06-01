@@ -1,3 +1,13 @@
+## Daily Product Prep: How does Uber Eats track success?
+
+Here's today's problem:
+
+```
+Uber Eats has become one of our premier offerings. How do you think we track it's success?
+
+Make it harder? Do this question twice: first measure the success on the consumer side, and then measure the success on the business side.
+```
+
 ## Daily Product Prep: 23andMe's conversion dropped 33%. What do you do?
 
 Here's today's problem:
