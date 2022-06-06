@@ -1,3 +1,13 @@
+## Daily Product Prep: Estimate the bandwidth required to support Spotify.
+
+Here's today's problem:
+
+```
+Estimate the bandwidth required to support Spotify.
+
+Make it harder? Estimate in petabytes per month.
+```
+
 ## Daily Product Prep: Why would you want to work at Twitter?
 
 Here's today's problem:
