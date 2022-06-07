@@ -1,3 +1,13 @@
+## Daily Product Prep: How should WeChat further expand into America?
+
+Here's today's problem:
+
+```
+Let's say WeChat wanted to have a larger presence here. What should they do to further expand into America?
+
+Make it harder? Evaluate at least five different channels.
+```
+
 ## Daily Product Prep: Estimate the bandwidth required to support Spotify.
 
 Here's today's problem:
