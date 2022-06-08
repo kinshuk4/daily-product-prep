@@ -1,3 +1,13 @@
+## Daily Product Prep: How would Netflix expand into China?
+
+Here's today's problem:
+
+```
+How would you go about expanding Netflix into China?
+
+Make it harder? Evaluate at least five different channels Netflix could use.
+```
+
 ## Daily Product Prep: How should WeChat further expand into America?
 
 Here's today's problem:
