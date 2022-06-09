@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a wedding registry.
+
+Here's today's problem:
+
+```
+How would you design a wedding registry product?
+
+Make it harder? Use Amazon features to improve the experience.
+```
+
 ## Daily Product Prep: How would Netflix expand into China?
 
 Here's today's problem:
