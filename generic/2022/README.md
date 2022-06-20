@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure the success of FaceTime?
+
+Here's today's problem:
+
+```
+If you were the product manager for FaceTime, how would you measure it's success?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
 ## Daily Product Prep: How big is the market for Dropbox for SMBs?
 
 Here's today's problem:
