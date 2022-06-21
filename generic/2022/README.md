@@ -1,3 +1,13 @@
+## Daily Product Prep: What are the advantages and disadvantages of GraphQL?
+
+Here's today's problem:
+
+```
+One thing we're really proud of is GraphQL. Based on your technical knowledge, can you tell me one advantage and one disadvantage of GraphQL?
+
+Make it harder? List out as much detail as you can!
+```
+
 ## Daily Product Prep: How would you measure the success of FaceTime?
 
 Here's today's problem:
