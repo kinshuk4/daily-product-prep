@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a food pickup app for Yelp engineers.
+
+Here's today's problem:
+
+```
+One of the main activities for anyone here is lunch. We occasionally have catered lunches and we have a bar/cafe that provides drinks. However, one big problem is waiting in lines for these lunches can be long. Design a product that would help Yelp engineers pick up their catered lunch without having to line up.
+
+Make it harder? Whiteboard your solution.
+```
+
 ## Daily Product Prep: Why did Stripe launch Stripe Atlas, Stripe Press, and acquire Indie Hackers?
 
 Here's today's problem:
