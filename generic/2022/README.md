@@ -1,3 +1,15 @@
+## Daily Product Prep: Tell me about a product you like.
+
+Here's today's problem:
+
+```
+Tell me about a product you like.
+
+For this problem we'll be using Chess.com.
+
+Make it harder? Follow along and use Chess.com as your answer.
+```
+
 ## Daily Product Prep: Design a new way for tourists to communicate.
 
 Here's today's problem:
