@@ -1,3 +1,13 @@
+## Daily Product Prep: What is the most important metric for Google Docs?
+
+Here's today's problem:
+
+```
+What is the most important metric for Google Docs and why?
+
+Make it harder? Rank at least 5 different metrics.
+```
+
 ## Daily Product Prep: Tell me about a product you like.
 
 Here's today's problem:
