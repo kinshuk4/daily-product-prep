@@ -1,3 +1,13 @@
+## Daily Product Prep: Online orders on The New Yorker are down 30% - why?
+
+Here's today's problem:
+
+```
+One of my favorite publications is The New Yorker. Let's say you were a PM on their digital team and you noticed online orders were down 30%. Figure out why.
+
+Make it harder? Orders dropped rapidly.
+```
+
 ## Daily Product Prep: How would you improve Google Maps?
 
 Here's today's problem:
