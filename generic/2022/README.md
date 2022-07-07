@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 30% usage drop on the Apple App Store.
+
+Here's today's problem:
+
+```
+Let's say App Store usage dropped 30%. What would you do?
+
+Make it harder? The drop happens the month after the new iPhone launched.
+```
+
 ## Daily Product Prep: Discord made a feature allowing users to buy games through their client. How would you measure it's success?
 
 Here's today's problem:
