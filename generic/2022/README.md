@@ -1,3 +1,13 @@
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being careless as your weakness.
+```
+
 ## Daily Product Prep: Diagnose a 30% usage drop on the Apple App Store.
 
 Here's today's problem:
