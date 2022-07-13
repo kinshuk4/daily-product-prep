@@ -1,3 +1,15 @@
+## Daily Product Prep: List three endpoints on edX.
+
+Here's today's problem:
+
+```
+This problem was recently asked by edX.
+
+I always like to see how technical interviewees are. Can you list three endpoints on the edX web app?
+
+Make it harder? List out as much detail as you can!
+```
+
 ## Daily Product Prep: Which enterprise product do you look up to?
 
 Here's today's problem:
