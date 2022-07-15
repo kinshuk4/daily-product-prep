@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you share experiment results internally so it's digestible by different stakeholders?
+
+Here's today's problem:
+
+```
+Our digital team prides itself on experimentation. Let's say you ran an experiment and needed to communicate the results to other teams - how would you communicate in a way so everyone understands?
+
+Make it harder? Provide an example with three different stakeholders.
+```
+
 ## Daily Product Prep: How would you measure the success of the recommendation engine at Netflix?
 
 Here's today's problem:
