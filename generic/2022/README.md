@@ -1,3 +1,13 @@
+## Daily Product Prep: How does the US-China trade war affect Apple?
+
+Here's today's problem:
+
+```
+How do you think the 2019 US-China trade war affected Apple?
+
+Make it harder? Propose at least three different ways Apple is affected.
+```
+
 ## Daily Product Prep: Installs are down 35% on DoorDash's iOS app, what do you do?
 
 Here's today's problem:
