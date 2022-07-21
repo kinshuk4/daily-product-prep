@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve SSENSE?
+
+Here's today's problem:
+
+```
+How would you improve the popular fashion marketplace, SSENSE?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
 ## Daily Product Prep: How does the US-China trade war affect Apple?
 
 Here's today's problem:
