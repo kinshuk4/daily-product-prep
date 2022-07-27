@@ -1,3 +1,13 @@
+## Daily Product Prep: 23andMe's conversion dropped 33%. What do you do?
+
+Here's today's problem:
+
+```
+Assume our conversion dropped 33% on 23andMe's landing page, what would you do?
+
+Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
+```
+
 ## Daily Product Prep: Intercom made a feature to engage with users over SMS. How would you measure it's success?
 
 Here's today's problem:
