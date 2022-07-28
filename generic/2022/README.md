@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure the success of improvements made to Uber's referral system?
+
+Here's today's problem:
+
+```
+Let's say Uber changed their referral system. How would you measure it's success?
+
+Make it harder? Analyze core behaviors.
+```
+
 ## Daily Product Prep: 23andMe's conversion dropped 33%. What do you do?
 
 Here's today's problem:
