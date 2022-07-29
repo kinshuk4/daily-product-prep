@@ -1,3 +1,13 @@
+## Daily Product Prep: Explain why Airbnb is a good app.
+
+Here's today's problem:
+
+```
+Do you use Airbnb? Why?
+
+Make it harder? Provide two improvements with your answer.
+```
+
 ## Daily Product Prep: How would you measure the success of improvements made to Uber's referral system?
 
 Here's today's problem:
