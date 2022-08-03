@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Uber Eats?
+
+Here's today's problem:
+
+```
+Uber Eats has become one of our core revenue drivers. What is one thing you'd do to improve the experience?
+
+Make it harder? Offer at least three unique improvements.
+```
+
 ## Daily Product Prep: What's your biggest weakness?
 
 Here's today's problem:
