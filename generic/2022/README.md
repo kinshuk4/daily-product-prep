@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 25% decrease in free sign ups on Notion.
+
+Here's today's problem:
+
+```
+How would you find out what caused a 25% decrease in conversion on Notion?
+
+Make it harder? Mobile conversion dropped more than web conversion.
+```
+
 ## Daily Product Prep: How would you improve Uber Eats?
 
 Here's today's problem:
