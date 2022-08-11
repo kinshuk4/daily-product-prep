@@ -1,3 +1,13 @@
+## Daily Product Prep: What improvements would you make to Stripe?
+
+Here's today's problem:
+
+```
+What improvements would you make to Stripe?
+
+Make it harder? Ask a friend to mock you with this question!
+```
+
 ## Daily Product Prep: How many tweets are tweeted every day on Twitter?
 
 Here's today's problem:
