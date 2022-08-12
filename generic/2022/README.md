@@ -1,3 +1,13 @@
+## Daily Product Prep: What are three endpoints YouTube?
+
+Here's today's problem:
+
+```
+What are three endpoints on YouTube?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
 ## Daily Product Prep: What improvements would you make to Stripe?
 
 Here's today's problem:
