@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Netflix?
+
+Here's today's problem:
+
+```
+How would you improve an app like Netflix?
+
+Make it harder? Offer at least two unique improvements.
+```
+
 ## Daily Product Prep: Measure the success of Uber Eats.
 
 Here's today's problem:
