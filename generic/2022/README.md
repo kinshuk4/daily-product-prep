@@ -1,3 +1,13 @@
+## Daily Product Prep: List five different APIs Spotify has.
+
+Here's today's problem:
+
+```
+One app I use everyday is Spotify. Provide five different examples of APIs they may have.
+
+Make it harder? Provide your answer in under one minute.
+```
+
 ## Daily Product Prep: How would you improve Netflix?
 
 Here's today's problem:
