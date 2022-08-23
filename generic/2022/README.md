@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 30% usage drop on the Apple App Store.
+
+Here's today's problem:
+
+```
+Let's say App Store usage dropped 30%. What would you do?
+
+Make it harder? The drop happens the month after the new iPhone launched.
+```
+
 ## Daily Product Prep: List 3 endpoints on theScore app.
 
 Here's today's problem:
