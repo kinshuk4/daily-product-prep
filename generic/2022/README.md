@@ -1,3 +1,13 @@
+## Daily Product Prep: What improvements would you make to Stripe?
+
+Here's today's problem:
+
+```
+What improvements would you make to Stripe?
+
+Make it harder? Ask a friend to mock you with this question!
+```
+
 ## Daily Product Prep: Diagnose a 30% usage drop on the Apple App Store.
 
 Here's today's problem:
