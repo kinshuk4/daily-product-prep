@@ -1,3 +1,13 @@
+## Daily Product Prep: Google searches are down 35%. What happened?
+
+Here's today's problem:
+
+```
+Searches on Google are down 35%. What happened?
+
+Make it harder? Uploads have only changed on web uploads.
+```
+
 ## Daily Product Prep: What improvements would you make to Stripe?
 
 Here's today's problem:
