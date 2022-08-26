@@ -1,3 +1,13 @@
+## Daily Product Prep: What's the size of the food delivery market in the United States?
+
+Here's today's problem:
+
+```
+What's the size of the food delivery market in the United States?
+
+Make it harder? Provide a bottom-up analysis.
+```
+
 ## Daily Product Prep: Google searches are down 35%. What happened?
 
 Here's today's problem:
