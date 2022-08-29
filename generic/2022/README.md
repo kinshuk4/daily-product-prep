@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 20% drop in Facebook Groups usage.
+
+Here's today's problem:
+
+```
+You're the PM of Facebook Groups and you notice usage has dropped 20%. What are your next steps?
+
+Make it harder? The drop has been gradual for the past two weeks.
+```
+
 ## Daily Product Prep: What's the size of the food delivery market in the United States?
 
 Here's today's problem:
