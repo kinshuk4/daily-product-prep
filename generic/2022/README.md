@@ -1,3 +1,13 @@
+## Daily Product Prep: What are the most important metrics for Yelp?
+
+Here's today's problem:
+
+```
+How do you think Yelp tracks their product's success?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
+
 ## Daily Product Prep: Diagnose a 20% drop in Facebook Groups usage.
 
 Here's today's problem:
