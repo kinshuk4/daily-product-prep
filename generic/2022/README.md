@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite consumer product?
+
+Here's today's problem:
+
+```
+What's your favorite consumer product? Please don't use Yelp.
+
+For this problem we'll be using Discord.
+
+Make it harder? Follow along and use Discord as your answer.
+```
+
 ## Daily Product Prep: How would you improve Spotify?
 
 Here's today's problem:
