@@ -1,3 +1,13 @@
+## Daily Product Prep: What would you do if Dropbox uploads were down 50%?
+
+Here's today's problem:
+
+```
+What would you do if you found out Dropbox uploads were down 50%?
+
+Make it harder? Uploads have only changed on web.
+```
+
 ## Daily Product Prep: How would you improve Yelp?
 
 Here's today's problem:
