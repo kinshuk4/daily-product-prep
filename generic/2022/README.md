@@ -1,3 +1,13 @@
+## Daily Product Prep: What are some reasons why Google acquired Fitbit?
+
+Here's today's problem:
+
+```
+What are some reasons why Google acquired Fitbit?
+
+Make it harder? Name at least five different reasons.
+```
+
 ## Daily Product Prep: List five different APIs Spotify has.
 
 Here's today's problem:
