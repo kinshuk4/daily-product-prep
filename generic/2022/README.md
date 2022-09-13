@@ -1,3 +1,15 @@
+## Daily Product Prep: How would you improve shipment tracking on Amazon?
+
+Here's today's problem:
+
+```
+The Amazon tracking page is one of our most viewed pages post-purchase. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
+Thanks for being a subscriber, and have a great day!
+
 ## Daily Product Prep: What are some reasons why Google acquired Fitbit?
 
 Here's today's problem:
