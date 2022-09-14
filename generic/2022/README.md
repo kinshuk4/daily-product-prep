@@ -1,3 +1,13 @@
+## Daily Product Prep: Design the best slippers.
+
+Here's today's problem:
+
+```
+Design the best slippers.
+
+Make it harder? Assume they're for everyday wearers.
+```
+
 ## Daily Product Prep: How would you improve shipment tracking on Amazon?
 
 Here's today's problem:
