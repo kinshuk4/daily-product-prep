@@ -1,3 +1,13 @@
+## Daily Product Prep: Design Uber for laundry.
+
+Here's today's problem:
+
+```
+Design Uber for laundry.
+
+Make it harder? Whiteboard your solution for the supply side of the app.
+```
+
 ## Daily Product Prep: Design a dog collar.
 
 Here's today's problem:
