@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite enterprise product?
+
+Here's today's problem:
+
+```
+What's your favorite enterprise product, besides Stripe, you use at your current job? Why do you like it?
+
+For this problem we'll be using Confluence.
+
+Make it harder? Explain your solution in under 7 minutes.
+```
+
 ## Daily Product Prep: Design Uber for laundry.
 
 Here's today's problem:
