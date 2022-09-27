@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Houseparty?
+
+Here's today's problem:
+
+```
+Houseparty is a pretty popular app nowadays since quarantine began. What would you do to improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
 ## Daily Product Prep: What's your favorite enterprise product?
 
 Here's today's problem:
