@@ -1,3 +1,13 @@
+## Daily Product Prep: Spotify installs increased 25%. What happened?
+
+Here's today's problem:
+
+```
+Let's say Spotify installs increased 25% — what are reasons this might have happened?
+
+Make it harder? Provide four different reasons why this could have happened.
+```
+
 ## Daily Product Prep: How would you improve Houseparty?
 
 Here's today's problem:
