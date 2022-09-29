@@ -1,3 +1,13 @@
+## Daily Product Prep: How many calls are received per day?
+
+Here's today's problem:
+
+```
+How many phone calls are received per day?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: Spotify installs increased 25%. What happened?
 
 Here's today's problem:
