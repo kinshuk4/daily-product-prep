@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Netflix.
+
+Here's today's problem:
+
+```
+How would you improve Netflix?
+
+Make it harder? Offer at least two unique improvements.
+```
+
 ## Daily Product Prep: How would you track success at Slack?
 
 Here's today's problem:
