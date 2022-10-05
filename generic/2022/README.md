@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did PayPal acquire Honey?
+
+Here's today's problem:
+
+```
+Late last year PayPal decided to acquire Honey for almost $4 billion. What are some reasons we may have done this?
+
+Make it harder? Name at least five different reasons.
+```
+
 ## Daily Product Prep: Intercom made a feature to engage with users over SMS. How would you measure it's success?
 
 Here's today's problem:
