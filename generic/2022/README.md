@@ -1,3 +1,13 @@
+## Daily Product Prep: Design an app that makes you happy.
+
+Here's today's problem:
+
+```
+Design any app that makes you happier.
+
+Make it harder? Build a mobile app.
+```
+
 ## Daily Product Prep: List improvements for Evernote.
 
 Here's today's problem:
