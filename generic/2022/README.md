@@ -1,3 +1,13 @@
+## Daily Product Prep: What happens, technically, when someone does a Google Search?
+
+Here's today's problem:
+
+```
+What happens, technically, when someone does a Google Search?
+
+Make it harder? List out at least five different steps in the process.
+```
+
 ## Daily Product Prep: What's your favorite physical product?
 
 Here's today's problem:
