@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Netflix.
+
+Here's today's problem:
+
+```
+How would you improve Netflix?
+
+Make it harder? Offer at least two unique improvements.
+```
+
 ## Daily Product Prep: What happens, technically, when someone does a Google Search?
 
 Here's today's problem:
