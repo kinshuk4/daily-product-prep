@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite physical product?
+
+Here's today's problem:
+
+```
+What's your favorite physical product?
+
+For this problem we'll be using the Vankyo Projector.
+
+Make it harder? Follow along and use the Vankyo Projector as your answer.
+```
+
 ## Daily Product Prep: Improve Netflix.
 
 Here's today's problem:
