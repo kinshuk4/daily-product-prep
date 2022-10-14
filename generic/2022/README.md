@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Microsoft buy LinkedIn?
+
+Here's today's problem:
+
+```
+Microsoft bought LinkedIn for 26 billion dollars in 2016, even though they had a net loss of $166 million the last year. What was the reasoning for the purchase?
+
+Make it harder? Provide at least three different reasons.
+```
+
 ## Daily Product Prep: What's your favorite physical product?
 
 Here's today's problem:
