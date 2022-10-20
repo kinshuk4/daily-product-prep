@@ -1,3 +1,15 @@
+## Daily Product Prep: What is the benefit of a control group when testing?
+
+Here's today's problem:
+
+```
+What is the benefit of having a control group when testing?
+
+Make it harder? Give an example to help illustrate your point.
+```
+
+Thanks for being a subscriber, and have a great day!
+
 ## Daily Product Prep: How would you measure the success of EdX's search bar?
 
 
