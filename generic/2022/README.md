@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite marketplace app?
+
+Here's today's problem:
+
+```
+What's your favorite marketplace app besides Wayfair?
+
+For this problem we'll be using Ritual.
+
+Make it harder? Follow along and use Ritual as your answer.
+```
+
 ## Daily Product Prep: What is the benefit of a control group when testing?
 
 Here's today's problem:
