@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Facebook Marketplaces for the used car space.
+
+Here's today's problem:
+
+```
+Pretend you've just been hired as the product manager for Facebook Marketplaces. You notice one core user group are those using Marketplaces to buy and sell used cars. How would you make their experience better?
+
+Make it harder? You cannot implement any demand (buy-side) features.
+```
+
 ## Daily Product Prep: What are the most important metrics for Yelp?
 
 Here's today's problem:
