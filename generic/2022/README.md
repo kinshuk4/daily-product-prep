@@ -1,3 +1,13 @@
+## Daily Product Prep: Measure the success of Snap Maps.
+
+Here's today's problem:
+
+```
+How would you measure the success of Snap Maps?
+
+Make it harder? Whiteboard your answer.
+```
+
 ## Daily Product Prep: What is the difference between a POST request and a GET request?
 
 Here's today's problem:
