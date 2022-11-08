@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure improvements made to Facebook Messenger?
+
+Here's today's problem:
+
+```
+How would you measure improvements made to Facebook Messenger?
+
+Make it harder? Analyze at least two different behaviors.
+```
+
 ## Daily Product Prep: How many 'likes' happen on Facebook each day?
 
 Here's today's problem:
