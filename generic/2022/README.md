@@ -1,3 +1,13 @@
+## Daily Product Prep: What are three endpoints on Discord?
+
+Here's today's problem:
+
+```
+What are three endpoints on Discord?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
 ## Daily Product Prep: How would you measure improvements made to Facebook Messenger?
 
 Here's today's problem:
