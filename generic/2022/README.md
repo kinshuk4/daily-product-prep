@@ -1,3 +1,13 @@
+## Daily Product Prep: How many 'likes' happen on Instagram each day?
+
+Here's today's problem:
+
+```
+Estimate the number of likes on Instagram posts per day.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: What are three endpoints on Discord?
 
 Here's today's problem:
