@@ -1,3 +1,13 @@
+## Daily Product Prep: What are Netflix's risks if they expanded to China?
+
+Here's today's problem:
+
+```
+What are Netflix's risks if we wanted to expand into China?
+
+Make it harder? Evaluate at least three different risks.
+```
+
 ## Daily Product Prep: How many tweets are tweeted every day on Twitter?
 
 Here's today's problem:
