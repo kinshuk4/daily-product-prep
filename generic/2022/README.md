@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Twilio acquire SendGrid?
+
+Here's today's problem:
+
+```
+Why do you think Twilio acquired SendGrid?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
 ## Daily Product Prep: Why work at Slack?
 
 Here's today's problem:
