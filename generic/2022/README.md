@@ -1,3 +1,13 @@
+## Daily Product Prep: How many bottles of wine are opened per day?
+
+Here's today's problem:
+
+```
+How many bottles of wine are opened per day?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: What's your biggest weakness?
 
 Here's today's problem:
