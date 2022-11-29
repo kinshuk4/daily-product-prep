@@ -1,3 +1,13 @@
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being too agreeable as your answer.
+```
+
 ## Daily Product Prep: Design a better way for people to vote.
 
 Here's today's problem:
