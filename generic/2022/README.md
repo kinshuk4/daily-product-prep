@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a web app for office workers to book time off.
+
+Here's today's problem:
+
+```
+Design a web app for office workers to book time off.
+
+Make it harder? Whiteboard your solution!
+```
+
 ## Daily Product Prep: What do you think are Airbnb's biggest risks?
 
 Here's today's problem:
