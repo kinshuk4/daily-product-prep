@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a cereal dispenser.
+
+Here's today's problem:
+
+```
+Design a cereal dispenser.
+
+Make it harder? Build for those over the age of 65.
+```
+
 ## Daily Product Prep: Diagnose a 25% decrease in conversions on Opencare.
 
 Here's today's problem:
