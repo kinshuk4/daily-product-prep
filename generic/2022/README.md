@@ -1,3 +1,13 @@
+## Daily Product Prep: How can Facebook improve preparing for another pandemic?
+
+Here's today's problem:
+
+```
+I think quarantine from COVID-19 has taught us as a company a lot. What are ways Facebook could improve how we operate internally if another pandemic struck?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
 ## Daily Product Prep: Design a cereal dispenser.
 
 Here's today's problem:
