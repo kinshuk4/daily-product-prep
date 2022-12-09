@@ -1,3 +1,13 @@
+## Daily Product Prep: Measure the success of Snap Maps.
+
+Here's today's problem:
+
+```
+How would you measure the success of Snap Maps?
+
+Make it harder? Whiteboard your answer.
+```
+
 ## Daily Product Prep: How can Facebook improve preparing for another pandemic?
 
 Here's today's problem:
