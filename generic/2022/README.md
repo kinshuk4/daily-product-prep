@@ -1,3 +1,13 @@
+## Daily Product Prep: How would Notion expand into Europe?
+
+Here's today's problem:
+
+```
+One of my favorite apps right now is Notion. Let's say you were their product manager and you wanted them to expand into Europe. What would you do?
+
+Make it harder? Provide at least five different channels that Notion could use.
+```
+
 ## Daily Product Prep: Measure the success of Snap Maps.
 
 Here's today's problem:
