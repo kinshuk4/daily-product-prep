@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a Shopify app.
+
+Here's today's problem:
+
+```
+Design a new Shopify App.
+
+Make it harder? Build an app around payments.
+```
+
 ## Daily Product Prep: What's a tool you think other product managers should use?
 
 Here's today's problem:
