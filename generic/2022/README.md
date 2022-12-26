@@ -1,3 +1,15 @@
+## Daily Product Prep: Design a better dog bowl.
+
+Here's today's problem:
+
+```
+Design a better dog bowl.
+
+Make it harder? Consider both user and customer.
+```
+
+Thanks for being a subscriber, and have a great day!
+
 ## Daily Product Prep: How big is the market for Dropbox for SMBs?
 
 Here's today's problem:
