@@ -1,3 +1,13 @@
+## Daily Product Prep: Estimate the bandwidth (bits / s) of a 747 crossing the Atlantic filled with CDROMs.
+
+Here's today's problem:
+
+```
+Estimate the bandwidth (bits / s) of a 747 crossing the Atlantic filled with CDs.
+
+Make it harder? Ask a friend use this question to mock you!
+```
+
 ## Daily Product Prep: Design a better dog bowl.
 
 Here's today's problem:
