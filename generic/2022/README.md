@@ -1,3 +1,13 @@
+## Daily Product Prep: What's your biggest strength?
+
+Here's today's problem:
+
+```
+What's your biggest strength?
+
+Make it harder? Use attention to detail as your strength.
+```
+
 ## Daily Product Prep: What's your biggest weakness?
 
 Here's today's problem:
