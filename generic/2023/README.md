@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Rover?
+
+Here's today's problem:
+
+```
+You mentioned you had a dog earlier, so you must be familiar with Rover - how would you improve it?
+
+Make it harder? Focus on supply side improvements.
+```
+
 ## Daily Product Prep: Tell me about yourself.
 
 Here's today's problem:
