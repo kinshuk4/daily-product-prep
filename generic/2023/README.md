@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a better way for people to vote.
+
+Here's today's problem:
+
+```
+Design a better way for people to vote in the US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
+```
+
 ## Daily Product Prep: Installs are down 35% on DoorDash's iOS app, what do you do?
 
 Here's today's problem:
