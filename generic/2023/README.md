@@ -1,3 +1,13 @@
+## Daily Product Prep: Installs are down 35% on DoorDash's iOS app, what do you do?
+
+Here's today's problem:
+
+```
+If iOS installs dropped 35% on the DoorDash app, what would be your next steps?
+
+Make it harder? Android installs haven't changed.
+```
+
 ## Daily Product Prep: What are 3 APIs on theScore's mobile app?
 
 Here's today's problem:
