@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve how Slack enables collaboration.
+
+Here's today's problem:
+
+```
+How can a product like Slack make collaboration even better?
+
+Make it harder? Define at least two user types.
+```
+
 ## Daily Product Prep: Installs are down 35% on DoorDash's iOS app, what do you do?
 
 Here's today's problem:
