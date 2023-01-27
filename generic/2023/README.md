@@ -1,3 +1,13 @@
+## Daily Product Prep: List 5 endpoints on Spotify.
+
+Here's today's problem:
+
+```
+One app I use everyday is Spotify. Provide five different examples of APIs they may have.
+
+Make it harder? Provide your answer in under one minute.
+```
+
 ## Daily Product Prep: Tell me about yourself.
 
 Here's today's problem:
