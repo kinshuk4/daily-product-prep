@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite subscription-based product?
+
+Here's today's problem:
+
+```
+What's your favorite subscription-based product?
+
+For this problem we'll be using Amazon Prime.
+
+Make it harder? Follow along and use Amazon Prime as your answer.
+```
+
 ## Daily Product Prep: List 5 endpoints on Spotify.
 
 Here's today's problem:
