@@ -1,3 +1,17 @@
+## Daily Product Prep: What's your favorite non-tech product that you use frequently?
+
+Here's today's problem:
+
+```
+What's your favorite non-tech product that you use frequently?
+
+For this problem we'll be using Inflatable Travel Pillows.
+
+Make it harder? Provide at least one improvement to this product.
+```
+
+Thanks for being a subscriber, and have a great day!
+
 ## Daily Product Prep: What's your favorite subscription-based product?
 
 Here's today's problem:
