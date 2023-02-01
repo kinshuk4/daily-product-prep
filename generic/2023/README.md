@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure the success of Google Calendar?
+
+Here's today's problem:
+
+```
+If you were the product manager on Google Calendars, how would you measure it's success?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
+
 ## Daily Product Prep: What's your favorite non-tech product that you use frequently?
 
 Here's today's problem:
