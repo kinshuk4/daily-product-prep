@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Amazon start with books first?
+
+Here's today's problem:
+
+```
+Why do you think Amazon started out by selling just books?
+
+Make it harder? Provide three reasons for your selection.
+```
+
 ## Daily Product Prep: Tell me about your favorite product.
 
 Here's today's problem:
