@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite SaaS product?
+
+Here's today's problem:
+
+```
+Tell me about a SaaS product you really like using.
+
+For this problem we'll be using Shopify.
+
+Make it harder? Use Shopify and pretend you, yourself, built a custom portrait painting business through the platform.
+```
+
 ## Daily Product Prep: Why did Amazon start with books first?
 
 Here's today's problem:
