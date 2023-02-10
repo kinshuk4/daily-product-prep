@@ -1,3 +1,13 @@
+## Daily Product Prep: List three endpoints on Top Hat.
+
+Here's today's problem:
+
+```
+List three endpoints Top Had has on our digital classroom product.
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
 ## Daily Product Prep: What are 3 APIs on theScore's mobile app?
 
 Here's today's problem:
