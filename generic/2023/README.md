@@ -1,3 +1,13 @@
+## Daily Product Prep: Is high churn okay on Shopify?
+
+Here's today's problem:
+
+```
+In many products, churn and retention are really important to evaluating long-term success. Do you think it's okay for Shopify to have high churn?
+
+Make it harder? Make an argument for both sides.
+```
+
 ## Daily Product Prep: List three endpoints on Top Hat.
 
 Here's today's problem:
