@@ -1,3 +1,13 @@
+## Daily Product Prep: Installs on LinkedIn's iOS app are down, what do you do?
+
+Here's today's problem:
+
+```
+Assume LinkedIn had a significant drop in our iOS installs. What would you do?
+
+Make it harder? Uploads have only changed on web.
+```
+
 ## Daily Product Prep: Is high churn okay on Shopify?
 
 Here's today's problem:
