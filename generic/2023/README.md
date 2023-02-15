@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite consumer product?
+
+Here's today's problem:
+
+```
+What's your favorite consumer product?
+
+For this problem we'll be using the Apple Watch.
+
+Make it harder? Follow along and use the Apple Watch as your answer.
+```
+
 ## Daily Product Prep: Installs on LinkedIn's iOS app are down, what do you do?
 
 Here's today's problem:
