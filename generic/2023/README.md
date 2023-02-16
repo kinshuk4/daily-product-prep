@@ -1,3 +1,13 @@
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being too micro-managey as your answer.
+```
+
 ## Daily Product Prep: What's your favorite consumer product?
 
 Here's today's problem:
