@@ -1,3 +1,13 @@
+## Daily Product Prep: Evaluate the success of Instagram Stories.
+
+Here's today's problem:
+
+```
+How would you evaluate the success of Instagram Stories?
+
+Make it harder? List at least five different metrics you'd look at.
+```
+
 ## Daily Product Prep: What's your biggest weakness?
 
 Here's today's problem:
