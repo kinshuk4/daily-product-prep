@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 10% drop in usage on Facebook Events.
+
+Here's today's problem:
+
+```
+Usage on Facebook Events is down 10%. What do you do?
+
+Make it harder? The drop is due to cannibalization from other Facebook products and features.
+```
+
 ## Daily Product Prep: Evaluate the success of Instagram Stories.
 
 Here's today's problem:
