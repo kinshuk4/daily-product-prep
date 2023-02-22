@@ -1,3 +1,13 @@
+## Daily Product Prep: What are some endpoints Robinhood has?
+
+Here's today's problem:
+
+```
+What are some endpoints Robinhood might have on their app? What do they do and what type of information would be needed?
+
+Make it harder? List at least 5 different endpoints.
+```
+
 ## Daily Product Prep: Improve how Slack enables collaboration.
 
 Here's today's problem:
