@@ -1,3 +1,13 @@
+## Daily Product Prep: Describe what happens when you type a URL into your browser and press Enter.
+
+Here's today's problem:
+
+```
+Describe what happens when you type a URL into your browser and press Enter.
+
+Make it harder? Provide a comprehensive answer covering DNS Lookup, request handling, and rendering.
+```
+
 ## Daily Product Prep: What are some endpoints Robinhood has?
 
 Here's today's problem:
