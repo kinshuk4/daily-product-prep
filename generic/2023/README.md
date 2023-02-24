@@ -1,3 +1,13 @@
+## Daily Product Prep: How does the US-China trade war affect Apple?
+
+Here's today's problem:
+
+```
+How do you think the 2019 US-China trade war affected Apple?
+
+Make it harder? Propose at least three different ways Apple is affected.
+```
+
 ## Daily Product Prep: Describe what happens when you type a URL into your browser and press Enter.
 
 Here's today's problem:
