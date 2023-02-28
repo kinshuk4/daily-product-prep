@@ -1,3 +1,13 @@
+## Daily Product Prep: Estimate the total number of videos on YouTube.
+
+Here's today's problem:
+
+```
+Estimate the total number of videos on YouTube.
+
+Make it harder? Account for growth of video uploads as YouTube becomes more popular.
+```
+
 ## Daily Product Prep: How would you track success at Slack?
 
 Here's today's problem:
