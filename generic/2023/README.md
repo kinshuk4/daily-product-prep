@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you track success at Slack?
+
+Here's today's problem:
+
+```
+What would you track at Slack to measure our success?
+
+Make it harder? Use user behavior to prioritize metrics.
+```
+
 ## Daily Product Prep: Why work at Slack?
 
 Here's today's problem:
