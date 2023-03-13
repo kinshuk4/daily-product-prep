@@ -1,3 +1,15 @@
+## Daily Product Prep: Improve a product.
+
+Here's today's problem:
+
+```
+Pick any product. How would you make it better?
+
+For this solution, we'll be using Twitch.
+
+Make it harder? Follow along and use Twitch in your response.
+```
+
 ## Daily Product Prep: How would you track success at Slack?
 
 Here's today's problem:
