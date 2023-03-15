@@ -1,3 +1,13 @@
+## Daily Product Prep: How did COVID-19 affect Spotify?
+
+Here's today's problem:
+
+```
+What are the biggest ways COVID-19 affected Spotify?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
 ## Daily Product Prep: How would you measure the success of improvements made to Uber's referral system?
 
 Here's today's problem:
