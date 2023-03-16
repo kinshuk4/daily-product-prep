@@ -1,3 +1,13 @@
+## Daily Product Prep: List four endpoints on Tinder.
+
+Here's today's problem:
+
+```
+What are four endpoints Tinder might have on our app?
+
+Make it harder? For each endpoint, define what type of requests they are.
+```
+
 ## Daily Product Prep: How did COVID-19 affect Spotify?
 
 Here's today's problem:
