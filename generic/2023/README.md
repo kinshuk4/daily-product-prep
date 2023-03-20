@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a better dog collar.
+
+Here's today's problem:
+
+```
+Design a better dog collar.
+
+Make it harder? Propose at least three different improvements you can make to existing collars.
+```
+
 ## Daily Product Prep: What's the size of the food delivery market in the United States?
 
 Here's today's problem:
