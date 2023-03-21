@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite product?
+
+Here's today's problem:
+
+```
+What's your favorite product?
+
+For this problem we'll be using Stripe.
+
+Make it harder? Follow along and use Stripe as your answer.
+```
+
 ## Daily Product Prep: Design a better dog collar.
 
 Here's today's problem:
