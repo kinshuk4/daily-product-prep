@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a bookshelf.
+
+Here's today's problem:
+
+```
+Design a bookshelf.
+
+Make it harder? Whiteboard your solution.
+```
+
 ## Daily Product Prep: How many 'likes' happen on Facebook each day?
 
 Here's today's problem:
