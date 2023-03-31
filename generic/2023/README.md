@@ -1,3 +1,13 @@
+## Daily Product Prep: Estimate Facebook's Yearly Ad Revenue.
+
+Here's today's problem:
+
+```
+How much money does Facebook make in ads every year?
+
+Make it harder? Come up with two unique ways to estimate ad revenue
+```
+
 ## Daily Product Prep: Why did Salesforce acquire Tableau?
 
 Here's today's problem:
