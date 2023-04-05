@@ -1,3 +1,13 @@
+## Daily Product Prep: Measure the success of the iPad Pro.
+
+Here's today's problem:
+
+```
+How would you measure the success of our iPad Pro?
+
+Make it harder? Ask a friend to mock interview you with this!
+```
+
 ## Daily Product Prep: What are some endpoints on Amazon.com?
 
 Here's today's problem:
