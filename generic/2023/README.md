@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite product?
+
+Here's today's problem:
+
+```
+What's your favorite product?
+
+For this problem we'll be using Kickstarter.
+
+Make it harder? Follow along and use Kickstarter as your answer.
+```
+
 ## Daily Product Prep: Measure the success of the iPad Pro.
 
 Here's today's problem:
