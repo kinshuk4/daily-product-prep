@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a smart picture frame.
+
+Here's today's problem:
+
+```
+Design a smart picture frame.
+
+Make it harder? Assume they're for the tech-savvy millennial.
+```
+
 ## Daily Product Prep: Estimate the bandwidth (bits / s) of a 747 crossing the Atlantic filled with CDROMs.
 
 Here's today's problem:
