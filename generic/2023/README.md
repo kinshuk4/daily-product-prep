@@ -1,3 +1,13 @@
+## Daily Product Prep: Build a birthday app for Facebook.
+
+Here's today's problem:
+
+```
+Build a new birthday feature for Facebook.
+
+Make it harder? Whiteboard your solution.
+```
+
 ## Daily Product Prep: Why did Microsoft buy LinkedIn?
 
 Here's today's problem:
