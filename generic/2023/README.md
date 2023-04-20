@@ -1,3 +1,15 @@
+## Daily Product Prep: Why did Microsoft buy GitHub?
+
+Here's today's problem:
+
+```
+This problem was asked recently by Microsoft.
+
+Microsoft bought GitHub for $7.5 billion in 2018. Name some reasons for the acquisition.
+
+Make it harder? Provide at least 3 separate reasons.
+```
+
 ## Daily Product Prep: How would you measure the success of Yelp's search bar?
 
 Here's today's problem:
