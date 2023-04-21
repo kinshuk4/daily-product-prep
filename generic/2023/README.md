@@ -1,3 +1,15 @@
+## Daily Product Prep: Diagnose a 15% drop in active users on Disney+
+
+Here's today's problem:
+
+```
+How would you diagnose a 15% drop in active users on Disney+?
+
+Make it harder? Ask one of your friends to mock you with this question!
+```
+
+Thanks for being a subscriber, and have a great day!
+
 ## Daily Product Prep: Why did Microsoft buy GitHub?
 
 Here's today's problem:
