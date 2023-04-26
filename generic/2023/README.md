@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Facebook's Crisis Alert feature.
+
+Here's today's problem:
+
+```
+Here at Facebook, we try to add more socially responsible features to help the community. One that is quite popular is our Crisis Alert feature. How would you improve it?
+
+Make it harder? Provide at least three improvements
+```
+
 ## Daily Product Prep: Diagnose a 25% decrease in free sign ups on Notion.
 
 Here's today's problem:
