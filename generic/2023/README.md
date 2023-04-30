@@ -1,3 +1,13 @@
+## Daily Product Prep: What do you think are Airbnb's biggest risks?
+
+Here's today's problem:
+
+```
+What do you think are Airbnb's biggest risks?
+
+Make it harder? Name at least three and rank them.
+```
+
 ## Daily Product Prep: How did COVID-19 affect Amazon?
 
 Here's today's problem:
