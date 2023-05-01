@@ -1,3 +1,15 @@
+## Daily Product Prep: What's a tool you think other product managers should use?
+
+Here's today's problem:
+
+```
+What's a product management tool you think others should use?
+
+For this problem we'll be using Balsamiq, a wireframing app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
+```
+
 ## Daily Product Prep: What do you think are Airbnb's biggest risks?
 
 Here's today's problem:
