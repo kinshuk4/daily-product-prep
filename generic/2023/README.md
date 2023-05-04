@@ -1,3 +1,15 @@
+## Daily Product Prep: Improve Discord.
+
+Here's today's problem:
+
+```
+How would you improve Discord?
+
+Make it harder? Offer at least two unique improvements.
+```
+
+Thanks for being a subscriber, and have a great day!
+
 ## Daily Product Prep: Explain why Airbnb is a good app.
 
 Here's today's problem:
