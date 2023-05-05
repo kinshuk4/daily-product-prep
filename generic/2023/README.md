@@ -1,3 +1,13 @@
+## Daily Product Prep: What are 3 APIs on theScore's mobile app?
+
+Here's today's problem:
+
+```
+You won't need to know how to code, but it'll be useful if you can empathize with developers. What are three endpoints theScore might have on our sports app?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
 ## Daily Product Prep: Improve Discord.
 
 Here's today's problem:
