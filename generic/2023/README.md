@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a water bottle.
+
+Here's today's problem:
+
+```
+Design a water bottle.
+
+Make it harder? Assume they're for office workers.
+```
+
 ## Daily Product Prep: What are 3 APIs on theScore's mobile app?
 
 Here's today's problem:
