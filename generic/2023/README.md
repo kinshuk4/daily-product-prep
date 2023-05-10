@@ -1,3 +1,29 @@
+## Daily Product Prep: Why did Stripe launch Stripe Atlas, Stripe Press, and acquire Indie Hackers?
+
+Here's today's problem:
+
+```
+Why did Stripe launch Stripe Atlas, Stripe Press, and acquire Indie Hackers?
+
+Stripe Atlas is a service that lets you create a company easily by handling paperwork, bank visits, and legal services online.
+
+Stripe Press publishes books relating to economic and technological advancement.
+
+Indie Hackers is a website and community of independent bootstrapped entrepreneurs starting businesses.
+
+Make it harder? Be concise - time yourself and answer in under 3 minutes.
+```
+
+## Daily Product Prep: Describe an endpoint and provide two examples.
+
+Here's today's problem:
+
+```
+What's an endpoint? Give an example of one POST request and one GET request we'd likely have here at LinkedIn.
+
+Make it harder? Provide your answer in under one minute.
+```
+
 ## Daily Product Prep: Design a water bottle.
 
 Here's today's problem:
