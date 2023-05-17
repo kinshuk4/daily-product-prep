@@ -1,3 +1,23 @@
+## Daily Product Prep: Improve Yelp.
+
+Here's today's problem:
+
+```
+We're always looking for ways to improve our app experience for our users. Based on your research, how would you improve Yelp?
+
+Make it harder? Use data to validate your solution.
+```
+
+## Daily Product Prep: Measure the success of the Cybertruck announcement.
+
+Here's today's problem:
+
+```
+How do you think Tesla measured the success of the Cybertruck announcement?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
 ## Daily Product Prep: Estimate the total number of videos on YouTube.
 
 Here's today's problem:
