@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure the success of the AirPods Pro?
+
+Here's today's problem:
+
+```
+How would you measure the success of our AirPods Pro?
+
+Make it harder? Analyze core behaviors.
+```
+
 ## Daily Product Prep: How would you share experiment results internally so it's digestible by different stakeholders?
 
 Here's today's problem:
