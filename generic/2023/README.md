@@ -1,3 +1,13 @@
+## Daily Product Prep: What is the benefit of A/B testing?
+
+Here's today's problem:
+
+```
+What's the benefit of A/B testing for product organizations?
+
+Make it harder? List at least three different reasons.
+```
+
 ## Daily Product Prep: How would you measure the success of the AirPods Pro?
 
 Here's today's problem:
