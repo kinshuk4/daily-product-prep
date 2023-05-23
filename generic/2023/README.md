@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Facebook buy Instagram?
+
+Here's today's problem:
+
+```
+Facebook bought Instagram for about $1B, even though Instagram was making no money. Why do you think Facebook did this?
+
+Make it harder? Provide at least three unique reasons why the acquisition was made.
+```
+
 ## Daily Product Prep: What is the benefit of A/B testing?
 
 Here's today's problem:
