@@ -1,3 +1,33 @@
+## Daily Product Prep: Evaluate the success of Instagram Stories.
+
+Here's today's problem:
+
+```
+How would you evaluate the success of Instagram Stories?
+
+Make it harder? List at least five different metrics you'd look at.
+```
+
+## Daily Product Prep: Measure the success of Snap Maps.
+
+Here's today's problem:
+
+```
+How would you measure the success of Snap Maps?
+
+Make it harder? Whiteboard your answer.
+```
+
+## Daily Product Prep: How would you improve Yelp?
+
+Here's today's problem:
+
+```
+We're always looking for ways to improve our app experience for our users. Based on your research, how would you improve Yelp?
+
+Make it harder? Use data to validate your solution.
+```
+
 ## Daily Product Prep: Why did Facebook buy Instagram?
 
 Here's today's problem:
