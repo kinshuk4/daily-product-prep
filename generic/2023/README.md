@@ -1,3 +1,13 @@
+## Daily Product Prep: How should Yelp expand into Asia?
+
+Here's today's problem:
+
+```
+Yelp is trying to enter into the Asian market and you're the PM on the expansion team. How would you figure out growth in that market?
+
+Make it harder? Prioritize at least 6 different growth channels.
+```
+
 ## Daily Product Prep: How many people are listening to songs on Spotify right now?
 
 Here's today's problem:
