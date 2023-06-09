@@ -1,3 +1,13 @@
+## Daily Product Prep: Design the best slippers.
+
+Here's today's problem:
+
+```
+Design the best slippers.
+
+Make it harder? Assume they're for everyday wearers.
+```
+
 ## Daily Product Prep: Describe what happens when you type a URL into your browser and press Enter.
 
 Here's today's problem:
