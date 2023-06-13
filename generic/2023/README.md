@@ -1,3 +1,13 @@
+## Daily Product Prep: Measure specific improvements to Facebook Messenger.
+
+Here's today's problem:
+
+```
+How would you measure improvements made to Facebook Messenger?
+
+Make it harder? Analyze at least two different behaviors.
+```
+
 ## Daily Product Prep: What do you think are Airbnb's biggest risks?
 
 Here's today's problem:
