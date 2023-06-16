@@ -1,3 +1,13 @@
+## Daily Product Prep: What would you do if Dropbox uploads were down 50%?
+
+Here's today's problem:
+
+```
+What would you do if you found out Dropbox uploads were down 50%?
+
+Make it harder? Uploads have only changed on web.
+```
+
 ## Daily Product Prep: Diagnose a 15% increase in Codecademy signups.
 
 Here's today's problem:
