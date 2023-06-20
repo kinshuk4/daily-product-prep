@@ -1,3 +1,13 @@
+## Daily Product Prep: What is the difference between a POST request and a GET request?
+
+Here's today's problem:
+
+```
+What's the difference between a POST and GET request?
+
+Make it harder? List at least 5 different endpoints.
+```
+
 ## Daily Product Prep: Why did Google acquire YouTube?
 
 Here's today's problem:
