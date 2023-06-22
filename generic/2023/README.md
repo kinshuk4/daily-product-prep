@@ -1,3 +1,13 @@
+## Daily Product Prep: What's an area you're trying to improve?
+
+Here's today's problem:
+
+```
+What's an area you're trying to improve?
+
+Make it harder? Use being too detail oriented.
+```
+
 ## Daily Product Prep: Evaluate the success of Instagram Stories.
 
 Here's today's problem:
