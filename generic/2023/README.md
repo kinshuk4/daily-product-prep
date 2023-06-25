@@ -1,3 +1,15 @@
+## Daily Product Prep: Improve the Oculus Go.
+
+Here's today's problem:
+
+```
+The Go was launched last year. Our main purpose in building the Oculus Go was to make VR more accessible to potential users. Let's say we hired you as the PM of Go, how would you improve it?
+
+The Oculus Go is a fully standalone VR headset released by Oculus (owned by Facebook) in 2018. It boasts one of the only fully standalone VR experiences on the market as of November 2019.
+
+Make it harder? Your solution should be focused on growth improvements
+```
+
 ## Daily Product Prep: What's an area you're trying to improve?
 
 Here's today's problem:
