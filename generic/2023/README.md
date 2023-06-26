@@ -1,3 +1,13 @@
+## Daily Product Prep: What is the size of the micromobility market in the United States?
+
+Here's today's problem:
+
+```
+What is the size of the micromobility market in the United States?
+
+Make it harder? Use existing micromobility company valuations to check your answer.
+```
+
 ## Daily Product Prep: Improve the Oculus Go.
 
 Here's today's problem:
