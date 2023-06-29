@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite e-commerce store?
+
+Here's today's problem:
+
+```
+What's your favorite e-commerce store?
+
+For this problem we'll be using Sephora.
+
+Make it harder? Follow along and use Sephora as your answer.
+```
+
 ## Daily Product Prep: Why did Stripe launch Stripe Atlas, Stripe Press, and acquire Indie Hackers?
 
 Here's today's problem:
