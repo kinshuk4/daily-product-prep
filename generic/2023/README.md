@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Facebook build the Portal?
+
+Here's today's problem:
+
+```
+Why do you think Facebook made the Portal?
+
+Make it harder? Propose at least three unique reasons.
+```
+
 ## Daily Product Prep: How many tweets are tweeted every day on Twitter?
 
 Here's today's problem:
