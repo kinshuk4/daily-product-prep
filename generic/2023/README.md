@@ -1,3 +1,35 @@
+## Daily Product Prep: How many rides does Uber serve each month?
+
+Here's today's problem:
+
+```
+Estimate how many rides you think happen on Uber each month.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
+## Daily Product Prep: Improve a product.
+
+Here's today's problem:
+
+```
+Pick any product. How would you make it better?
+
+For this solution, we'll be using Twitch.
+
+Make it harder? Follow along and use Twitch in your response.
+```
+
+## Daily Product Prep: How would you improve SSENSE?
+
+Here's today's problem:
+
+```
+How would you improve the popular fashion marketplace, SSENSE?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
 ## Daily Product Prep: How many weddings does the average American attend in their lifetime?
 
 Here's today's problem:
