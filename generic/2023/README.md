@@ -1,3 +1,13 @@
+## Daily Product Prep: How many weddings does someone attend in their life?
+
+Here's today's problem:
+
+```
+How many weddings does the average American attend in their lifetime?
+
+Make it harder? Account for divorces and remarrying.
+```
+
 ## Daily Product Prep: Design a dog collar.
 
 Here's today's problem:
