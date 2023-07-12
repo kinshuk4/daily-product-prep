@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Salesforce acquire Tableau?
+
+Here's today's problem:
+
+```
+Why do you think Salesforce acquired Tableau?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
 ## Daily Product Prep: How many weddings does someone attend in their life?
 
 Here's today's problem:
