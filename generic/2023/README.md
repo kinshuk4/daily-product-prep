@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure the success of the recommendation engine at Netflix?
+
+Here's today's problem:
+
+```
+How would you measure the success of the recommendation engine at Netflix?
+
+Make it harder? Map at least 5 unique user behaviors.
+```
+
 ## Daily Product Prep: Measure the success of the Cybertruck announcement.
 
 Here's today's problem:
