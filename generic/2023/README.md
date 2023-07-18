@@ -1,3 +1,13 @@
+## Daily Product Prep: How many people are listening to songs on Spotify right now?
+
+Here's today's problem:
+
+```
+How many people are streaming music on Spotify right now?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: How would you measure the success of the recommendation engine at Netflix?
 
 Here's today's problem:
