@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Oculus Home 2.0.
+
+Here's today's problem:
+
+```
+The first thing Oculus users experience when they put on their headset is the Oculus Home. We recently upgraded to Home 2.0 which features more immersion and personalization. How else would you improve the Home 2.0 if you were a PM at Oculus?
+
+Make it harder? Provide at least two improvements.
+```
+
 ## Daily Product Prep: Improve the Oculus Go.
 
 Here's today's problem:
