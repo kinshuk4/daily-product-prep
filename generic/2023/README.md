@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 100% drop in Venmo's web traffic.
+
+Here's today's problem:
+
+```
+What would you do if, all of a sudden, our web traffic dropped by 100%?
+
+Make it harder? Ask a friend to mock you with this question and use the solution guide as a prompt.
+```
+
 ## Daily Product Prep: Tell me about yourself.
 
 Here's today's problem:
