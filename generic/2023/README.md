@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a better elevator.
+
+Here's today's problem:
+
+```
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
+```
+
 ## Daily Product Prep: Diagnose a 35% decrease in email open rates on SendGrid.
 
 Here's today's problem:
