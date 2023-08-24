@@ -1,3 +1,15 @@
+## Daily Product Prep: How would Hoop expand into South America?
+
+Here's today's problem:
+
+```
+This problem was asked recently by Hoop.
+
+If you were the product manager at Hoop in charge of expanding into South America, how would you do it?
+
+Make it harder? Ask a friend to give you a mock interview with this question!
+```
+
 ## Daily Product Prep: Design a better elevator.
 
 Here's today's problem:
