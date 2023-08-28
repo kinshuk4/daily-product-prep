@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve ESPN.
+
+Here's today's problem:
+
+```
+How would you improve how we serve content on ESPN?
+
+Make it harder? Assume you're improving the mobile app.
+```
+
 ## Daily Product Prep: Tell me about a product you really like.
 
 Here's today's problem:
