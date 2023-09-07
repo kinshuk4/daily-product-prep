@@ -1,3 +1,33 @@
+## Daily Product Prep: Improve the Apple Watch.
+
+Here's today's problem:
+
+```
+How would you improve the Apple Watch?
+
+Make it harder? Offer at least two unique improvements.
+```
+
+## Daily Product Prep: Explain the process of a Google Search.
+
+Here's today's problem:
+
+```
+What happens, technically, when someone does a Google Search?
+
+Make it harder? List out at least five different steps in the process.
+```
+
+## Daily Product Prep: How would you determine success of LinkedIn's Job feature?
+
+Here's today's problem:
+
+```
+How do you think LinkedIn's Jobs feature is tracked?
+
+Make it harder? Evaluate at least five different user behaviors.
+```
+
 ## Daily Product Prep: List five different APIs Spotify has.
 
 Here's today's problem:
