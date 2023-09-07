@@ -1,3 +1,13 @@
+## Daily Product Prep: Measure the success of the Cybertruck announcement.
+
+Here's today's problem:
+
+```
+How do you think Tesla measured the success of the Cybertruck announcement?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
 ## Daily Product Prep: Improve the Apple Watch.
 
 Here's today's problem:
