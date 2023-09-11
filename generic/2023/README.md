@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 40% increase in first month churn on HelloFresh.
+
+Here's today's problem:
+
+```
+Let's say HelloFresh's meal kit first month churn increased by 40%. What would you do?
+
+Make it harder? Assume conversion is down across the industry.
+```
+
 ## Daily Product Prep: Why did Stripe launch Stripe Atlas, Stripe Press, and acquire Indie Hackers?
 
 Here's today's problem:
