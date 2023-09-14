@@ -1,3 +1,13 @@
+## Daily Product Prep: Why do you want to work at Google?
+
+Here's today's problem:
+
+```
+Why do you want to work at Google?
+
+Make it harder? Provide at least three distinct reasons.
+```
+
 ## Daily Product Prep: Design a cereal dispenser.
 
 Here's today's problem:
