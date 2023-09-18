@@ -1,3 +1,13 @@
+## Daily Product Prep: Amazon orders are down 25% - what do you do?
+
+Here's today's problem:
+
+```
+Assume Amazon orders are down 25%. In this scenario, what are your next steps?
+
+Make it harder? The drop occurred over a two week period.
+```
+
 ## Daily Product Prep: What's your favorite physical product?
 
 Here's today's problem:
