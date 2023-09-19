@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure the metrics for TurboTax?
+
+Here's today's problem:
+
+```
+One of our most successful products is TurboTax. How would you measure the metrics on it if you were the product manager in charge?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
+
 ## Daily Product Prep: Amazon orders are down 25% - what do you do?
 
 Here's today's problem:
