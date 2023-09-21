@@ -1,3 +1,15 @@
+## Daily Product Prep: Tell me about an app you use on your phone every day.
+
+Here's today's problem:
+
+```
+Tell me about an app you use on your phone every day. Please don't use any Facebook products, including Instagram or WhatsApp.
+
+For this problem we'll be using Splitwise, a shared bill and expense tracking app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
+```
+
 ## Daily Product Prep: What's your favorite product?
 
 Here's today's problem:
