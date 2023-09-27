@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Patreon.
+
+Here's today's problem:
+
+```
+Patreon is an extremely popular subscription based app nowadays. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
 ## Daily Product Prep: Why did Salesforce acquire Tableau?
 
 Here's today's problem:
