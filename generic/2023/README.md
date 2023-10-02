@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite product and why?
+
+Here's today's problem:
+
+```
+What's your favorite product and why?
+
+For this problem we'll be using Chrome.
+
+Make it harder? Follow along and use Chrome as your answer.
+```
+
 ## Daily Product Prep: Diagnose a 25% drop on Spotify's Landing Page
 
 Here's today's problem:
