@@ -1,3 +1,13 @@
+## Daily Product Prep: How many pairs of shoes do we own in our lifetime?
+
+Here's today's problem:
+
+```
+How many pairs of shoes do you think we go through in our lifetime?
+
+Make it harder? Account for different age ranges.
+```
+
 ## Daily Product Prep: Measure the success of Snap Maps.
 
 Here's today's problem:
