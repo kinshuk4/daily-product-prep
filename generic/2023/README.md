@@ -1,3 +1,13 @@
+## Daily Product Prep: What's your biggest weakness?
+
+Here's today's problem:
+
+```
+What's your biggest weakness?
+
+Make it harder? Use being careless as your weakness.
+```
+
 ## Daily Product Prep: How does the US-China trade war affect Apple?
 
 Here's today's problem:
