@@ -1,3 +1,13 @@
+## Daily Product Prep: Discord installs are down 25% - what do you do?
+
+Here's today's problem:
+
+```
+As a gamer, I love using Discord. Assume you were a PM on their team and their installs were down 25%. What would you do?
+
+Make it harder? Assume installs are down on all platforms.
+```
+
 ## Daily Product Prep: How would you improve Instagram's share feature?
 
 Here's today's problem:
