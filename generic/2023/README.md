@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose 23andMe's 33% drop in conversion.
+
+Here's today's problem:
+
+```
+Assume 23andMe's conversion dropped 33%, what would you do?
+
+Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
+```
+
 ## Daily Product Prep: Which enterprise product do you look up to?
 
 Here's today's problem:
