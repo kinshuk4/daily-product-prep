@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a new way for tourists to communicate.
+
+Here's today's problem:
+
+```
+I love travelling and meeting new people. Sometimes, though, it's hard to communicate in countries that don't primarily speak English. Design a new way for tourists to communicate.
+
+Make it harder? Prioritize your feature set.
+```
+
 ## Daily Product Prep: How should WeChat further expand into America?
 
 Here's today's problem:
