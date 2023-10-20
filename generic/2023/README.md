@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Pinterest.
+
+Here's today's problem:
+
+```
+If you were a product manager, how would you improve Pinterest?
+
+Make it harder? Offer at least two unique improvements.
+```
+
 ## Daily Product Prep: Design a new way for tourists to communicate.
 
 Here's today's problem:
