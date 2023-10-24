@@ -1,3 +1,13 @@
+## Daily Product Prep: Go into detail about a login endpoint.
+
+Here's today's problem:
+
+```
+Go into detail about what happens when a user logs in to an app.
+
+Make it harder? List at least five specific steps.
+```
+
 ## Daily Product Prep: What are 3 APIs on theScore's mobile app?
 
 Here's today's problem:
