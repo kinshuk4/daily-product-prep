@@ -1,3 +1,13 @@
+## Daily Product Prep: How many grains of rice are in a 10kg bag?
+
+Here's today's problem:
+
+```
+How many grains of rice are in a 10kg bag?
+
+Make it harder? Answer in under five minutes!
+```
+
 ## Daily Product Prep: Go into detail about a login endpoint.
 
 Here's today's problem:
