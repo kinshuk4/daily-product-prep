@@ -1,3 +1,13 @@
+## Daily Product Prep: How many calls are received per day?
+
+Here's today's problem:
+
+```
+How many phone calls are received per day?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: How many grains of rice are in a 10kg bag?
 
 Here's today's problem:
