@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite product?
+
+Here's today's problem:
+
+```
+What's your favorite product?
+
+For this problem we'll be using Patreon.
+
+Make it harder? Follow along and use Patreon as your answer.
+```
+
 ## Daily Product Prep: What's your biggest weakness?
 
 Here's today's problem:
