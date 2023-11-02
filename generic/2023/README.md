@@ -1,3 +1,13 @@
+## Daily Product Prep: What are some endpoints on Amazon.com?
+
+Here's today's problem:
+
+```
+[Amazon.com](http://amazon.com) is one of the most visited e-commerce sites in the world. We handle millions of transactions each day. What are some endpoints Amazon.com might have?
+
+Make it harder? List at least 5 different endpoints.
+```
+
 ## Daily Product Prep: How would you improve Spotify?
 
 Here's today's problem:
