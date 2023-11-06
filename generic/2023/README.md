@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a cereal dispenser.
+
+Here's today's problem:
+
+```
+Design a cereal dispenser.
+
+Make it harder? Build for those over the age of 65.
+```
+
 ## Daily Product Prep: Diagnose a 35% drop in usage on Invision.
 
 Here's today's problem:
