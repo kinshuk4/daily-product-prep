@@ -1,3 +1,15 @@
+## Daily Product Prep: Tell me about your favorite product.
+
+Here's today's problem:
+
+```
+Tell me about your favorite product.
+
+For this problem we'll be using Notion.
+
+Make it harder? Follow along and use Notion as your answer.
+```
+
 ## Daily Product Prep: What's your favorite non-technical product?
 
 Here's today's problem:
