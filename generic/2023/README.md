@@ -1,3 +1,13 @@
+## Daily Product Prep: Help reddit expand into Japan.
+
+Here's today's problem:
+
+```
+Let's say your first job at reddit was to expand into the Japanese market. How would you do that?
+
+Make it harder? What are the risks for entering Japan?
+```
+
 ## Daily Product Prep: Tell me about your favorite product.
 
 Here's today's problem:
