@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Day One?
+
+Here's today's problem:
+
+```
+Day One is my favorite journaling app. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
+```
+
 ## Daily Product Prep: Help reddit expand into Japan.
 
 Here's today's problem:
