@@ -1,3 +1,13 @@
+## Daily Product Prep: How many 'likes' happen on Facebook each day?
+
+Here's today's problem:
+
+```
+Estimate the number of likes on Facebook posts per day.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: What's your favorite product?
 
 Here's today's problem:
