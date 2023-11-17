@@ -1,3 +1,13 @@
+## Daily Product Prep: Design any subscription based product.
+
+Here's today's problem:
+
+```
+Think of different types of subscription services - design one of your choice.
+
+Make it harder? Choose a product with a physical component.
+```
+
 ## Daily Product Prep: Why work at Slack?
 
 Here's today's problem:
