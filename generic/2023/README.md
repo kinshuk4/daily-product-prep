@@ -1,3 +1,13 @@
+## Daily Product Prep: How many rides does Uber serve each month?
+
+Here's today's problem:
+
+```
+Estimate how many rides you think happen on Uber each month.
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: Design any subscription based product.
 
 Here's today's problem:
