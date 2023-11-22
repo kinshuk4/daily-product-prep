@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did WeWork fail?
+
+Here's today's problem:
+
+```
+What are some reasons why WeWork failed?
+
+Make it harder? Name at least three different reasons.
+```
+
 ## Daily Product Prep: How would you track success at Slack?
 
 Here's today's problem:
