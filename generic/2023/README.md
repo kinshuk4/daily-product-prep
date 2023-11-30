@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Yelp.
+
+Here's today's problem:
+
+```
+We're always looking for ways to improve our app experience for our users. Based on your research, how would you improve Yelp?
+
+Make it harder? Use data to validate your solution.
+```
+
 ## Daily Product Prep: What's your favorite physical product?
 
 Here's today's problem:
