@@ -1,3 +1,13 @@
+## Daily Product Prep: Why is Amazon buying retail companies and keeping them independent?
+
+Here's today's problem:
+
+```
+In your opinion, why do you think Amazon is buying retail companies and keeping them independent?
+
+Make it harder? Use specific examples of what Amazon has bought to better illustrate your point.
+```
+
 ## Daily Product Prep: Improve Yelp.
 
 Here's today's problem:
