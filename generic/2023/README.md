@@ -1,3 +1,13 @@
+## Daily Product Prep: Design a better dog bowl.
+
+Here's today's problem:
+
+```
+Design a better dog bowl.
+
+Make it harder? Consider both user and customer.
+```
+
 ## Daily Product Prep: Why is Amazon buying retail companies and keeping them independent?
 
 Here's today's problem:
