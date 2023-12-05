@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you measure the success of Yelp's search bar?
+
+Here's today's problem:
+
+```
+The Yelp search tool is our most used feature - how would you measure it's success?
+
+Make it harder? Evaluate at least three different behaviors.
+```
+
 ## Daily Product Prep: Design a better dog bowl.
 
 Here's today's problem:
