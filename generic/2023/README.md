@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Google Maps?
+
+Here's today's problem:
+
+```
+How would you improve Google Maps?
+
+Make it harder? Offer at least two big improvements.
+```
+
 ## Daily Product Prep: How would you measure the success of Yelp's search bar?
 
 Here's today's problem:
