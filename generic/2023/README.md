@@ -1,3 +1,13 @@
+## Daily Product Prep: How big is the market for Dropbox for SMBs?
+
+Here's today's problem:
+
+```
+How big is the market for Dropbox for SMBs?
+
+Make it harder? Consider up-sold items in your solution.
+```
+
 ## Daily Product Prep: How would you improve Google Maps?
 
 Here's today's problem:
