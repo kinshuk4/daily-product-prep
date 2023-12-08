@@ -1,3 +1,13 @@
+## Daily Product Prep: What do you like about Airbnb?
+
+Here's today's problem:
+
+```
+What do you like about Airbnb?
+
+Make it harder? Provide two improvements with your answer.
+```
+
 ## Daily Product Prep: How big is the market for Dropbox for SMBs?
 
 Here's today's problem:
