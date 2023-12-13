@@ -1,3 +1,15 @@
+## Daily Product Prep: Which enterprise product do you look up to?
+
+Here's today's problem:
+
+```
+What's another Enterprise product you look up to? Don't use Hubspot.
+
+For this problem we'll be using Intercom.
+
+Make it harder? Use Intercom and pretend you've used it in the past.
+```
+
 ## Daily Product Prep: What's your biggest weakness?
 
 Here's today's problem:
