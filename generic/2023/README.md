@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 45% drop in ride orders on Lyft.
+
+Here's today's problem:
+
+```
+Let's say Lyft hired you to start the coming January and during your first month you notice there's a 45% drop in ride orders. What are your next steps?
+
+Make it harder? The drop is regionally restricted to East Coast American cities.
+```
+
 ## Daily Product Prep: Which enterprise product do you look up to?
 
 Here's today's problem:
