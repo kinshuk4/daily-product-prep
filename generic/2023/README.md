@@ -1,3 +1,13 @@
+## Daily Product Prep: Describe an endpoint and provide two examples.
+
+Here's today's problem:
+
+```
+What's an endpoint? Give an example of one POST request and one GET request we'd likely have here at LinkedIn.
+
+Make it harder? Provide your answer in under one minute.
+```
+
 ## Daily Product Prep: Diagnose a 45% drop in ride orders on Lyft.
 
 Here's today's problem:
