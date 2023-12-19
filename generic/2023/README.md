@@ -1,3 +1,15 @@
+## Daily Product Prep: Tell us about your favorite product. 
+
+Here's today's problem:
+
+```
+In 10 minutes or less, name a product you use on a daily basis and enjoy using. Why do you like this particular product so much?
+
+Want to follow along? We'll be using Codecademy for this example.
+
+Make it harder? Choose a non-technical and non-app based product.
+```
+
 ## Daily Product Prep: How did COVID-19 affect Spotify?
 
 Here's today's problem:
