@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve Discord.
+
+Here's today's problem:
+
+```
+How would you improve Discord?
+
+Make it harder? Offer at least two unique improvements.
+```
+
 ## Daily Product Prep: What's your favorite physical product?
 
 Here's today's problem:
