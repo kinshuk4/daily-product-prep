@@ -1,3 +1,13 @@
+## Daily Product Prep: What is the benefit of A/B testing?
+
+Here's today's problem:
+
+```
+What's the benefit of A/B testing for product organizations?
+
+Make it harder? List at least three different reasons.
+```
+
 ## Daily Product Prep: How many Hershey's chocolate bars were sold in the US last year?
 
 Here's today's problem:
