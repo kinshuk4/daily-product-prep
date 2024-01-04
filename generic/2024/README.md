@@ -1,3 +1,13 @@
+## Daily Product Prep: How did COVID-19 affect HelloFresh?
+
+Here's today's problem:
+
+```
+We're nearing the end of quarantine due to COVID-19. How do you think it affected HelloFresh as a business?
+
+Make it harder? Evaluate at least three different reasons.
+```
+
 ## Daily Product Prep: How would you improve Spotify?
 
 Here's today's problem:
