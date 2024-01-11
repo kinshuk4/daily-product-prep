@@ -1,3 +1,13 @@
+## Daily Product Prep: Codecademy's signups increased 15% - why?
+
+Here's today's problem:
+
+```
+Signups on Codecademy's landing page are up 15% - why do you think this happened?
+
+Make it harder? 90% of new signups are on mobile.
+```
+
 ## Daily Product Prep: How many Slack messages are sent per day?
 
 Here's today's problem:
