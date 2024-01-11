@@ -1,3 +1,13 @@
+## Daily Product Prep: How many Slack messages are sent per day?
+
+Here's today's problem:
+
+```
+How many messages are sent on Slack each day?
+
+Make it harder? Provide a sanity check before concluding.
+```
+
 ## Daily Product Prep: How many tweets are tweeted every day on Twitter?
 
 Here's today's problem:
