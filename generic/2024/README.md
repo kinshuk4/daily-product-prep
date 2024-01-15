@@ -1,3 +1,13 @@
+## Daily Product Prep: Why are display ads bad?
+
+Here's today's problem:
+
+```
+Why is display advertising a bad decision?
+
+Make it harder? Propose a better option than display ads.
+```
+
 ## Daily Product Prep: Improve Facebook Marketplaces for the used car space.
 
 Here's today's problem:
