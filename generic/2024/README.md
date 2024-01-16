@@ -1,3 +1,13 @@
+## Daily Product Prep: Why did Instagram remove the like count on posts?
+
+Here's today's problem:
+
+```
+We recently made a pretty big decision on Instagram to remove the like count on posts. Why do you think we did this?
+
+Make it harder? Name at least three reasons and rank them.
+```
+
 ## Daily Product Prep: Why are display ads bad?
 
 Here's today's problem:
