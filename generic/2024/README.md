@@ -1,3 +1,13 @@
+## Daily Product Prep: What are the most important metrics for Yelp?
+
+Here's today's problem:
+
+```
+How do you think Yelp tracks their product's success?
+
+Make it harder? Evaluate at least three different user behaviors.
+```
+
 ## Daily Product Prep: Why did Instagram remove the like count on posts?
 
 Here's today's problem:
