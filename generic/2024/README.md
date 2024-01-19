@@ -1,3 +1,13 @@
+## Daily Product Prep: List 3 endpoints on theScore app.
+
+Here's today's problem:
+
+```
+You won't need to know how to code, but it'll be useful if you can empathize with developers. What are three endpoints we might have on theScore app?
+
+Make it harder? List out at least one POST request and one GET request.
+```
+
 ## Daily Product Prep: How would you measure the success of the AirPods Pro?
 
 Here's today's problem:
