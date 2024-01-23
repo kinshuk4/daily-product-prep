@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve the Apple Watch.
+
+Here's today's problem:
+
+```
+How would you improve the Apple Watch?
+
+Make it harder? Offer at least two unique improvements.
+```
+
 ## Daily Product Prep: Tell me about an app you use on your phone every day.
 
 Here's today's problem:
