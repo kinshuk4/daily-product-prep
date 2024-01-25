@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite product?
+
+Here's today's problem:
+
+```
+What's your favorite product?
+
+For this problem we'll be using Kickstarter.
+
+Make it harder? Follow along and use Kickstarter as your answer.
+```
+
 ## Daily Product Prep: Asana made a feature improvement to their ticketing system. How would you measure it's success?
 
 Here's today's problem:
