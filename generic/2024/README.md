@@ -1,3 +1,13 @@
+## Daily Product Prep: Explain how the US-China trade debacle impacts Apple.
+
+Here's today's problem:
+
+```
+How do you think the 2019 US-China trade war affects Apple?
+
+Make it harder? Propose at least three different ways Apple is affected.
+```
+
 ## Daily Product Prep: Design a dog collar.
 
 Here's today's problem:
