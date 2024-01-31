@@ -1,3 +1,15 @@
+## Daily Product Prep: What's your favorite enterprise app?
+
+Here's today's problem:
+
+```
+What's your favorite enterprise app? Please don't use HubSpot.
+
+For this problem we'll be using Google Analyticsl.
+
+Make it harder? Follow along and use Google Analytics as your answer.
+```
+
 ## Daily Product Prep: What is the benefit of A/B testing?
 
 Here's today's problem:
