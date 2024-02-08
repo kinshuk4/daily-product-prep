@@ -1,3 +1,13 @@
+## Daily Product Prep: Help Spotify launch in South Africa.
+
+Here's today's problem:
+
+```
+Spotify launched in South Africa in 2018, but let's say we didn't - how would you lead a launch into that region?
+
+Make it harder? Consider the different languages in South Africa.
+```
+
 ## Daily Product Prep: How many deliveries does Uber Eats make per day?
 
 Here's today's problem:
