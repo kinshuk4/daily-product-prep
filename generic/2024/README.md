@@ -1,3 +1,13 @@
+## Daily Product Prep: Improve TED.
+
+Here's today's problem:
+
+```
+Continually learning is a common theme for our product team. One way we do that is by listening to inspirational speakers online through TED Talks. How would you improve TED?
+
+Make it harder? Focus on web improvements.
+```
+
 ## Daily Product Prep: What are the advantages and disadvantages of GraphQL?
 
 Here's today's problem:
