@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Instagram's share feature?
+
+Here's today's problem:
+
+```
+How would you improve Instagram's share feature?
+
+Make it harder? Be precise - cover all topics in the Improve a Product formula in under five minutes.
+```
+
 ## Daily Product Prep: Why did Google acquire YouTube?
 
 Here's today's problem:
