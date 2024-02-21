@@ -1,3 +1,13 @@
+## Daily Product Prep: Define statistical significance.
+
+Here's today's problem:
+
+```
+Explain statistical significance and why it's important.
+
+Make it harder? Say your answer out loud - do so in under 1 minute.
+```
+
 ## Daily Product Prep: Why did Salesforce acquire Tableau?
 
 Here's today's problem:
