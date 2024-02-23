@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you implement reactions for Facebook?
+
+Here's today's problem:
+
+```
+Let's say it's 2009, and Facebook just launched the Like button. You want to extend it with reactions. Explain, in plain English, how to accomplish that technically.
+
+Make it harder? Make it so your system allows as many types of reactions as you want.
+```
+
 ## Daily Product Prep: Help Spotify launch in South Africa.
 
 Here's today's problem:
