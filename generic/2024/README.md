@@ -1,3 +1,13 @@
+## Daily Product Prep: List an example of one endpoint on Twitch.
+
+Here's today's problem:
+
+```
+List an example of one endpoint on Twitch. What does it do?
+
+Make it harder? Answer in five sentences or less.
+```
+
 ## Daily Product Prep: How would you implement reactions for Facebook?
 
 Here's today's problem:
