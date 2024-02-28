@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you improve Google Maps?
+
+Here's today's problem:
+
+```
+How would you improve Google Maps?
+
+Make it harder? Offer at least two big improvements.
+```
+
 ## Daily Product Prep: How many Slack messages are sent per day?
 
 Here's today's problem:
