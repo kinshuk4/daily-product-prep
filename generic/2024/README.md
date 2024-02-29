@@ -1,3 +1,13 @@
+## Daily Product Prep: Diagnose a 25% decrease in conversions on Opencare.
+
+Here's today's problem:
+
+```
+How would you find out what caused a 25% decrease in conversion on Opencare?
+
+Make it harder? Assume conversion is down across the industry.
+```
+
 ## Daily Product Prep: How would you improve Google Maps?
 
 Here's today's problem:
