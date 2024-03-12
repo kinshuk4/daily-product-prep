@@ -516,7 +516,7 @@ Make it harder? Make it so your system allows as many types of reactions as you 
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/85?email=kinshukram@gmail.com&token=81b3a047c724bc0d2d83773db2c52acdd1f658035f4f8970b3c1155e4be5630a7e9c2c11f046bf459f154008361cfe838e4e0f3ea3caa9812ce4a1f6ec86655cbdd33f737af2d80e)
 
-Problem 86
+## Problem 86: Design ClassPass for kids
 
 ```
 This question was recently asked by Asana.
