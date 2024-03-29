@@ -1,3 +1,13 @@
+## Daily Product Prep: How should Adobe Creative Cloud target small businesses in Singapore?
+
+Here's today's problem:
+
+```
+Singapore has grown into one of the largest financial hubs in the world. Let's say your job was to push Adobe Creative Cloud for small businesses in Singapore. What would you do?
+
+Make it harder? Provide at least five different channels that Adobe could use.
+```
+
 ## Daily Product Prep: Google searches are down 35%. What happened?
 
 Here's today's problem:
