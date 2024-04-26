@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you expand Fiverr into China?
+
+Here's today's problem:
+
+```
+At Fiverr, we're always looking for new markets to enter. One region we're looking at in particular is Asia. How would you grow Fiverr in Asia?
+
+Make it harder? Focus on China.
+```
+
 ## Daily Product Prep: How should Adobe Creative Cloud target small businesses in Singapore?
 
 Here's today's problem:
