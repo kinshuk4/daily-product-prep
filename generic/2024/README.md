@@ -1,3 +1,13 @@
+## Daily Product Prep: How would you explain web cookies to someone non-technical?
+
+Here's today's problem:
+
+```
+How would you explain web cookies to someone non-technical?
+
+Make it harder? Use an analogy to simplify your solution.
+```
+
 ## Daily Product Prep: How many people are on Facebook at any given time?
 
 Here's today's problem:
