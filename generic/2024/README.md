@@ -1,3 +1,13 @@
+## Daily Product Prep: Airbnb made a feature to increase business travel. How would you measure it's success?
+
+Here's today's problem:
+
+```
+Imagine that you are a PM at Airbnb, and you are assigned to build a new way for businesses to travel. How would you measure if this hypothetical feature was successful?
+
+Make it harder? Analyze core behaviors.
+```
+
 ## Daily Product Prep: How would you explain web cookies to someone non-technical?
 
 Here's today's problem:
