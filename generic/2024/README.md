@@ -1,3 +1,13 @@
+## Daily Product Prep: How would Snapchat expand into Indonesia?
+
+Here's today's problem:
+
+```
+Snapchat has been trying to strengthen our APAC presence lately. How would you help us continue to expand in Indonesia?
+
+Make it harder? Provide at least five different channels that Snapchat could use.
+```
+
 ## Daily Product Prep: Airbnb made a feature to increase business travel. How would you measure it's success?
 
 Here's today's problem:
