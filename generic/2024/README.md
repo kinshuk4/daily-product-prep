@@ -1,3 +1,13 @@
+## Daily Product Prep: Uber Eats made a new promotional tab in their app. How would you measure it's success?
+
+Here's today's problem:
+
+```
+Let's say Uber Eats decided to add a promos tab to their app, how would you measure it's success?
+
+Make it harder? Analyze core behaviors.
+```
+
 ## Daily Product Prep: How would Snapchat expand into Indonesia?
 
 Here's today's problem:
