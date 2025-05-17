@@ -348,7 +348,7 @@ Make it harder? Whiteboard your solution.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/30?email=kinshukram@gmail.com&token=54b53408fc147c95cf2b24c1169284d789ce3b43e42cae6b63698a2d10216305e66248052ede3bc7f7870400b9b2c57c42c8c1186cc316c09d65c12d47bdeaeec5ae36cccc492595)
 
-Problem 31
+## Daily Product Prep: What's a tool you think other product managers should use?
 
 ```
 This problem was recently asked by Asana.
@@ -3637,20 +3637,6 @@ Make it harder? Explain your solution in under 7 minutes.
 
 ------
 
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-your-favorite-enterprise-product-1/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
-
-## Daily Product Prep #265: What's a tool you think other product managers should use?
-
-```
-What's a product management tool you think others should use?
-
-For this problem we'll be using Balsamiq, a wireframing app.
-
-Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
-```
-
-------
-
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/problems/whats-a-tool-you-think-other-product-managers-should-use-1/solutions?utm_medium=email&utm_source=clock&utm_campaign=free_daily)
 
 ## Daily Product Prep #266: Improve ESPN.
@@ -3925,18 +3911,6 @@ Here's today's problem:
 Design a new Shopify App.
 
 Make it harder? Build an app around payments.
-```
-
-## Daily Product Prep: What's a tool you think other product managers should use?
-
-Here's today's problem:
-
-```
-What's a product management tool you think others should use?
-
-For this problem we'll be using Balsamiq, a wireframing app.
-
-Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 ```
 
 ## Daily Product Prep: What's your biggest weakness?
@@ -7417,18 +7391,6 @@ Do you use Airbnb? Why?
 Make it harder? Provide two improvements with your answer.
 ```
 
-## Daily Product Prep: What's a tool you think other product managers should use?
-
-Here's today's problem:
-
-```
-What's a product management tool you think others should use?
-
-For this problem we'll be using Balsamiq, a wireframing app.
-
-Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
-```
-
 ## Daily Product Prep: What do you think are Airbnb's biggest risks?
 
 Here's today's problem:
@@ -8765,18 +8727,6 @@ How many tweets are tweeted every day on Twitter?
 Make it harder? Assume this is the global amount of tweets.
 ```
 
-## Daily Product Prep: What's a tool you think other product managers should use?
-
-Here's today's problem:
-
-```
-What's a product management tool you think others should use?
-
-For this problem we'll be using Balsamiq, a wireframing app.
-
-Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
-```
-
 ## Daily Product Prep: How would you track success at Slack?
 
 Here's today's problem:
@@ -8897,18 +8847,6 @@ Here's today's problem:
 I love travelling and meeting new people. Sometimes, though, it's hard to communicate in countries that don't primarily speak English. Design a new way for tourists to communicate.
 
 Make it harder? Prioritize your feature set.
-```
-
-## 2 Dec 2021
-
-Here's today's problem:
-
-```
-What's a tool you think other product managers should use?
-
-For this problem we'll be using Balsamiq, a wireframing app.
-
-Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 ```
 
 ## 3 Dec 2021
@@ -9887,18 +9825,6 @@ Here's today's problem:
 I love travelling and meeting new people. Sometimes, though, it's hard to communicate in countries that don't primarily speak English. Design a new way for tourists to communicate.
 
 Make it harder? Prioritize your feature set.
-```
-
-## Daily Product Prep: What's a tool you think other product managers should use?
-
-Here's today's problem:
-
-```
-What's a tool you think other product managers should use?
-
-For this problem we'll be using Balsamiq, a wireframing app.
-
-Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 ```
 
 ## Daily Product Prep: Design a cereal dispenser.
