@@ -10,6 +10,7 @@ Design a jobs product for Facebook.
 
 **Make it harder?** Assume the product is for blue-collar workers.
 
+
 Problem 2
 
 Here's today's problem:
@@ -19,6 +20,7 @@ This problem was recently asked by Amazon.
 How would you explain the difference between an API and SDK to a non-technical person?
 
 **Make it harder?** Explain it in less than 3 sentences.
+
 
 Problem 3
 
@@ -30,6 +32,7 @@ You're the new product manager for YouTube and you notice a drop in video engage
 
 **Make it harder?** The drop in engagement is globally distributed.
 
+
 Problem 4
 
 ```
@@ -39,6 +42,7 @@ Assume you were hired as a product manager at Facebook and you were in charge of
 
 Make it harder? Whiteboard your solution.
 ```
+
 
 Problem 5
 
@@ -50,6 +54,7 @@ In your opinion, why do you think Amazon is buying retail companies and keeping 
 Make it harder? Use specific examples of what Amazon has bought to better illustrate your point
 ```
 
+
 Problem 6
 
 ```
@@ -59,6 +64,7 @@ How would you measure the success of Snap Maps?
 
 Make it harder? Whiteboard your answer.
 ```
+
 
 Problem 7
 
@@ -70,6 +76,7 @@ Pretend you've just been hired as the product manager for Facebook Marketplaces.
 Make it harder? You cannot implement any demand (buy-side) features.
 ```
 
+
 Problem 8
 
 ```
@@ -79,6 +86,7 @@ How would you design a wedding registry product?
 
 Make it harder? Use Amazon features to improve the experience.
 ```
+
 
 Problem 9
 
@@ -92,6 +100,7 @@ A key component for the VR experience at Oculus is the Oculus Store. The Oculus 
 Make it harder? Double down on one user type for your solution.
 ```
 
+
 Problem 10
 
 ```
@@ -101,6 +110,7 @@ You're the PM of Facebook Groups and you notice usage has dropped 20%. What are 
 
 Make it harder? The drop has been gradual for the past two weeks.
 ```
+
 
 Problem 11
 
@@ -114,6 +124,7 @@ Make it harder? Consider at least two edge cases you didn't think of initially i
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/11?email=kinshukram@gmail.com&token=437afe1556d32f9282bc58522b32d2e116b4131979b361e65479b5941153326efa731f32230311ff9648d91a48228af684247d0d2ab06e1ebbf30b3ff6dd44b8bb4e16cfb7831a16)
 
+
 Problem 12
 
 ```
@@ -125,6 +136,7 @@ Make it harder? Provide at least three unique reasons why the acquisition was ma
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/12?email=kinshukram@gmail.com&token=f825b75dabbaf070d4b6a82f2bef5fa780bdd163a9d6627492c4d100d02225a45a34f6772f505367d16821795c79ace0a70138b438350c3acbd19d336cf9427c18f7eba7f0016f60)
+
 
 Problem 13
 
@@ -138,6 +150,7 @@ Make it harder? Use data to validate your solution.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/13?email=kinshukram@gmail.com&token=01f96fb936eeee00f55352819b22d6a4e2fe3398a5e4d52be1e1da5ae0978f9122b6d986ccc95d3059066e08c339e05a448c5a649d099a6112b8893c7e9e4244c44084be9075cc97)
 
+
 Problem 14
 
 ```
@@ -149,6 +162,7 @@ Make it harder? Provide your answer in under one minute.
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/14?email=kinshukram@gmail.com&token=365acb5248d67700546c124459fcb2a7282d6115e28893a776a45bba71055a673d9a014122a65abac446ceadfea9d012c901dff5f018cecaa6cd9bb30dfa52386ac103bffd4f4f0d)
+
 
 Problem 15
 
@@ -162,6 +176,7 @@ Make it harder? Whiteboard your solution.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/15?email=kinshukram@gmail.com&token=bff610f33f7e8e7a42e205a1b46106916031c7fc1b0d48caa539d33bf2d935a0403a7ae8adbfb1b98d09d8b8d5003de004d57fff0214d3eb201fb795c508c0fb8d8df30920ce7beb)
 
+
 Problem 16
 
 ```
@@ -173,6 +188,7 @@ Make it harder? Provide two improvements with your answer.
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/16?email=kinshukram@gmail.com&token=80a266835755a158c3087ffef6ebbf78bc3bd654c025add656b2af58ec6ec6f7c5be78282e0e7b56c53608a65135603cdd42ef7fb087420ae7c9af342e9585ba746faf800fcd84e5)
+
 
 Problem 17
 
@@ -186,6 +202,7 @@ Make it harder? The drop is regionally restricted to East Coast American cities.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/17?email=kinshukram@gmail.com&token=f70e6ff7b435a2ef00af1fa0a28922390332e4b0d4cc439cb3a54d2d2792fcbc434c6c9115de154d4de71c348bfc2ccc437b16ed1d0bb0691d0650a2e73f574c959b05ae28bcf0be)
 
+
 Problem 18
 
 ```
@@ -197,6 +214,7 @@ Make it harder? Provide at least three unique reasons why the acquisition was ma
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/18?email=kinshukram@gmail.com&token=b156d2d9271b9b62375a2e7b325a0188ed58d65c17a90db8cb4519d68c68c9fda562ae5898cd66845643c7fec7fae66757b75594b089aea724108ab3628db913127554cec263ba06)
+
 
 Problem 19
 
@@ -210,6 +228,7 @@ Make it harder? Provide at least three improvements
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/19?email=kinshukram@gmail.com&token=c55f4e9af0a001030bdd3d76ab4acaa97970c2d8e0ed8d6dc7ea8602225ac1440f8da42856e0efdf044e5bb20c33d4c37f078f132a3850c3cae9176db10591df3b7797c00ce5b4ba)
 
+
 Problem 20
 
 ```
@@ -221,6 +240,7 @@ Make it harder? Provide your answer in under one minute.
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/20?email=kinshukram@gmail.com&token=402fa23f3d7dccd0f491b7beb4af5a0163e6c23fcba82df65aba821cd0c4f5e4a0c2d334e167dbe137650e17a092a96b3916bcebd73da305763bc68c34cbcfde27ade0a4bfcdf731)
+
 
 Problem 21
 
@@ -234,6 +254,7 @@ Make it harder? List at least five different metrics you'd look at.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/21?email=kinshukram@gmail.com&token=c2fc26ccd83a0a61315b4b2a2bbf65ac0cb129da554d76a4f7b3f00ac1329145b26e0302b9971bc8a8f88b3ea06fc1e8214467c65c3a0a285face011fa76b4c0b5b6343b51d1c672)
 
+
 Problem 22
 
 ```
@@ -245,6 +266,7 @@ Make it harder? Provide at least three different reasons.
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/22?email=kinshukram@gmail.com&token=f50b76e8061024356ad132d75a9b262386c615dc4eb94ee283c502f7d691e59dcb8af01899f0b18d245df2a1b4f22087b93d0af583dc46bc3798991226d209ade418543b8cc97dd3)
+
 
 Problem 23
 
@@ -260,6 +282,7 @@ Make it harder? Explain your solution in under 7 minutes.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/23?email=kinshukram@gmail.com&token=4fe32c7b21651d088ae6f568ccfb3e8c4fdb8668361cafe7a9e76f3017ae42649a7d0347b32df8b17195f85a116e5ec5ddbabba93424d4f9d935b9604d6424e8aac63e8709365f74)
 
+
 Problem 24
 
 ```
@@ -274,6 +297,7 @@ Make it harder? Your solution should be focused on growth improvements
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/24?email=kinshukram@gmail.com&token=b4fecf6e9443c1f0d408ff99bd489856e9d158dd2acfb2b174cca89c87921d296f24ca240989c938096690c35b975b8ea10a779655636929e90772970931845308625bff7f8787dc)
 
+
 Problem 25
 
 ```
@@ -285,6 +309,7 @@ Make it harder? Account for growth of video uploads as Youtube becomes more popu
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/25?email=kinshukram@gmail.com&token=416cc73810dceec2a92ba4f43f84c803e89c4d654eebc4a9fdc4751c3144de8c2fae5fa572a7db76164f6cb95e1721796f77c14f688936a5cd9fb3f9c8537a29506c15d7deeea401)
+
 
 Problem 26
 
@@ -298,6 +323,7 @@ Make it harder? Propose a better option than display ads.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/26?email=kinshukram@gmail.com&token=85178d2837b7175cb752ec63ca18f7a258b54773ae91dc379b089da5b6d2bdb77fb12dd751556a2268b26b55587337fb6316cdef7baf5a7e41b97cdbdc00ac61d339d5902d9f071c)
 
+
 Problem 27
 
 ```
@@ -309,6 +335,7 @@ Make it harder? The drop is due to cannibalization from other Facebook products 
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/27?email=kinshukram@gmail.com&token=beb6b0db0d860f811f16ce01c309810d6f350df4af1e31df0a28a797a62ce411a7ee0c56b7ac15ec0a153cd48cf576392c556ffb5c296b5b1bff511fe1d547f90aeca82b0612ea8d)
+
 
 Problem 28
 
@@ -324,6 +351,7 @@ Make it harder? Use user behavior to prioritize metrics.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/28?email=kinshukram@gmail.com&token=41234dc43529861a1d9bdb9b47a5a21eb496fc7cafbd9ecdbd5fd154b4d9e9de1b65a8ab7440b44de3ef5fe980587762ca87b2c4194f28d9acf8014f7bb1f32f779b55f5c66211e4)
 
+
 Problem 29
 
 ```
@@ -335,6 +363,7 @@ Make it harder? Assume you primarily use Spotify while driving.
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/29?email=kinshukram@gmail.com&token=3d0eeee51807586928cd3570744da4a547326f487fb76dc1eea5448a66f22ea81f95aca850b26031d2f0fa5285a27a053908ecf544d34f17a9ac4f262d9f6c56f0385ff2962bf52e)
+
 
 Problem 30
 
@@ -362,6 +391,7 @@ Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/31?email=kinshukram@gmail.com&token=4fb116409bb1871a139d0def4bfa765739eb382b6415864bc88f3f8f665542e6648aa8bd3c990303d3d0cab044a2498aa96ef6dcc44c7984538a8506b69e1dd59bae49979cdc5700)
 
+
 Problem 32
 
 ```
@@ -374,6 +404,7 @@ Make it harder? Provide at least three different reasons.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/32?email=kinshukram@gmail.com&token=8357a2190cd7efdc812690f8a6948f675bc16f36e1c181ae0ba251f342f1dd02fb64bb92ee5d4ec2044e3abbaa7930e233e871302e49474c2927ac5d404be0d9307e114752593961)
 
+
 Problem 33
 
 ```
@@ -385,6 +416,7 @@ Make it harder? Come up with two unique ways to estimate ad revenue
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/33?email=kinshukram@gmail.com&token=08b9dbf5a640ff332fa8b48146f8ad9e2fca2736199e220f6cf43d4515852ea97beca099f3ac5deb99877e8cbd12d5ab956a3cdedcd0a7745d8f1c436ff5b45fe731f4f192771b58)
+
 
 Problem 34
 
@@ -400,6 +432,7 @@ Make it harder? Provide at least two improvements.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/34?email=kinshukram@gmail.com&token=85d613f6f0898e5292f81b546e620327a78c45d620f25f6d2f7c87c4b5b75ed7123568f63ca333a5c86ba2f0ea0b5ba65c5c49efb050a01eacad40cbf7179fc6d0568e865eb40c0c)
 
+
 Problem 35
 
 ```
@@ -413,6 +446,7 @@ Make it harder? Rank at least 5 different metrics.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/35?email=kinshukram@gmail.com&token=e141d5f6b7dbe0221227bc2674d3a3dec50c81bee614e956a62ea9951eb8aebe95f125515a0f40456b011313a54dd9214b5ff511cfae2005e034454188836046ff211c0ff22d902a)
+
 
 Problem 36
 
@@ -428,6 +462,7 @@ Make it harder? The drop is sudden.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/36?email=kinshukram@gmail.com&token=9dc93abad0216b3afc94057056533f0cfd2e04a46b40acccbc6829932b813f3512e0511b208cc94561a8fa359719375d1631ae7091c98daaa64b47943dae718d835fa9f955f99eb0)
 
+
 Problem 37
 
 ```
@@ -442,6 +477,7 @@ Make it harder? Prioritize at least 6 different growth channels.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/37?email=kinshukram@gmail.com&token=6a27997516203332b044cd0cda3380582fabc4e34de4f9fd283b59a6e3e50661d17f3c4bce0188e4c2efe65c92a00c716e68a7947fa1ad3bc01e447f1af7c0a7f055e25dfa78be80)
 
+
 Problem 38
 
 ```
@@ -455,6 +491,7 @@ Make it harder? Provide a comprehensive answer covering DNS Lookup, request hand
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/38?email=kinshukram@gmail.com&token=a777f9b8f49a441d1b2cd887d3ee1848dfab00629c668633960facebc98a78acd9bb423062558fdb92c097ee0963f25064c44eb6d610587644a87636acbad789db5707a711b4f8ab)
+
 
 Problem 39
 
@@ -472,6 +509,7 @@ Make it harder? Include at least two alternatives to your product and talk about
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/39?email=kinshukram@gmail.com&token=0d70961cd2c804b877f3a09627a4f801d5242d55e6c3af0482f9e85c14873cea7d80a9c74c1650fad57f20a003c472591ef38e1ed7c17cba6b7863c45edee6d8d1bb9e27bf5b2271)
 
+
 Problem 40
 
 Here's today's problem:
@@ -488,6 +526,7 @@ Make it harder? The elevator is used for heavy machinery in industrial settings.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/40?email=kinshukram@gmail.com&token=1908a8c48aadf487ad126c305ffef942f07a9d2df858140001a1b60a088e980422863a89dc4e8ce7e97d4aad6127644358f5c711e315d2a77d892a9a713a83a3e4b3597fe77f4df7)
 
+
 Problem 41
 
 ```
@@ -501,6 +540,7 @@ Make it harder? Consider up-sold items in your solution.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/41?email=kinshukram@gmail.com&token=9607cebe6ca16d85c0935ec459e0791cb07ab0df09994a31d7188c8ccd6946b18e66f057329c2c3eb0b239916c25d011c1e09b04de5a65623794f76ee78a3392d70f73430f9bde02)
+
 
 Problem 42
 
@@ -518,6 +558,7 @@ Make it harder? Do this question twice: first measure the success on the consume
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/42?email=kinshukram@gmail.com&token=8302e612e4a52450c5741f90d8cb829f0e1664fa65089914fb0805ee42d7035e857af6095da4ff00eb41750021be9dca5cb9cf43a3d27c08a4590c16ddcc0c55dcb5ac2aab32c1c5)
 
+
 Problem 43
 
 ```
@@ -531,6 +572,7 @@ Make it harder? Assume you're improving the mobile app.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/43?email=kinshukram@gmail.com&token=de80830ff2abcd5dfcf530d008be3e2c993842344f9b0d0dcb48ab884ca522a95bae6b9bad1c51cbb3bd71a2062cfd09498df2d5474a845af26258605af22477546de75bf2f9eac6)
+
 
 Problem 44
 
@@ -546,6 +588,7 @@ Make it harder? The drop is predominantly companies in Germany, France, and Spai
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/44?email=kinshukram@gmail.com&token=d4d5cfe1f5d24ebbac2f230f6580f231f191fcfe604aecdd4b28b3a7dd363f4e9d91659997c988a7c4645afca9361d782463153fe2b48496ea7d8fddbbffb6a8e2139fc658dcc8a3)
 
+
 Problem 45
 
 ```
@@ -560,19 +603,6 @@ Make it harder? Provide at least 3 separate reasons.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/45?email=kinshukram@gmail.com&token=4ceb93f58d1255f2e0bf0b3e6ac226bd0d95c36d9681ca1e0aabc734f5d58f5f6c979c2f00819320df6f0260103c4b21baa9dc9d2b643c916b4c3b1d9c0a092795a2d750582210c6)
 
-Problem 46
-
-```
-This problem was asked recently by Microsoft.
-
-We bought GitHub for $7.5 billion in 2018. Name some reasons for the acquisition.
-
-Make it harder? Provide at least 3 separate reasons.
-```
-
-------
-
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/45?email=kinshukram@gmail.com&token=4ceb93f58d1255f2e0bf0b3e6ac226bd0d95c36d9681ca1e0aabc734f5d58f5f6c979c2f00819320df6f0260103c4b21baa9dc9d2b643c916b4c3b1d9c0a092795a2d750582210c6)
 
 Problem 47
 
@@ -590,6 +620,7 @@ Make it harder? Provide at least one improvement to this product.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/47?email=kinshukram@gmail.com&token=6dc372e353fff469a5626a22a1163d88540b3d306cd233a685ca2022ba75140605b4aa94a70f207af7a552e6b469a63a9d0be4c81275a3f77eacf11740790e9d3f87092fe0163be6)
 
+
 Problem 48
 
 ```
@@ -604,6 +635,7 @@ Make it harder? Estimate in petabytes per month.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/48?email=kinshukram@gmail.com&token=8e3a1ea598529a596ea4426e5a25ce0c6bda6f9b9f082ae6167ad4c2ea8000df086e615a987da6f08a48ef1194c62cd2035ea966d59d8baa8aad06cf884a90f6e3aa906ba4a87846)
 
+
 Problem 49
 
 ```
@@ -617,6 +649,7 @@ Make it harder? Prioritize your feature set.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/49?email=kinshukram@gmail.com&token=02771da077306d1588e55fe0498839f541607207c89e03b15af7264b1852bf784d7c374dcd38db7fbab130a008e9033a798f54dd80cde93fa886f2177c183a5a284292610019d6a8)
+
 
 Problem 50
 
@@ -633,6 +666,7 @@ Make it harder? Offer at least two big improvements.
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/50?email=kinshukram@gmail.com&token=f9617b72275efccf49f6811aec0feece94bf1e2927444776a5d37ab9a92fa383221490e51b4c9a621828cbd8f59e9548e4281faa8229fe06add47dbdc134c68cb5df563a11b70474)
 
 
+
 Problem 51
 
 ```
@@ -646,6 +680,7 @@ Make it harder? Name at least three and rank them.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/51?email=kinshukram@gmail.com&token=1d2dedf466146b167083ad2939166d6a6e880bd6a6afbc1268d59d789adb35b8783a5123a611ec02fd717f5125d758ef58dd4a36c740a2c95df44ae44cfbf493dc5e48c98aeb9b02)
+
 
 Problem 52
 
@@ -663,6 +698,7 @@ Make it harder? The drop happens the month after the new iPhone launched.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/52?email=kinshukram@gmail.com&token=bd7b26e3310a8f32ec92b76428f8b9fc6f91dcc9e662801ae9b3f5696355b3c095310b62b4aab89fc4df62fb57c601592ffc2229996eb815f1f4ada9cd8250ca353bd2704762e926)
 
+
 Problem 53
 
 ```
@@ -679,6 +715,7 @@ Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/53?email=kinshukram@gmail.com&token=7b555b2eaa8387803026669cedcb374d19035455fc289a3e6b8ee335841ef7f89c198ee79af413ee8834903e418b21a29659c698e4a1758e92950adace4e9364aec6fb89df7ded9f)
 
+
 Problem 54
 
 ```
@@ -692,6 +729,7 @@ Make it harder? Map at least 5 unique user behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/54?email=kinshukram@gmail.com&token=8a27aa6659a7be83a78b0bf93497e8dc1cb34710cdeae31614e6eb38a6af99df2a6018961bad6d410038b8c89328185da0bb3ae7069738f0c7495ae8acb90b338e510c786d1b81f7)
+
 
 Problem 55
 
@@ -710,6 +748,7 @@ Make it harder? Your strategy should consider both supply and demand.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/55?email=kinshukram@gmail.com&token=ea2620693efda201f14ab3d43c7d9665474074126a502ee5f0fc80d1c580c5aaa058a76a18c63e35e4b460f09497891f2e3c6d2c398af46f54d910ae8fe18d59bc5be83fe4f6b2d2)
+
 
 Problem 56
 
@@ -731,6 +770,7 @@ Make it harder? Be concise - time yourself and answer in under 3 minutes.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/56?email=kinshukram@gmail.com&token=4e09a8b7c531df1e7524d27a2b32fcdc446c3b8fc4f13f46807e60ed4d7e5b45161045ffb6428975c83cedaa3f79dab8ea7b329f63e96de0360a60598067a4fab81242b9374164c1)
 
+
 Problem 57
 
 ```
@@ -744,6 +784,7 @@ Make it harder? Give an example to help illustrate your point.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/57?email=kinshukram@gmail.com&token=9efdb062152c086b3721d1b47db1171e3434970ea7c56f1f336e485cf36c88a22bc2fe2a91582e8e239dee91cf0d49ae9de5d23ff79b52cb044d978741870b8374be693a4a76273b)
+
 
 Problem 58
 
@@ -761,6 +802,7 @@ Make it harder? Follow along and use Netflix as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/58?email=kinshukram@gmail.com&token=9017b4d9c9a2a05bad1e0aab784d8fed0fcbf0c904538935c651f69bf5da4a341ba0141ec5f19419f6bf417a48b87689a0d5cb0f0d986ea82bec91123074ed0821d61e718b210955)
 
+
 Problem 59
 
 ```
@@ -774,6 +816,7 @@ Make it harder? Say your answer out loud - do so in under 1 minute.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/59?email=kinshukram@gmail.com&token=99ba38dff14bf525ce2a3fab3d41cbcf8ec4d5f68c3dfab47ee1df39686354258e6e7f79d987c237e60bd0f9ee7c14d1e5d1c82a47f9adbabe853794d557304ebf6c196b4338ec13)
+
 
 Problem 60
 
@@ -789,6 +832,7 @@ Make it harder? Analyze core behaviors.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/60?email=kinshukram@gmail.com&token=623cfaed8d2ccfbb1a19d883b5fed71cb780cde85bdcd423a01a32a40ba8968b65cdcf9af15d1747bf83c69c4abbfd08bf8e8b668cb9153c055ebfe8aaee23f1b06b109897123638)
 
+
 Problem 61
 
 ```
@@ -802,6 +846,7 @@ Make it harder? Provide four different reasons why this could have happened.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/61?email=kinshukram@gmail.com&token=3b3a85d348fa73c773c2614625ca85dc9b66c6aba8d5f22994cf0de48c0aa24531afe3d90856867ced58fa44c45cd94cdf54af578ecc610233705026c6f385619290d2330e9bceb6)
+
 
 Problem 62
 
@@ -819,6 +864,7 @@ Make it harder? Follow along and use Twitch in your response.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/62?email=kinshukram@gmail.com&token=2f0da8a1c4a9223684d0aaf9d2445399e344ed5d8f4f2b19553246f861ff6b9fc37a6bc1ca7e089c4c282f0c77bd2f7702f476c3c26575e4741c7360a57ca3552cf0448721511c19)
 
+
 Problem 63
 
 ```
@@ -830,6 +876,7 @@ Make it harder? Propose at least three different improvements you can make to ex
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/63?email=kinshukram@gmail.com&token=453ddec5ebcbdf15d338940817b35166b39ce77abfe646562ff9f353b42655031a15f441f344c53409eafdf35cd68d88031d098ee9004d622785d29db2c0079e2cbee051c645e844)
+
 
 Problem 64
 
@@ -845,6 +892,7 @@ Make it harder? Provide a bottom-up analysis.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/64?email=kinshukram@gmail.com&token=2c948844811f76c7a7422f5cd9395dfe139aad769e8125807d591fd0d4c9f8446e56047ab2252d497783845aa24b29302df4e145c6c3e8413708fa43696e8db600ed78afb3630256)
 
+
 Problem 65
 
 ```
@@ -858,6 +906,7 @@ Make it harder? Analyze core behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/65?email=kinshukram@gmail.com&token=169fc6cdc2075088cebc6df0ff261285c7c266b61f8caa044318fcc918d099cb728bd032fe30ddc867bfa13369403dab8bb22f7751d8593c5469d46055b6511af504e1d8cdd7c17c)
+
 
 Problem 66
 
@@ -875,6 +924,7 @@ Make it harder? Follow along and use Chess.com as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/66?email=kinshukram@gmail.com&token=f93cb8c3f9e5d4b6f67537a96637894a7122f961983ec07e51a18030d168f2fc8f2106becbd66661ef7918ddaca29e1a72a508d306d7d791ab89fdcb5e277f25abd3b65bb98ee772)
 
+
 Problem 67
 
 ```
@@ -888,6 +938,7 @@ Make it harder? Provide at least three distinct reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/67?email=kinshukram@gmail.com&token=22644284e3440c81c2d7a6263ddd817a102d2e7e780dfd0a960dc5482cef7f04b523aa87d6ca8e34b818e7e47d87112825ebdbdf94c9172d512cc246b1ec85b48672325a9bc52af7)
+
 
 Problem 68
 
@@ -903,6 +954,7 @@ Make it harder? Focus on China.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/68?email=kinshukram@gmail.com&token=f6fad3289afd5a5c8b472dc0538676e48d5910a84d89ce48f071b3ed709db872dfda5294ead3c87ddc320a73503b8ef642d91bba4d99e7b7b271fa51e35d451adb9d9fc1665a3a30)
 
+
 Problem 69
 
 ```
@@ -916,6 +968,7 @@ Make it harder? Ask a friend to mock you with this question and use the solution
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/69?email=kinshukram@gmail.com&token=14c2a4120dc95f3b6048a5c887365d1309a19a48ed639c75bf3ef787c8bd5e079fab22248dccd151fde1c785a266da273344ae05b7ef7c0302e36817f9e8f0274108e8ae5dc52335)
+
 
 Problem 70
 
@@ -933,6 +986,7 @@ Thanks for being a subscriber, and have a great day!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/70?email=kinshukram@gmail.com&token=c1470a5da4d03fe15e22e40a8c19531d0d4f73c1a25bf58c93f4d45dba3c9b14236a35701055e753cdcd09e103b7cb045fc700a6c8d75ed19cb8c5deb65bfe8ccc8360a6cb3dc2f5)
 
+
 Problem 71
 
 ```
@@ -946,6 +1000,7 @@ Make it harder? Name at least three different reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/71?email=kinshukram@gmail.com&token=96b3365360b24cd38402888f923c19dc51604b577a6b8949576c6871c5719e25dc2d3ea1724b15024d9a8587a6081c5d34753971f39adef2a9a15ee46bf8777cf8627fd1441efca1)
+
 
 Problem 72
 
@@ -961,6 +1016,7 @@ Make it harder? Be precise - cover all topics in the Improve a Product formula i
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/72?email=kinshukram@gmail.com&token=ea09b8b6b6ef0ba5336b98c5a15b63035d54232f3bc1e07c67db6ced69cad6ea96363a1f357931fa59e8225c412d335d44be242026f1732394cd9c482b1212d084e2ee882fe75899)
 
+
 Problem 73 
 
 ```
@@ -974,6 +1030,7 @@ Make it harder? Provide at least three distinct reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/73?email=kinshukram@gmail.com&token=647b9b0b597504c8227ece5ec4d6555ab714ad89faab945137bbd88e1337c28f11b5d73f813a91cd96e76b7506fdd68dc1a0e6537f11c5a380c93746a3bafc1babe900dacd5cce86)
+
 
 Problem 74
 
@@ -989,6 +1046,7 @@ Make it harder? Propose and evaluate at least three different solutions.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/74?email=kinshukram@gmail.com&token=08880c399d24066b523df168d4b452033fb90387099d11c87a1e49437cc69813111a3f1b9d693425e3010a52510d1a96fd181fa3df0de85c34f015f489e03dca613c793a2cf29beb)
 
+
 Problem 75
 
 ```
@@ -1003,6 +1061,7 @@ Make it harder? Name at least five different reasons.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/75?email=kinshukram@gmail.com&token=526c6708282805fa444132367f08dba2c1dd1a6ec89c9c9da8b78c3e11c9af6f690b5b4b2471ca33e88f197e60a6a761e5b2e96c5da4571ad0a20baf1ed2a127c78e3d2e6c0485ad)
 
+
 Problem 76
 
 ```
@@ -1016,6 +1075,7 @@ Make it harder? Ask a friend to provide a mock interview with this question. Tel
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/76?email=kinshukram@gmail.com&token=0e97f9b034235c6164148c5e97b2d291889fd1042a22f31572defbe5e338c2b12da06f2fd3895fa0c125ad5a62f9dbf5ec723f77837f81d3167db649491c66d8b3681c4f24021c22)
+
 
 Problem 77
 
@@ -1033,6 +1093,7 @@ Make it harder? Name at least five different reasons.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/78?email=kinshukram@gmail.com&token=3723bebd8dfd616cfc17a4218bd0256a146531e1d05a75080f6508b7590faae3d1d283b2632258d3fce1893b1188a515870fa10897a41d773919a74fe043360204225d0267ba99ae)
 
+
 Problem 78
 
 ```
@@ -1046,6 +1107,7 @@ Make it harder? Use being too agreeable as your answer.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/77?email=kinshukram@gmail.com&token=c98fd745a08a86f4d08785c6929afbba7cac3db29bfd51fecb2dc13b0d2a82ac11dbd8d6f7ca7928fb9353215bc30499633a010a00b9a63caefc2fae4f1398b978df7e2ea545676b)
+
 
 Problem 79
 
@@ -1063,6 +1125,7 @@ Make it harder? Come up with at least 5 different metrics.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/79?email=kinshukram@gmail.com&token=1156fd04b0d97271b0590a7c06e2ce49e81c77da8948ae4f93b64a9a0e657842230abfa26675ea2607b06d7d64f00354b0328eab4427bb93e938971ca1f8176af0cd456f73736e8c)
 
+
 Problem 80
 
 ```
@@ -1079,6 +1142,7 @@ Make it harder? Offer at least two unique improvements.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/80?email=kinshukram@gmail.com&token=ca751118f0eadccaee958dd00c6bbbfa29a392b17c51fa636c0a74b06725068927955edf7c43c6af756504b5f9f513ee052ac6f562c07e2fdecef5e89187bd6a3c91b2b9b3c4a3cd)
 
+
 Problem 81
 
 ```
@@ -1092,6 +1156,7 @@ Make it harder? Use Shopify and pretend you, yourself, built a custom portrait p
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/81?email=kinshukram@gmail.com&token=5bc52ba175a0e3d82422dd9d52b973cc2a9456a6ff520b5384a4e2e011174a1aa38f8f3ace02cd6203ab50b5c4c04d4dfcbc54d870b3d4be1eb85850d8f60c1a3d34434700bf8703)
+
 
 Problem 82
 
@@ -1107,6 +1172,7 @@ Make it harder? Use existing micromobility company valuations to check your answ
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/82?email=kinshukram@gmail.com&token=7de3e2cb4191cf335ed2c30cd215e7f9d872064a1f28cd3c6b4718cc431a5114c0ccfd3f2568b3b43f33699c744cb78033b4059a0cd3e9a9ce6333ad307245fb9aa694f369376490)
 
+
 Problem 83
 
 ```
@@ -1121,6 +1187,7 @@ Make it harder? Ask a friend to mock you with this question! They should use thi
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/83?email=kinshukram@gmail.com&token=eb68769fb04aaf062405a203b092e8fffec057a21edf1bad078f291f48b278769a4b966bedc6217132a83f34f68c7a5e3fec7da84803eb24839250879a918cfd5475252a887f2e29)
 
+
 Problem 84
 
 ```
@@ -1134,6 +1201,7 @@ Make it harder? Provide at least three distinct reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/84?email=kinshukram@gmail.com&token=f8e4406c279004c59bdb1a42dbcddfcd20404ff088c6822acaaec18b0a0deb20c8feb87a9b9fbcd6c3c08b2ef94f112bcd2df6fccdc9dfe2fa5559c6eb6a94cd1bc02940b7e8d3fb)
+
 
 Problem 85
 
@@ -1163,6 +1231,7 @@ Make it harder? Whiteboard your solution.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/86?email=kinshukram@gmail.com&token=8ebec8220980cd6c06e80328004c62e03890b6589a5f71d98ac514f38eb56a09a01958e0267810dd59e7b7aeeaaa7ffc459172f3f5a32b644dc3629cb4d7fb9926db1ed202959500)
 
+
 Problem 87
 
 ```
@@ -1179,6 +1248,7 @@ Make it harder? Follow along and use Patagonia as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/87?email=kinshukram@gmail.com&token=fe8593504cdaa64036103c17e5d04c3a5c0c6966a85400cbec76ad70ba22f62c56239012b7ed978258cffbe5e3b711ffd2e5aa0050ee2d412c4a83e0286f3f3d7c7fcf4c4046a1e3)
 
+
 Problem 88
 
 ```
@@ -1190,6 +1260,7 @@ Make it harder? What are the risks for entering Japan?
 ```
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/88?email=kinshukram@gmail.com&token=6d774d69beb1b0d275521f833521e281b2e3bf223d81bf9b68c111e88be0ae0b75c5e20bd77f78286e387251cb9b25068d8d5fc6c7b9afe94c912a4d104e39e144985030a76a5836)
+
 
 Problem 89
 
@@ -1205,6 +1276,7 @@ Make it harder? Offer at least two unique improvements.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/89?email=kinshukram@gmail.com&token=43fd8dcde574b1630c47f1fec460928697dddbd67df0bf803ac6bd29a9265b1b51b637f3253b877fff21469cd7a68457382cbc839a1fe7087065ee14b9c8c6449b2abb332e685843)
 
+
 Problem 90
 
 ```
@@ -1218,6 +1290,7 @@ Make it harder? Consider the different languages in South Africa.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/90?email=kinshukram@gmail.com&token=06f764c18319b780c4569bbcae3ec0a4185bea90427dc0c3483dcb0c7712cdfbe08434cb4aeb91bbe0794123f9c8fc69cdaf00cbdb52f7e6e4a1e3a5fcb0f661a25a024697c54b0a)
+
 
 Problem 91
 
@@ -1233,19 +1306,6 @@ Make it harder? Make an argument for both sides.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/91?email=kinshukram@gmail.com&token=2aa1236029ace15a183c869b8521060d35fca3ec25f59db1b3262d063eb46324e65f549d1edff8d8b180e26df0ab7cf1f280d04e2b4ddf5d9a4a77da8105c9057f24bc067de2ac49)
 
-Problem 92
-
-```
-This problem was recently asked by Stripe.
-
-What's your biggest weakness?
-
-Make it harder? Use being too micro-managey as your answer.
-```
-
-------
-
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/92?email=kinshukram@gmail.com&token=5fd56dcdb90b42e8af02f3098c1b6f482bdbb45a7e14d37ae906e2a3d2e579e6c724d649cc1d3f0f7031fa9c128749663e9898d703c05fc61099fcfb3e752f62d0bff222d8ff54d9)
 
 Problem 93
 
@@ -1263,6 +1323,7 @@ Make it harder? Use Intercom and pretend you've used it in the past.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/93?email=kinshukram@gmail.com&token=54c7dd28a09bf0027a3d2c6357c721348ead57719649bd5dd2d50d4827c9081243b5c9c3402dc61be894486d2d23f523690a5c77c85732007b4e79a051b4a9f3077c76de701bf073)
 
+
 Problem 94
 
 ```
@@ -1276,6 +1337,7 @@ Make it harder? Whiteboard your solution.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/94?email=kinshukram@gmail.com&token=1913c20bf0edcc3354d15451b25775ad754823d8ac42b0ec692bfc98daf870d59cfc54c3107dbba2e40455dc790b3dc44b083353f7eae66512887271c2b4754b298c333faa92a870)
+
 
 Problem 95
 
@@ -1291,6 +1353,7 @@ Make it harder? Assume this is the global amount of tweets.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/95?email=kinshukram@gmail.com&token=24a081df2ffea37033d2ddc5ec6c6266a8de6911fdf07d4301120a9feef68cf3b093a9cffb2214863ab8664b3e68face5309b953b7d0a449314b84a03721d7e20eedece55c7e3852)
 
+
 Problem 96
 
 ```
@@ -1304,6 +1367,7 @@ Make it harder? Whiteboard your solution for the supply side of the app.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/96?email=kinshukram@gmail.com&token=486af7b8c8e0abc0f874bf3fb86c13779f3c3e5821d6e0d33aa617e09762a0b6b1449e41847ec6c482649c4ea64cbd5569910aa3cc43a609c0466ab94a55918eb585fe2d448d82f6)
+
 
 Problem 97
 
@@ -1319,6 +1383,7 @@ Make it harder? 90% of new signups are on mobile.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/97?email=kinshukram@gmail.com&token=4b799600d82bbd72cbb49fe57300525b0d5553b1195256662b1b38ef68a60d0f832c8ffb440c9ccaad78bcc2a437b85ae15169a69f501db6d5872d10bd8fbd2c6d83c178569c4ddf)
 
+
 Problem 98
 
 ```
@@ -1333,6 +1398,7 @@ Make it harder? Analyze core behaviors.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/98?email=kinshukram@gmail.com&token=ded13ec4f5904acf26453893d96ca0015fccd31d1d2e8479cc41c35cf7db27ea9ff0d1977ec2decd2db52973e5f03b384fc78a7daec7551168eaaefd6324babbd62bae889c62b284)
 
+
 Problem 99
 
 ```
@@ -1346,6 +1412,7 @@ Make it harder? List at least 5 different endpoints.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/99?email=kinshukram@gmail.com&token=9f3697e8a38bee94b32cd18576ad5bd37cd8df2d29fe5ad86782fe67657dabd472a6054fc1d4f8f7ddb742bbc49d40d4385c61e91de9d17c4dbc6e1bfeaeaad71807f38a9b2ad82e)
+
 
 Problem 100
 
@@ -1362,6 +1429,7 @@ Make it harder? Name at least three reasons and rank them.
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/100?email=kinshukram@gmail.com&token=3daf06b138e404c258b25d59b992c880b902906d1e6130569a7e24e44d5e73f317b7db3f3547aec8ee3e81ca14576472d864c7b634bd113c5c01da15097ddf273c29306c001ba57026)
 
 
+
 Problem 101
 
 ```
@@ -1376,6 +1444,7 @@ Make it harder? Provide at least five different channels that Adobe could use.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/101?email=kinshukram@gmail.com&token=a89e27a2ffb7d79ce85fa34eec22c84237a1914170caaa34e283f18a1cd028d1ad2669ceb25ce8f7384f240eaf89c42080e1b74834dfb435b62611fb59da91b5ade0cc4ae7b0ebfc93)
 
+
 Problem 102
 
 ```
@@ -1389,6 +1458,7 @@ Make it harder? Analyze at least two different behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/102?email=kinshukram@gmail.com&token=7c5aba87dd753182da399cf1c56a8a659ab7fe8bb09ff9d2e5dc872df42af82a95fd4d7a0919aed23a0c365920bf52788bf2bba1bfd0842276bac3a23a2097d7af356484e3ce4792c0)
+
 
 Problem 103
 
@@ -1418,6 +1488,7 @@ Make it harder? Provide an example with three different stakeholders.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/104?email=kinshukram@gmail.com&token=13a2975d789254bb7b1befe96fcd69fa11eda30ea5f9ead2677277b5448fa34ea52d66419035ee598bddd8b0d151adbe1ec8d7768fefd1e030ec1961cddd2106e6cb050147ba36b8c2)
 
+
 Problem 105
 
 ```
@@ -1430,17 +1501,6 @@ Make it harder? Android installs haven't changed.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/105?email=kinshukram@gmail.com&token=2474bb44eafb260e555e946a815b383f1ccccf27f02ce1ba56e13f49fe573a078124cc54cdc5b136a4a1173e5bb8563356cb0898054c927ba03a2a9c3707727bb7bbdbda56398041c8)
 
-Problem 106
-
-```
-This problem was recently asked by Amazon.
-
-What's your biggest weakness?
-
-Make it harder? Use stubbornness as your answer.
-```
-
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/106?email=kinshukram@gmail.com&token=94fb5132136b6c259a7de5bb73c26f48c1e8a441b4c3b6333ff0d624837b05fc41363a57a09b0614b9b7c92d2347ba9f0429cb8507aa3e6113412c39abde52b3aaf11722461707ad00)
 
 Problem 107
 
@@ -1454,17 +1514,6 @@ Make it harder? Ask a friend use this question to mock you!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/107?email=kinshukram@gmail.com&token=76c5fea7b11fd24c00847eb45a826e0287baa71356ab26ba53b39490d696e6affd647a64f4fffca97d11f16a6a14ff9e78f88439fd98d3cbdc0cc77a37f9cfedc729058dafa5dc4d3f)
 
-Problem 108
-
-```
-This problem was recently asked by Lyft.
-
-What's your biggest weakness?
-
-Make it harder? Use rambling too often as your answer.
-```
-
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/108?email=kinshukram@gmail.com&token=a62c39ba4b146a91e9cb30a6170f7ff646a5fbd7c31605eb1881c45603cb8aeb940a2ef6737a0e3aac820c87aaf557e47f0e012b8bca82fe9ded127fef72efdc3343cdbe29ecf249d0)
 
 Problem 109
 
@@ -1480,6 +1529,7 @@ Make it harder? Provide at least three distinct reasons.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/109?email=kinshukram@gmail.com&token=9bf2f14ee1ac871012f7ec486c41101044513da60158d3412bdbcda673522ff7dbc67a0b8e411d845c526a0102a65a4fc27cf8d2d5ea04b603edd0056ed414746163177ca85add9aa2)
 
+
 Problem 110
 
 ```
@@ -1493,6 +1543,7 @@ Make it harder? Provide at least five different channels that Notion could use.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/110?email=kinshukram@gmail.com&token=6423081fc6c1e34a246d95e3579dfe6a7df3ae74bdd948b10e6cf2ab3586933b50966a17e0dbb4e8d5fa8efad31f06b4f1a2d1968f5976a35df3ba941b1faf19fc06bd05901a70d46c)
+
 
 Problem 111
 
@@ -1508,6 +1559,7 @@ Make it harder? Offer at least two unique improvements.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/111?email=kinshukram@gmail.com&token=0a1c411005f4f125e3f4348cac4cb1176f276490cc102dcc8ee1a774d6dfeb3a6193bd0013efd42e3e19a0e236f1aab9006413aa77e3dfb6376531c3ac6dc78d464d0c48fb1bf4a934)
 
+
 Problem 112
 
 ```
@@ -1521,6 +1573,7 @@ Make it harder? List at least 5 different endpoints.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/112?email=kinshukram@gmail.com&token=e6ae95f6482078236df39b3720c57a17a95f614c24dcf7105fc27b199a24029fdaeee83747e1af366ec73f08e2a21da611a9cabb9c232e10bb8dfc5cedc646fc441060e6ba88c22fc1)
+
 
 Problem 113
 
@@ -1538,6 +1591,7 @@ Make it harder? Follow along and use Chrome as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/113?email=kinshukram@gmail.com&token=5a90ef200e68bb31538548f9f28688a47fbcc97d5c8acbf52c5b6382b2a617d895f8ffe8f15a141d448fae94fd8c8d12e63802ba558b6b4b3b32e4008b4f38c41b87be77fa189eced0)
 
+
 Problem 114
 
 ```
@@ -1554,6 +1608,7 @@ Make it harder? Follow along and use LinkedIn as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/114?email=kinshukram@gmail.com&token=ec05cd8623305fe9bd286bb85616281816af727f3e6dd8bbf3544b804a55312f9a333e1488407b23505a88d284a214b60fec7b9d5deb38a98e8dc7401d0d51e041a24668610747d1ed)
 
+
 Problem 115
 
 ```
@@ -1567,6 +1622,7 @@ Make it harder? Uploads have only changed on web.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/115?email=kinshukram@gmail.com&token=c8c322077f436c1f5cf7a61eb9e04a1cf9a9ef6c462a11b0156fdc3d3712264b07dcc94ce6be3c5a8a3889eda407e03d7257f286b818e17a5d33294ac0530a1d086555a38fc0dbf00a)
+
 
 Problem 116
 
@@ -1582,6 +1638,7 @@ Make it harder? Evaluate at least three different user behaviors.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/116?email=kinshukram@gmail.com&token=61719420a9ba71580da9c4067376d5de6422561580bb7a757b0adb9620e0d721a16ec0667f4865cd9b9b2021de31ab86b1d2479fd877a2cc70583c5f9e616d22efc7b1b5fec1f0f264)
 
+
 Problem 117
 
 ```
@@ -1595,6 +1652,7 @@ Make it harder? List at least 5 different endpoints.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/117?email=kinshukram@gmail.com&token=2fef73a7e7d95498c3451b3138e5e670a8e499f98c243f32e8b7535abc2e88b3fc73d85a02ae79681e5358ab708e7fbe513f6bbfb70c8d3edf689a42682828724c7f38ea21ab29bb0d)
+
 
 Problem 118
 
@@ -1610,6 +1668,7 @@ Make it harder? Ask a friend to mock interview you with this!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/118?email=kinshukram@gmail.com&token=bb1257ffa0d7ddc0b31ca507387b4ee2d218f3714efce045049f2fed7c9abb2511c6db9709d76a8cd96a98c0c8fa837eac113ca97c2ad1db902c208c3d8d141695171967c4bc99e968)
 
+
 Problem 119
 
 ```
@@ -1624,7 +1683,7 @@ Make it harder? Answer in under five minutes!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/119?email=kinshukram@gmail.com&token=2b45d0647c723ba52689fbb7326a8e59f0d66577ceb4df0d8bf233959921fe6dd56221fb108ff84a11ad970333d68ad25317511a981c0fce329aed07b0f6da096c3dfe392d9cfa2bc2)
 
-Problem 120
+## Diagnose a 25% drop in conversion on Wealthsimple's landing page.
 
 ```
 This problem was recently asked by Wealthsimple.
@@ -1637,6 +1696,7 @@ Make it harder? Use this question for a mock interview!
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/120?email=kinshukram@gmail.com&token=14d626f24c5d7f132250647e585707f60cf036e7da7bf46eccbd29b2399a35caf20ffead796dd498451dadd5427b16a848a6cb974dea3173003a40d61564e64f573c163f28a59618d0)
+
 
 Problem 121
 
@@ -1652,6 +1712,7 @@ Make it harder? Offer at least two unique improvements.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/121?email=kinshukram@gmail.com&token=3738f2977bbf9c112634d3057204a0e3864120c2060de831b29ee9389a8efa264119ed7779384284b87816b45a9fb472285f7bf8f0358cef5c63452b37ace15a8ae23cc6a2661ae001)
 
+
 Problem 122
 
 ```
@@ -1665,6 +1726,7 @@ Make it harder? Evaluate at least three different reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/122?email=kinshukram@gmail.com&token=6145d473feb109370dad3df1a3e9c669ffed73aaa79f6fde12d39684e08df71eec7ec09c0d90c6513aed7cfcae7966fc7fb659dfc3cc686b4f86b71a094bc111000ead924e7eb3d850)
+
 
 Problem 123
 
@@ -1680,6 +1742,7 @@ Make it harder? Ask one of your friends to mock you with this question!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/123?email=kinshukram@gmail.com&token=9587c7e692626fb33f895448b91007d01da8ce730ad011109f19950829521754f9e80d18898a5d0beb230af99e3f4b7583180aa6e1f84557c23cde7eaed76d8ffc5f86cceddfe83578)
 
+
 Problem 124
 
 ```
@@ -1693,6 +1756,7 @@ Make it harder? Evaluate at least five different user behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/124?email=kinshukram@gmail.com&token=031df735119a539ce543fe47cc0e078d450cab36ca0dc14cbe410df092a0ffb9cca377ea91d1da7cb2a997b5f36bc9231c009872111e6893bace4c64995a89ceadcd445ee824c65314)
+
 
 Problem 125
 
@@ -1710,6 +1774,7 @@ Make it harder? Follow along and use Messenger as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/125?email=kinshukram@gmail.com&token=f63c731c4de91be89a2fa7ed7b3bb9a0dedcd5eff0e5cf465a5a17cd6e7e16ae85dbf65157658b1408c4e82a804d8f3f72e2e5257d1466019e7de5882855bcc233de6c186869e027c2)
 
+
 Problem 126
 
 ```
@@ -1723,6 +1788,7 @@ Make it harder? Account for different age ranges.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/126?email=kinshukram@gmail.com&token=a8b24f63841a43a17532f31a3fca24fc0b6370fb2c8657c920783ab3bd099a605550da4459e155a271278054fd943269c7e13caca991289fb480a4f967e8e4646bba0fd1d5ea234685)
+
 
 Problem 127
 
@@ -1738,6 +1804,7 @@ Make it harder? Uploads have only changed on web uploads.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/127?email=kinshukram@gmail.com&token=cc12d88e8b0f8d132ae266930c6993c9bc97536b3ccbc633eab829342683c88f445270ceb0211739e53094af5116b0927c460831b4c35fb7433182733015f0f65bb0b449338a6bca9f)
 
+
 Problem 128
 
 ```
@@ -1752,6 +1819,7 @@ Make it harder? Evaluate at least three different risks.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/128?email=kinshukram@gmail.com&token=e1f4d8b55ae2dc5877d08b42498dd9812e8586923b12d9c27524825e6aabe0e58ff1a79e8bba487fdcf8f978e940d4e48bbda0960733455377cc98b1951e42c9c15fbff8bd7debb825)
 
+
 Problem 129
 
 ```
@@ -1765,6 +1833,7 @@ Make it harder? Offer at least two unique improvements.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/129?email=kinshukram@gmail.com&token=a235f43bc36236030069a692a16a9c8f475d1a272d5bab9e2a145776392bca4b69a33bfe95c494146041f9aac4fbbad352024403a42dd418ce19d5defbe230ee6e354f4748a8135c7b)
+
 
 Problem 130
 
@@ -1782,6 +1851,7 @@ Make it harder? Ask a friend to give you a mock interview with this question!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/130?email=kinshukram@gmail.com&token=7b56e04901b963a0680d179bcefb66d428a8669e15684d9eed77c879ea2c4cd2c0b25905228b1bb7655176bec9ab1bbef059c9fa84cb65da69f1f04c2b9b5b6c2676bef26ee74a52f6)
 
+
 Problem 131
 
 ```
@@ -1796,6 +1866,7 @@ Make it harder? Answer in five sentences or less.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/131?email=kinshukram@gmail.com&token=c427305a83e30068d9929f3e240771ba776e335c9eebe0120b829d1d2918f5af66a36ffe917b2e423c06b22ee2279cf70dc2fbe7c30e0891142a6b1a8aaafa25725bf37555f885f545)
 
+
 Problem 132
 
 ```
@@ -1809,6 +1880,7 @@ Make it harder? Evaluate at least three different user behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/132?email=kinshukram@gmail.com&token=26f8c0cfd4aa08c7ff8535c1d00b63df381924957458cd5692ace44345642df1e3e8df9b5de8082ed6340b328e66f2a179147083922208b95b57fbd86a7d15fc55b90495c58fb47f99)
+
 
 Problem 133
 
@@ -1826,6 +1898,7 @@ Make it harder? Ask a friend to give you a mock interview with this question!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/133?email=kinshukram@gmail.com&token=0267025e0a1b8680c0bed4876889006099f87c0eb8febceddc0129844490c36fb82172863f371ddd4bde5a01846dafadec7ae2279f3ff4f29eef4811b62bc9ca6eb54a437e4d96b8d8)
 
+
 Problem 134
 
 Here's today's problem:
@@ -1842,21 +1915,6 @@ Make it harder? Provide at least five different channels that Snapchat could use
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/134?email=kinshukram@gmail.com&token=992d9946d0c012ffd7bbf8a6d0e7419a3efb405e9b3609cf794512bc33faeaac75d4318cabab368ee22a24a5bac8a476f6d8d1e355a3d30822d2c5da603bd55b60faee0a94b872702b)
 
-Problem 135
-
-```
-This problem was recently asked by Shopify.
-
-What's your biggest weakness?
-
-Make it harder? Use being too detail oriented.
-```
-
-Thanks for being a subscriber, and have a great day!
-
-------
-
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/135?email=kinshukram@gmail.com&token=e7228a526f9f833c9488694c1948500e54a5004e6b8394180023072b3291187e6f8705c87295a6498123236a4f34b7bacc4e179011a902abb316a107f2ba7982dd8d836a5b8997e551)
 
 Problem 136
 
@@ -1872,6 +1930,7 @@ Make it harder? List out as much detail as you can!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/136?email=kinshukram@gmail.com&token=6f7c14c2f95c5714e5eb89a0b1c007267752f6f29a3e0c14b46c6617a216b2624ac345bd7941a9bab4980ba265a05729c743eebf0cb9b14a4a8ec6f57d7fdc49153be58c37c585832a)
 
+
 Problem 137
 
 ```
@@ -1885,6 +1944,7 @@ Make it harder? Evaluate at least three different reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/137?email=kinshukram@gmail.com&token=20abbd6d8de52d580e0eb64c0df2448549dd0cb8844a866bb837df1be1e4b7ee316dfb7e72b47ef173abfb746c30051f574a31b912dbb073e4081979bbac2bedbd01fa148b6cf49059)
+
 
 Problem 138
 
@@ -1900,6 +1960,7 @@ Make it harder? Answer in under 5 minutes!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/138?email=kinshukram@gmail.com&token=2e5c1b5e73b09785a4d4642a01d3f3b4be357a945d667bf8660a2c1d6aa33e465aabbdab76cca3cbf16e5fd6c0130facad52b35a8417b912abcd547724a356cb3ec0f28632cfb5b80e)
 
+
 Problem 139
 
 ```
@@ -1913,6 +1974,7 @@ Make it harder? Ask a friend to mock you with this question!
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/139?email=kinshukram@gmail.com&token=74822446367d27f63f5b72f309256969615f4c63aea9af48f3df337a122862303f51a613205c645757f235971fe4203b4452605b3d5d424adc6d3b764fd4188207f660a7d23ca3d2a0)
+
 
 Problem 140
 
@@ -1930,6 +1992,7 @@ Make it harder? Follow along and use Notion as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/140?email=kinshukram@gmail.com&token=12b56dde553da7fb2376925f0d9843aea15a96190d2affec308db4a1d9eacf752dffb070a974d27e61d24490564066cf344870019495aa3e947adbf4e855fde20e16bb2838563c5fb9)
 
+
 Problem 141
 
 Here's today's problem:
@@ -1946,6 +2009,7 @@ Make it harder? Propose at least three different ways Apple is affected.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/141?email=kinshukram@gmail.com&token=30519607cd4ac8ea2d38e7f9f5590e1530a178e53a05a61b421b71141f315a5f7d68d1c22ec491940e0dda243eb5468706702aead782b8a224865a6fdb5e864281ffd505f10839ab22)
 
+
 Problem 142
 
 ```
@@ -1955,6 +2019,7 @@ Why do you want to work here?
 
 Make it harder? Assume you applied for a role in their Ads division.
 ```
+
 
 Problem 143
 
@@ -1970,6 +2035,7 @@ Make it harder? Uploads have only changed on web.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/143?email=kinshukram@gmail.com&token=8dffba733c2a0adad4f63052ba7d8f454f8cacbe55c0c2d49f751dd7f9733ab493b33258281f0cafdaa788047eb51306d386733e563b84edaae774d36a0a3496d9c5c1939bb74d5da7)
 
+
 Problem 144
 
 ```
@@ -1983,6 +2049,7 @@ Make it harder? Evaluate at least three different user behaviors.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/144?email=kinshukram@gmail.com&token=c94b62215b9c7b66e4e3bd1ca0b30c065616a76f49847df4d9699f89a2e5a2095b1df93fd4e0cbb9e53dbc21ddcf6ad2aa327ac14698aafaa7a379e89350d4cd0bee140761326e6f42)
+
 
 Problem 145
 
@@ -2000,6 +2067,7 @@ Make it harder? Offer at least three unique improvements.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/145?email=kinshukram@gmail.com&token=3bde909a9054ba1a741d87100722c7cdc9c117a16f4f9da64a2ea857f7d67be2c28b36f1a4e27c2f55f9dea7fa9f25af0bad5ab0ffd9c35fe42e3488f5aba4971edbc72fa4ed5e3da6)
 
+
 Problem 146
 
 ```
@@ -2016,6 +2084,7 @@ Make it harder? Follow along and use the Apple Watch as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/146?email=kinshukram@gmail.com&token=1a1dab584face7e23c4a1c29adaaf3c222413997dc9f4533c37b8777753e29301bbea715d8bdb13332ba70e35a80215d445bb38fd6db7b3f459963baacee8d933a1216d9db7868d3e6)
 
+
 Problem 147
 
 ```
@@ -2029,6 +2098,7 @@ Make it harder? List at least three different reasons.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/147?email=kinshukram@gmail.com&token=a5e19d13ba8ae4572055d065defd6ec16604caa485a7a0500a219589a8178a9af045bc57d78ac83d0b4cf3f54eb0337d1dcf3b786c2333acebd92969102e9084b59fda9d1ee4741512)
+
 
 Problem 148
 
@@ -2046,6 +2116,7 @@ Thanks for being a subscriber, and have a great day!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/148?email=kinshukram@gmail.com&token=48ee2276bcba5f240b833ddac629cbf9a2b6b00b36898ca71683722db310ddd3306dad7eca80c925e8e15140e67f3b040eedb88d9bd4e5ce53b4c1fc133649cd57f01b6fc24f878923)
 
+
 Problem 149
 
 ```
@@ -2059,6 +2130,7 @@ Make it harder? Evaluate at least five different channels Netflix could use.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/149?email=kinshukram@gmail.com&token=6f5cfca4db97c866dd7e1b5845cf1483a62197432d06b7a9e4fcd7ef603c13d0728c4756777f24531a4a7d35c4ef4144c81262e1f36f162d518191cc0aa2aec39b56803644471fabaf)
+
 
 Problem 150
 
@@ -2075,6 +2147,7 @@ Make it harder? Propose at least three unique reasons.
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/150?email=kinshukram@gmail.com&token=ca2666917ea06f58c543715f9b78c9932193146755e05cd7fefdfeb613677234b239775edcc60b2e21d6bc244594693558e0d0f43555defb3e831df744fe11870b84a6ee58856188c6)
 
 
+
 Problem 151
 
 ```
@@ -2088,6 +2161,7 @@ Make it harder? Provide a sanity check before concluding.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/151?email=kinshukram@gmail.com&token=fb0a3217d0ba2bfb7dc0078da12ebda88250a33c2e27061b6672afea44bcb04209fc451aec97ed9a4e0ab4ba10e72dc697a352e77d69b06c868aa2fbe7a771e57dd117318ca8712270)
+
 
 Problem 152
 
@@ -2103,6 +2177,7 @@ Make it harder? Offer at least three unique improvements.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/152?email=kinshukram@gmail.com&token=851d774146aca38b46e1af9eba458171f1484990f8a55d2ac406116ac00d9b7da5332fad46e7bcad4a82566d4e9e3984167a52837ebeb9307675513f8bc7701be72b3aa7aa2482f619)
 
+
 Problem 153
 
 ```
@@ -2117,6 +2192,7 @@ Make it harder? Whiteboard your solution!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/153?email=kinshukram@gmail.com&token=a499dc220869ece6df05bc8b871106e07ce1e44e5e65b3d0956239a38b68f3cc846dda2f4903fa6ac1a529876606aae95e4b402903988d17e7ae06709d9791dc4a5b1ab9ee9442c833)
 
+
 Problem 154
 
 ```
@@ -2126,6 +2202,7 @@ Day One is my favorite journaling app. How would you improve it?
 
 Make it harder? Offer at least one small improvement and one big improvement.
 ```
+
 
 Problem 155
 
@@ -2143,6 +2220,7 @@ Make it harder? Follow along and use Amazon Prime as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/155?email=kinshukram@gmail.com&token=312d4ef4aba99efac163d7cef73d07de7cb1beb8c0e4d64a9935dfaf338cfd2af5d9f231aba7a9af0cfe9332e7618b9ed3026c52b9545e02fc6c4dd8cdedcaa3badb2df9c3ab90407b)
 
+
 Problem 156
 
 ```
@@ -2156,6 +2234,7 @@ Make it harder? Provide a sanity check before concluding.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/156?email=kinshukram@gmail.com&token=224876b208c310f6347c09fcfa3daf7a120ae793079d6cc75a13e5e7927207c7bd8c55341d414fe43cf55cfaf96fbb1076b3431b1e1d330fcc93de8f172f9336758260b18fbc5a5c0b)
+
 
 Problem 157
 
@@ -2171,6 +2250,7 @@ Make it harder? Consider both user and customer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/157?email=kinshukram@gmail.com&token=eefb614b83c080c5e676492cd9538b9469ab149bd88076076215a110b4a8fd31c69e5c0d6fb7e9689a1f406ace4824a0a7643ad3507b94794935c546eb0ae406e6604c3003f51cc17f)
 
+
 Problem 158
 
 ```
@@ -2184,6 +2264,7 @@ Make it harder? Assume they're for office workers.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/158?email=kinshukram@gmail.com&token=13d44d0ab3c09326851c0c1432319ed14e627603e4430f9694542a63c20b35c149e0caeec8c62e0703e06299d4eaee81a1f7e69601aefea5dbdbd0d41b62e1395161ca99c6d373da38)
+
 
 Problem 159
 
@@ -2199,6 +2280,7 @@ Make it harder? Evaluate at least three different reasons.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/159?email=kinshukram@gmail.com&token=2d9f243ce37c9da8258a33d20f4932575f2c6baebfee70123dc012e92c9ae06473e04b5a936ee9918bb48f67ba462d325fffb374d7d2ba93ecba67caa5da2524c60655bd004caf01f1)
 
+
 Problem 160
 
 ```
@@ -2212,6 +2294,7 @@ Make it harder? Provide a sanity check before concluding.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/160?email=kinshukram@gmail.com&token=f58d7d5af5c776cc245d1f47e8d274b7172ea7b36cb289833d36041ea3fa34d85409852174f6f18ba50fafc8eea22d6ca78130b531358c85e382f558b5e2dbea6cb85e705d6a8f3123)
+
 
 Problem 161
 
@@ -2227,6 +2310,7 @@ Make it harder? For each endpoint, define what type of requests they are.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/161?email=kinshukram@gmail.com&token=82ca8448cdc5f47a98b45547589e1fcaa8a2af058cf701bd4b1b16e86ede2375163046d67fb60c89c3e279592f3bf5a85c0977b2b5954366e1d71922f44e4f50dc198a7208ac1a29b0)
 
+
 Problem 162
 
 ```
@@ -2241,6 +2325,7 @@ Make it harder? List out as much detail as you can!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/162?email=kinshukram@gmail.com&token=74b14c885e4a761b8ad1df4b4974e8a8bfb0a0580bd3dcacc49891387db33aa9d34603f0eb45dc817b03325a77cfc14c09b21228c6f3b6f50b828845d93e60d3faf9f1e0e6b3c91a31)
 
+
 Problem 163
 
 ```
@@ -2254,6 +2339,7 @@ Make it harder? Use attention to detail as your strength.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/163?email=kinshukram@gmail.com&token=6ce9f80f8092406a1223ca39f90618a5d8787d208a22e3df0ebf19c81545d437302905fe6e5cdcb10516f55ceedafb24e0e5bbb1eab52f70e948d27e3a88f3b9e439e3d2800e794f5a)
+
 
 Problem 164
 
@@ -2271,21 +2357,6 @@ Thanks for being a subscriber, and have a great day!
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/164?email=kinshukram@gmail.com&token=869e9ce9d2a87f90a2a7b1739978bfd0928ecf9effe593e6448abb682b858321941b3f852a194e133fa4196428471148e149862103e9eb36bf034f8e89c750a6616d766bce953ab250)
 
-Problem 165
-
-```
-This question was recently asked by Slack.
-
-Why do you want to work here?
-
-Make it harder? Provide at least three distinct reasons.
-```
-
-Thanks for being a subscriber, and have a great day!
-
-------
-
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/165?email=kinshukram@gmail.com&token=22be8aa71fef7017fb1354e8b0f8db40f716f4a405330ef7a852908ec5f4dde6ce29f1e359151ce06302b932279b4014d6208f701edced50ac89cf0762063499d017691a27ed33b9c6) 
 
 Problem 166
 
@@ -2303,6 +2374,7 @@ Make it harder? Follow along and use Stripe as your answer.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/166?email=kinshukram@gmail.com&token=322d744f746f30ab15b02b08faab354fed87a20d8180f7b01c236b49a2e8dd88931a5dbc01c46f2325a41f646d65fa6e1e98c97be4f0b975537592d4d7ba3a2c8d28d14144f115049b)
 
+
 Problem 167
 
 ```
@@ -2316,6 +2388,7 @@ Make it harder? Revenue is also down.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/167?email=kinshukram@gmail.com&token=81432221e367eccdeb670ee037a5cf47402cebc66a0b60ca83d961aeea58a93d9bab1c5a5ca50c94b3c57c88046b2fbb266a743204808318d8f1bad312490f9f98773d0b6dc6eb8cfd)
+
 
 Problem 168
 
@@ -2331,19 +2404,6 @@ Make it harder? Analyze core behaviors.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/168?email=kinshukram@gmail.com&token=e1b0c667072147f4dc12880b360804af2c1393a65d0e30e355abca2fb089226f9921700e633a89695103f6a0b5f7cddc0e9585fe45240bbf3a78f8144cbf571b28f44e9d5c492b9fe5)
 
-Problem 169
-
-```
-This problem was recently asked by HelloFresh.
-
-What's your biggest strength?
-
-Make it harder? Use being a great team player.
-```
-
-------
-
-[Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/169?email=kinshukram@gmail.com&token=b7bede3b30d04026d3f86b7eb921d48d61be951ffb5b3c5e8fa5f0c51587c126137988bdacc8538725093121004cc724136b23c5172e41c6f7413c0fd062cb6f48da35a25d445c3827)
 
 Problem 170
 
@@ -2359,6 +2419,7 @@ Make it harder? Provide a sanity check before concluding.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/170?email=kinshukram@gmail.com&token=f31d96156866f18b1e5f6c2022aeaa6436a1e364c728178e3968e8d3bcbbb63faf3347f130d8c24774108b8d6aa079a390f23b82732866694fcea97f04960244e06d8e247017cd7264)
 
+
 Problem 171
 
 ```
@@ -2373,6 +2434,7 @@ Make it harder? Analyze core behaviors.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/171?email=kinshukram@gmail.com&token=d32a26b9a554dcb2d824f1f9ba8eeba9984825aa613db69af8a611e363ba0b3567c9afbceb5892fa74e2a8b3e9cfa367dca5df6a5023a41303c0d4ba0acae3f09cfca7b00ddafed6c4)
 
+
 Problem 172
 
 ```
@@ -2386,6 +2448,7 @@ Make it harder? List out at least five different steps in the process.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/172?email=kinshukram@gmail.com&token=4e050a9df70af3f22cf9a1d17aa80fe9e95eb7d30f1cb6a94b1e228e1229226500e50fd1f81b552c9624ca848e4587df6bcf9b515cfb2a52f32bd61a03f847785cacd66b3f32c464fe)
+
 
 Problem 173
 
@@ -2403,6 +2466,7 @@ Make it harder? Evaluate at least three different reasons.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/173?email=kinshukram@gmail.com&token=cb5574396037a5adfbb084cb832034c4cf1fde6a70e1cb83c859435b65950de529d5d217ad4f7ba3d4342d0edcac10c21f1eedb54da717a10320056818fb610ccd6ca1966a8bf7f158)
 
+
 Problem 174
 
 ```
@@ -2416,6 +2480,7 @@ Make it harder? The drop occurred over a two week period.
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/174?email=kinshukram@gmail.com&token=3f5e944acf2ea0b627ba3a343f874e34b2bd1afed9552377f155be1ce224fb222bcb13c21069cd0a6aad14b7a08525fa0bb176ba2c748b23f58ab111918fe64cc8aeaad92447f1ec09)
+
 
 Problem 175
 
@@ -2432,6 +2497,7 @@ Thanks for being a subscriber, and have a great day!
 ------
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/175?email=kinshukram@gmail.com&token=b2e3cc0025b232cb1463e7698dbde47ad7008d3d2ba55bec52959a2c7b70c7af8e6be402f05404285e7752d1f2a818437045a7839c5b528779fa13e0f4ebeef985938114dcff500c4e)
+
 
 Problem 176
 
@@ -9919,4 +9985,12 @@ BART stands for Bay Area Rapid Transit and is the public train transportation sy
 Make it harder? Come up with at least 5 different metrics.
 ```
 
+## Daily Product Prep: How many breaths do we perform each day?
 
+Here's today's problem:
+
+```
+Estimate the number of breaths we take each day.
+
+Make it harder? Consider at least two edge cases to your base formula.
+```
