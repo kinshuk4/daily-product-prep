@@ -847,8 +847,7 @@ Make it harder? Provide four different reasons why this could have happened.
 
 [Get an in-depth solution to this problem here.](https://dailyproductprep.com/solution/61?email=kinshukram@gmail.com&token=3b3a85d348fa73c773c2614625ca85dc9b66c6aba8d5f22994cf0de48c0aa24531afe3d90856867ced58fa44c45cd94cdf54af578ecc610233705026c6f385619290d2330e9bceb6)
 
-
-Problem 62
+## Daily Product Prep: Pick any product and improve it.
 
 ```
 This problem was recently asked by Airbnb.
